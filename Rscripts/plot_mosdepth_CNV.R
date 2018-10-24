@@ -7,13 +7,10 @@ bedwindows = read.table("coverage/mosdepth.10000bp.gg.tab.gz",header=F)
 colnames(bedwindows) = c("Chr","Start","End","Depth","Group","Strain")
 #bedwindows = subset(bedwindows,bedwindows$Chr != "MT_CBS_6936") # drop MT for this
 
-bedwindows$CHR <- sub("CM002236","1",bedwindows$Chr,perl=TRUE)
-bedwindows$CHR <- sub("CM002237","2",bedwindows$Chr,perl=TRUE)
-bedwindows$CHR <- sub("CM002238","3",bedwindows$Chr,perl=TRUE)
-bedwindows$CHR <- sub("CM002239","4",bedwindows$Chr,perl=TRUE)
-bedwindows$CHR <- sub("CM002240","5",bedwindows$Chr,perl=TRUE)
-bedwindows$CHR <- sub("CM002241","6",bedwindows$Chr,perl=TRUE)
-bedwindows$CHR <- sub("CM002242","7",bedwindows$Chr,perl=TRUE)
+
+bedwindows$CHR <- strtoi(sub("CM00([0-9]+)","\\1",bedwindows$Chr,perl=TRUE))
+bedwindows$CHR <- bedwindows$CHR - 2235
+
 chrlist = 1:7
 d=bedwindows[bedwindows$CHR %in% chrlist, ]
 print(d)
@@ -74,7 +71,7 @@ for (strain in unique(d$Strain) ) {
  l = subset(d,d$Strain == strain)
  Title=sprintf("Chr coverage plot for %s",strain)
  p <- ggplot(l,
-            aes(x=pos,y=Depth,color=CHR))  +
+            aes(x=pos,y=Depth,color=factor(CHR)))  +
     scale_colour_brewer(palette = "Set2") +
     geom_point(alpha=0.9,size=1,shape=16) +
     labs(title=Title,xlab="Position",y="Normalized Read Depth") +
@@ -93,9 +90,8 @@ for (n in chrlist ) {
  l <- subset(d,d$CHR==n)
  l$bp <- l$Start
 p<-ggplot(l,
-           aes(x=bp,y=Depth,color=Strain)) +
+           aes(x=bp,y=Depth,color=factor(Strain))) +
         geom_point(alpha=0.7,size=0.75,shape=16) +
-	    scale_color_manual(values = manualColors) +
     labs(title=Title,xlab="Position",y="Normalized Read Depth") +
     scale_x_continuous(expand = c(0, 0), name="Position") +
     scale_y_continuous(name="Normalized Read Depth", expand = c(0, 0),
