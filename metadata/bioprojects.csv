@@ -1,522 +1,522 @@
 BioProject,BioProjectId,JGI_Project_Id,BioSample,Strain,Name,SRA_Run,Provider
-PRJNA250900,250900,1024413,SAMN02822290,FGSC 3834,Neurospora crassa strain:FGSC 3834 Genome sequencing,SRR3490940,DOE Joint Genome Institute
-PRJNA251247,251247,1020864,SAMN02822388,FGSC 4311,Neurospora crassa strain:FGSC 4311 Genome sequencing,SRR1798429,DOE Joint Genome Institute
-PRJNA250768,250768,1019359,SAMN02910284,FGSC 4530,Neurospora crassa strain:4530 Genome sequencing,SRR1798002,DOE Joint Genome Institute
-PRJNA249746,249746,1026441,SAMN02821403,FGSC 19,Neurospora crassa strain:FGSC 19 Genome sequencing,SRR1587793,DOE Joint Genome Institute
-PRJNA249964,249964,1026648,SAMN02821892,FGSC 7289,Neurospora crassa strain:FGSC 7289 Genome sequencing,SRR1587460,DOE Joint Genome Institute
-PRJNA250143,250143,1033359,SAMN02822224,FGSC 4594,Neurospora crassa strain:FGSC 4594 Genome sequencing,SRR1800256,DOE Joint Genome Institute
-PRJNA249729,249729,1026477,SAMN02821607,FGSC 1212,Neurospora crassa strain:FGSC 1212 Genome sequencing,SRR1587829,DOE Joint Genome Institute
-PRJNA250433,250433,1017693,SAMN02821414,FGSC #3174,Neurospora crassa strain:FGSC #3174 Genome sequencing,SRR1588070,DOE Joint Genome Institute
-PRJNA250901,250901,1024245,SAMN02822263,FGSC 385,Neurospora crassa strain:FGSC 385 Genome sequencing,SRR1799224,DOE Joint Genome Institute
-PRJNA249968,249968,1033284,SAMN02822042,FGSC 3646,Neurospora crassa strain:FGSC 3646 Genome sequencing,SRR1800223,DOE Joint Genome Institute
-PRJNA250323,250323,1035591,SAMN02910402,FGSC 1516,Neurospora crassa strain:1516 Genome sequencing,SRR4069246,DOE Joint Genome Institute
-PRJNA250727,250727,1024482,SAMN02822250,FGSC 10770,Neurospora crassa strain:FGSC 10770 Genome sequencing,SRR3492083,DOE Joint Genome Institute
-PRJNA250647,250647,1019209,SAMN02910328,FGSC 931,Neurospora crassa strain:931 Genome sequencing,SRR1797906,DOE Joint Genome Institute
-PRJNA337381,337381,401811,SAMN05518737,FGSC 96,Neurospora crassa 96 genome sequencing,SRR4025963,DOE Joint Genome Institute
-PRJNA251128,251128,1020756,SAMN02821482,FGSC 1077,Neurospora crassa strain:FGSC 1077 Genome sequencing,SRR1798241,DOE Joint Genome Institute
-PRJNA250751,250751,1019341,SAMN02910394,FGSC 3925,Neurospora crassa strain:3925 Genome sequencing,SRR1797996,DOE Joint Genome Institute
-PRJNA250764,250764,1019347,SAMN02910338,FGSC 4010,Neurospora crassa strain:4010 Genome sequencing,SRR1797998,DOE Joint Genome Institute
-PRJNA249115,249115,1035555,SAMN02910320,FGSC 6435,Neurospora crassa strain:6435 Genome sequencing,SRR4069221,DOE Joint Genome Institute
-PRJNA249887,249887,1033233,SAMN02821974,FGSC 2736,Neurospora crassa strain:FGSC 2736 Genome sequencing,SRR1800182,DOE Joint Genome Institute
-PRJNA251249,251249,1020867,SAMN02822390,FGSC 4312,Neurospora crassa strain:FGSC 4312 Genome sequencing,SRR1798426,DOE Joint Genome Institute
-PRJNA250057,250057,1033299,SAMN02821711,FGSC 3905,Neurospora crassa strain:FGSC 3905 Genome sequencing,SRR1800231,DOE Joint Genome Institute
-PRJNA250783,250783,1024293,SAMN02822266,FGSC 1458,Neurospora crassa strain:FGSC 1458 Genome sequencing,SRR1799241,DOE Joint Genome Institute
+PRJNA250900,250900,1024413,SAMN02822290,FGSC_3834,Neurospora crassa strain:FGSC 3834 Genome sequencing,SRR3490940,DOE Joint Genome Institute
+PRJNA251247,251247,1020864,SAMN02822388,FGSC_4311,Neurospora crassa strain:FGSC 4311 Genome sequencing,SRR1798429,DOE Joint Genome Institute
+PRJNA250768,250768,1019359,SAMN02910284,FGSC_4530,Neurospora crassa strain:4530 Genome sequencing,SRR1798002,DOE Joint Genome Institute
+PRJNA249746,249746,1026441,SAMN02821403,FGSC_19,Neurospora crassa strain:FGSC 19 Genome sequencing,SRR1587793,DOE Joint Genome Institute
+PRJNA249964,249964,1026648,SAMN02821892,FGSC_7289,Neurospora crassa strain:FGSC 7289 Genome sequencing,SRR1587460,DOE Joint Genome Institute
+PRJNA250143,250143,1033359,SAMN02822224,FGSC_4594,Neurospora crassa strain:FGSC 4594 Genome sequencing,SRR1800256,DOE Joint Genome Institute
+PRJNA249729,249729,1026477,SAMN02821607,FGSC_1212,Neurospora crassa strain:FGSC 1212 Genome sequencing,SRR1587829,DOE Joint Genome Institute
+PRJNA250433,250433,1017693,SAMN02821414,FGSC_#3174,Neurospora crassa strain:FGSC #3174 Genome sequencing,SRR1588070,DOE Joint Genome Institute
+PRJNA250901,250901,1024245,SAMN02822263,FGSC_385,Neurospora crassa strain:FGSC 385 Genome sequencing,SRR1799224,DOE Joint Genome Institute
+PRJNA249968,249968,1033284,SAMN02822042,FGSC_3646,Neurospora crassa strain:FGSC 3646 Genome sequencing,SRR1800223,DOE Joint Genome Institute
+PRJNA250323,250323,1035591,SAMN02910402,FGSC_1516,Neurospora crassa strain:1516 Genome sequencing,SRR4069246,DOE Joint Genome Institute
+PRJNA250727,250727,1024482,SAMN02822250,FGSC_10770,Neurospora crassa strain:FGSC 10770 Genome sequencing,SRR3492083,DOE Joint Genome Institute
+PRJNA250647,250647,1019209,SAMN02910328,FGSC_931,Neurospora crassa strain:931 Genome sequencing,SRR1797906,DOE Joint Genome Institute
+PRJNA337381,337381,401811,SAMN05518737,FGSC_96,Neurospora crassa 96 genome sequencing,SRR4025963,DOE Joint Genome Institute
+PRJNA251128,251128,1020756,SAMN02821482,FGSC_1077,Neurospora crassa strain:FGSC 1077 Genome sequencing,SRR1798241,DOE Joint Genome Institute
+PRJNA250751,250751,1019341,SAMN02910394,FGSC_3925,Neurospora crassa strain:3925 Genome sequencing,SRR1797996,DOE Joint Genome Institute
+PRJNA250764,250764,1019347,SAMN02910338,FGSC_4010,Neurospora crassa strain:4010 Genome sequencing,SRR1797998,DOE Joint Genome Institute
+PRJNA249115,249115,1035555,SAMN02910320,FGSC_6435,Neurospora crassa strain:6435 Genome sequencing,SRR4069221,DOE Joint Genome Institute
+PRJNA249887,249887,1033233,SAMN02821974,FGSC_2736,Neurospora crassa strain:FGSC 2736 Genome sequencing,SRR1800182,DOE Joint Genome Institute
+PRJNA251249,251249,1020867,SAMN02822390,FGSC_4312,Neurospora crassa strain:FGSC 4312 Genome sequencing,SRR1798426,DOE Joint Genome Institute
+PRJNA250057,250057,1033299,SAMN02821711,FGSC_3905,Neurospora crassa strain:FGSC 3905 Genome sequencing,SRR1800231,DOE Joint Genome Institute
+PRJNA250783,250783,1024293,SAMN02822266,FGSC_1458,Neurospora crassa strain:FGSC 1458 Genome sequencing,SRR1799241,DOE Joint Genome Institute
 PRJNA335154,335154,1106675,SAMN05444588,BB.vmaTf5,Neurospora crassa BB.vmaTf5 Resequencing genome sequencing,SRR5829694,DOE Joint Genome Institute
-PRJNA265493,265493,1050944,SAMN03159361,FGSC 10328 trk-1 (not NCU06449),Neurospora crassa 10328 trk-1 (not NCU06449) Resequencing,SRR4143349,DOE Joint Genome Institute
-PRJNA251315,251315,1020954,SAMN02821949,FGSC 25015,Neurospora crassa strain:25015 Genome sequencing,SRR1798586,DOE Joint Genome Institute
-PRJNA251202,251202,1020825,SAMN02821620,FGSC 3780,Neurospora crassa strain:FGSC 3780 Genome sequencing,SRR1798392,DOE Joint Genome Institute
-PRJNA251130,251130,1020723,SAMN02821390,FGSC 492,Neurospora crassa strain:FGSC 492 Genome sequencing,SRR1798231,DOE Joint Genome Institute
-PRJNA265514,265514,1050830,SAMN03159433,FGSC 1645 mo(NM218),Neurospora crassa 1645 mo(NM218) Resequencing,SRR4151293,DOE Joint Genome Institute
-PRJNA249100,249100,1035603,SAMN02910348,FGSC 3740,Neurospora crassa strain:3740 Genome sequencing,SRR4069264,DOE Joint Genome Institute
-PRJNA265590,265590,1050857,SAMN03159455,FGSC 1662 mo(P1898),Neurospora crassa 1662 mo(P1898) Resequencing,SRR4142850,DOE Joint Genome Institute
-PRJNA251138,251138,1020771,SAMN02821648,FGSC 1373,Neurospora crassa strain:FGSC 1373 Genome sequencing,SRR1798278,DOE Joint Genome Institute
-PRJNA249954,249954,1026663,SAMN02822050,FGSC 7515,Neurospora crassa strain:FGSC 7515 Genome sequencing,SRR4125628,DOE Joint Genome Institute
-PRJNA251255,251255,1020900,SAMN02822081,FGSC 10987,Neurospora crassa strain:10987 Genome sequencing,SRR1798443,DOE Joint Genome Institute
-PRJNA249971,249971,1033278,SAMN02821667,FGSC 3644,Neurospora crassa strain:FGSC 3644 Genome sequencing,SRR1800219,DOE Joint Genome Institute
-PRJNA250213,250213,1033407,SAMN02822342,FGSC 11999,Neurospora crassa strain:FGSC 11999 Genome sequencing,SRR1800275,DOE Joint Genome Institute
-PRJNA256792,256792,1035552,SAMN02946272,FGSC 6401,Neurospora crassa strain:6401 Genome sequencing,SRR4069230,DOE Joint Genome Institute
-PRJNA250131,250131,1033368,SAMN02821968,FGSC 4597,Neurospora crassa strain:FGSC 4597 Genome sequencing,SRR1800261,DOE Joint Genome Institute
-PRJNA249967,249967,1026468,SAMN02822186,FGSC 690,Neurospora crassa strain:FGSC 690 Genome sequencing,SRR1587821,DOE Joint Genome Institute
-PRJNA249730,249730,1026504,SAMN02821580,FGSC 1666,Neurospora crassa strain:FGSC 1666 Genome sequencing,SRR1587846,DOE Joint Genome Institute
-PRJNA250207,250207,1033410,SAMN02822239,FGSC 13495,Neurospora crassa strain:FGSC 13495 Genome sequencing,SRR1800276,DOE Joint Genome Institute
-PRJNA250699,250699,1019269,SAMN02910332,FGSC 2239,Neurospora crassa strain:2239 Genome sequencing,SRR1797934,DOE Joint Genome Institute
-PRJNA249933,249933,1026627,SAMN02822183,FGSC 4218,Neurospora crassa strain:FGSC 4218 Genome sequencing,SRR1587452,DOE Joint Genome Institute
-PRJNA249806,249806,1033167,SAMN02822018,FGSC 215,Neurospora crassa strain:FGSC 215 Genome sequencing,SRR1800151,DOE Joint Genome Institute
-PRJNA251127,251127,1020735,SAMN02822372,FGSC 575,Neurospora crassa strain:FGSC 575 Genome sequencing,SRR1798235,DOE Joint Genome Institute
-PRJNA265574,265574,1050836,SAMN03159503,FGSC 1647 mo(D309),Neurospora crassa 1647 mo(D309) Resequencing,SRR4142836,DOE Joint Genome Institute
-PRJNA250222,250222,1033419,SAMN02821477,FGSC 14201,Neurospora crassa strain:FGSC 14201 Genome sequencing,SRR1800279,DOE Joint Genome Institute
-PRJNA249803,249803,1026555,SAMN02822039,FGSC 2737,Neurospora crassa strain:FGSC 2737 Genome sequencing,SRR1587871,DOE Joint Genome Institute
-PRJNA249969,249969,1033281,SAMN02821675,FGSC 3645,Neurospora crassa strain:FGSC 3645 Genome sequencing,SRR1800222,DOE Joint Genome Institute
-PRJNA250324,250324,1035525,SAMN02910316,FGSC 2270,Neurospora crassa strain:2270 Genome sequencing,SRR4063862,DOE Joint Genome Institute
-PRJNA249869,249869,1033209,SAMN02822212,FGSC 1884,Neurospora crassa strain:FGSC 1884 Genome sequencing,SRR1800168,DOE Joint Genome Institute
-PRJNA249950,249950,1026666,SAMN02821665,FGSC 7516,Neurospora crassa strain:FGSC 7516 Genome sequencing,SRR1587465,DOE Joint Genome Institute
-PRJNA249825,249825,1033185,SAMN02821740,FGSC 1377,Neurospora crassa strain:FGSC 1377 Genome sequencing,SRR1800157,DOE Joint Genome Institute
-PRJNA250716,250716,1019311,SAMN02910393,FGSC 3469,Neurospora crassa strain:3469 Genome sequencing,SRR1797987,DOE Joint Genome Institute
-PRJNA250945,250945,1024434,SAMN02822361,FGSC 8201,Neurospora crassa strain:FGSC 8201 Genome sequencing,SRR3490983,DOE Joint Genome Institute
-PRJNA250745,250745,1024278,SAMN02821525,FGSC 1236,Neurospora crassa strain:FGSC 1236 Genome sequencing,SRR1799238,DOE Joint Genome Institute
-PRJNA250637,250637,1019227,SAMN02910326,FGSC 1021,Neurospora crassa strain:1021 Genome sequencing,SRR1798022,DOE Joint Genome Institute
-PRJNA249893,249893,1033239,SAMN02821739,FGSC 2962,Neurospora crassa strain:FGSC 2962 Genome sequencing,SRR1800184,DOE Joint Genome Institute
-PRJNA249098,249098,1035531,SAMN02910277,FGSC 2737,Neurospora crassa strain:2737 Genome sequencing,SRR4064253,DOE Joint Genome Institute
-PRJNA250750,250750,1019338,SAMN02910395,FGSC 3923,Neurospora crassa strain:3923 Genome sequencing,SRR1587659,DOE Joint Genome Institute
-PRJNA250818,250818,1019398,SAMN02910306,FGSC 8287,Neurospora crassa strain:8287 Genome sequencing,SRR1798053,DOE Joint Genome Institute
-PRJNA249946,249946,1026660,SAMN02821999,FGSC 7514,Neurospora crassa strain:FGSC 7514 Genome sequencing,SRR1587464,DOE Joint Genome Institute
-PRJNA250902,250902,1024416,SAMN02822360,FGSC 4484,Neurospora crassa strain:FGSC 4484 Genome sequencing,SRR3490961,DOE Joint Genome Institute
-PRJNA250228,250228,1033431,SAMN02821786,FGSC 18900,Neurospora crassa strain:FGSC 18900 Genome sequencing,SRR1800283,DOE Joint Genome Institute
-PRJNA250709,250709,1019305,SAMN02910260,FGSC 3307,Neurospora crassa strain:3307 Genome sequencing,SRR1797984,DOE Joint Genome Institute
-PRJNA250034,250034,1026471,SAMN02822210,FGSC 939,Neurospora crassa strain:FGSC 939 Genome sequencing,SRR1587824,DOE Joint Genome Institute
-PRJNA251257,251257,1020897,SAMN02821473,FGSC 10986,Neurospora crassa strain:10986 Genome sequencing,SRR4061910,DOE Joint Genome Institute
-PRJNA250811,250811,1019392,SAMN02910387,FGSC 7766,Neurospora crassa strain:7766 Genome sequencing,SRR1798052,DOE Joint Genome Institute
-PRJNA265606,265606,1050875,SAMN03159412,FGSC 1676 mo(NM201f),Neurospora crassa 1676 mo(NM201f) Resequencing,SRR4142855,DOE Joint Genome Institute
-PRJNA251067,251067,1020699,SAMN02821515,FGSC 101,Neurospora crassa strain:FGSC 101 Genome sequencing,SRR1798224,DOE Joint Genome Institute
-PRJNA251201,251201,1020780,SAMN02821439,FGSC 1378,Neurospora crassa strain:FGSC 1378 Genome sequencing,SRR1798280,DOE Joint Genome Institute
-PRJNA250782,250782,1024317,SAMN02822278,FGSC 1586,Neurospora crassa strain:FGSC 1586 Genome sequencing,SRR1799248,DOE Joint Genome Institute
-PRJNA250139,250139,1033377,SAMN02821432,FGSC 4600,Neurospora crassa strain:FGSC 4600 Genome sequencing,SRR1800266,DOE Joint Genome Institute
-PRJNA250793,250793,1024338,SAMN02821635,FGSC 1595,Neurospora crassa strain:FGSC 1595 Genome sequencing,SRR1799255,DOE Joint Genome Institute
-PRJNA265573,265573,1050839,SAMN03159305,FGSC 1650 mo(NM211),Neurospora crassa 1650 mo(NM211) Resequencing,SRR4142848,DOE Joint Genome Institute
-PRJNA249807,249807,1026561,SAMN02821914,FGSC 2763,Neurospora crassa strain:FGSC 2763 Genome sequencing,SRR1587934,DOE Joint Genome Institute
-PRJNA249808,249808,1026564,SAMN02821736,FGSC 3182,Neurospora crassa strain:FGSC 3182 Genome sequencing,SRR1587935,DOE Joint Genome Institute
-PRJNA250747,250747,1024266,SAMN02821834,FGSC 1228,Neurospora crassa strain:FGSC 1228 Genome sequencing,SRR1799234,DOE Joint Genome Institute
-PRJNA251288,251288,1020918,SAMN02821547,FGSC 25003,Neurospora crassa strain:25003 Genome sequencing,SRR1798520,DOE Joint Genome Institute
-PRJNA251289,251289,1020915,SAMN02822115,FGSC 25002,Neurospora crassa strain:25002 Genome sequencing,SRR1798523,DOE Joint Genome Institute
-PRJNA251253,251253,1020879,SAMN02821647,FGSC 4316,Neurospora crassa strain:FGSC 4316 Genome sequencing,SRR1798438,DOE Joint Genome Institute
-PRJNA250137,250137,1033374,SAMN02822333,FGSC 4599,Neurospora crassa strain:FGSC 4599 Genome sequencing,SRR1800263,DOE Joint Genome Institute
-PRJNA249818,249818,1033176,SAMN02821447,FGSC 422,Neurospora crassa strain:FGSC 422 Genome sequencing,SRR1800154,DOE Joint Genome Institute
-PRJNA249974,249974,1033260,SAMN02821991,FGSC 3241,Neurospora crassa strain:FGSC 3241 Genome sequencing,SRR1800191,DOE Joint Genome Institute
-PRJNA265497,265497,1050926,SAMN03159375,FGSC 10322 grape (4-9)t,Neurospora crassa 10322 grape (4-9)t Resequencing,SRR4143350,DOE Joint Genome Institute
-PRJNA250841,250841,1024374,SAMN02822277,FGSC 2270,Neurospora crassa strain:FGSC 2270 Genome sequencing,SRR1799418,DOE Joint Genome Institute
-PRJNA249812,249812,1033173,SAMN02822197,FGSC 420,Neurospora crassa strain:FGSC 420 Genome sequencing,SRR1800150,DOE Joint Genome Institute
-PRJNA256750,256750,1026465,SAMN02946527,FGSC 689,Neurospora crassa strain:FGSC 689 Genome sequencing,SRR1587820,DOE Joint Genome Institute
-PRJNA337452,337452,401801,SAMN05518729,FGSC 7022,Neurospora crassa 7022 genome sequencing,SRR4025939;SRR4025940,DOE Joint Genome Institute
-PRJNA249097,249097,1035588,SAMN02910410,FGSC 290,Neurospora crassa strain:290 Genome sequencing,SRR4069222,DOE Joint Genome Institute
-PRJNA250774,250774,1024308,SAMN02822265,FGSC 1582,Neurospora crassa strain:FGSC 1582 Genome sequencing,SRR1799246,DOE Joint Genome Institute
-PRJNA249742,249742,1026498,SAMN02821732,FGSC 1664,Neurospora crassa strain:FGSC 1664 Genome sequencing,SRR1587841,DOE Joint Genome Institute
-PRJNA250786,250786,1024332,SAMN02821465,FGSC 1592,Neurospora crassa strain:FGSC 1592 Genome sequencing,SRR1799254,DOE Joint Genome Institute
-PRJNA251144,251144,1020774,SAMN02821902,FGSC 1374,Neurospora crassa strain:FGSC 1374 Genome sequencing,SRR1798277,DOE Joint Genome Institute
-PRJNA250795,250795,1024305,SAMN02822016,FGSC 1581,Neurospora crassa strain:FGSC 1581 Genome sequencing,SRR1799245,DOE Joint Genome Institute
-PRJNA251306,251306,1020942,SAMN02821663,FGSC 25011,Neurospora crassa strain:25011 Genome sequencing,SRR1798573,DOE Joint Genome Institute
-PRJNA265490,265490,1050920,SAMN03159419,FGSC 10320 grape (10-15),Neurospora crassa 10320 grape (10-15) Resequencing,SRR4143346,DOE Joint Genome Institute
-PRJNA250697,250697,1019296,SAMN02910336,FGSC 2989,Neurospora crassa strain:2989 Genome sequencing,SRR1797983,DOE Joint Genome Institute
-PRJNA251250,251250,1020708,SAMN02821791,FGSC 239,Neurospora crassa strain:FGSC 239 Genome sequencing,SRR1798227,DOE Joint Genome Institute
-PRJNA250148,250148,1033401,SAMN02822222,FGSC 10756,Neurospora crassa strain:FGSC 10756 Genome sequencing,SRR1800273,DOE Joint Genome Institute
-PRJNA251299,251299,1020930,SAMN02821793,FGSC 25007,Neurospora crassa strain:25007 Genome sequencing,SRR1798558,DOE Joint Genome Institute
-PRJNA250888,250888,1024236,SAMN02821568,FGSC 351,Neurospora crassa strain:FGSC 351 Genome sequencing,SRR1799221,DOE Joint Genome Institute
-PRJNA337457,337457,401812,SAMN05519136,FGSC 49,Neurospora crassa 49 genome sequencing,SRR4025959;SRR4025960,DOE Joint Genome Institute
-PRJNA250951,250951,1024464,SAMN02821517,FGSC 9427,Neurospora crassa strain:FGSC 9427 Genome sequencing,SRR3491015,DOE Joint Genome Institute
-PRJNA249800,249800,1026537,SAMN02821582,FGSC 2688,Neurospora crassa strain:FGSC 2688 Genome sequencing,SRR1587862,DOE Joint Genome Institute
-PRJNA251147,251147,1020777,SAMN02822399,FGSC 1376,Neurospora crassa strain:FGSC 1376 Genome sequencing,SRR1798279,DOE Joint Genome Institute
-PRJNA251241,251241,1020855,SAMN02822079,FGSC 4308,Neurospora crassa strain:FGSC 4308 Genome sequencing,SRR1798419,DOE Joint Genome Institute
-PRJNA250644,250644,1019239,SAMN02946560,FGSC 1524,Neurospora crassa strain:1524 Genome sequencing,SRR1797924,DOE Joint Genome Institute
-PRJNA249189,249189,1035615,SAMN02910346,FGSC 8252,Neurospora crassa strain:8252 Genome sequencing,SRR4069219,DOE Joint Genome Institute
-PRJNA250027,250027,1026693,SAMN02822238,FGSC 7527,Neurospora crassa strain:FGSC 7527 Genome sequencing,SRR1587477,DOE Joint Genome Institute
-PRJNA249734,249734,1026510,SAMN02821579,FGSC 1781,Neurospora crassa strain:FGSC 1781 Genome sequencing,SRR1587848,DOE Joint Genome Institute
-PRJNA249860,249860,1026453,SAMN02821576,FGSC 392,Neurospora crassa strain:FGSC 392 Genome sequencing,SRR1587813,DOE Joint Genome Institute
-PRJNA265624,265624,1050905,SAMN03159372,FGSC 4440 ufa(P73B118),Neurospora crassa 4440 ufa(P73B118) Resequencing,SRR4143347,DOE Joint Genome Institute
-PRJNA250646,250646,1019212,SAMN02910391,FGSC 1002,Neurospora crassa strain:1002 Genome sequencing,SRR1797917,DOE Joint Genome Institute
-PRJNA250847,250847,1024386,SAMN02821655,FGSC 2342,Neurospora crassa strain:FGSC 2342 Genome sequencing,SRR1799267,DOE Joint Genome Institute
-PRJNA265604,265604,1050881,SAMN03159360,FGSC 4326 dgr(BE52),Neurospora crassa 4326 dgr(BE52) Resequencing,SRR4143334,DOE Joint Genome Institute
-PRJNA250663,250663,1019251,SAMN02910309,FGSC 1748,Neurospora crassa strain:1748 Genome sequencing,SRR1587657,DOE Joint Genome Institute
-PRJNA250717,250717,1019323,SAMN02910283,FGSC 3538,Neurospora crassa strain:3538 Genome sequencing,SRR1797991,DOE Joint Genome Institute
-PRJNA249892,249892,1033236,SAMN02821623,FGSC 6016,Neurospora crassa strain:FGSC 6016 Genome sequencing,SRR1800183,DOE Joint Genome Institute
-PRJNA251206,251206,1020834,SAMN02822087,FGSC 3785,Neurospora crassa strain:FGSC 3785 Genome sequencing,SRR1798396,DOE Joint Genome Institute
-PRJNA249975,249975,1033263,SAMN02821989,FGSC 3243,Neurospora crassa strain:FGSC 3243 Genome sequencing,SRR1800210,DOE Joint Genome Institute
-PRJNA250766,250766,1019344,SAMN02910313,FGSC 3926,Neurospora crassa strain:3926 Genome sequencing,SRR1797997,DOE Joint Genome Institute
-PRJNA249802,249802,1026516,SAMN02822010,FGSC 2296,Neurospora crassa strain:FGSC 2296 Genome sequencing,SRR1587853,DOE Joint Genome Institute
-PRJNA250769,250769,1019377,SAMN02910288,FGSC 5859,Neurospora crassa strain:5859 Genome sequencing,SRR1798019,DOE Joint Genome Institute
-PRJNA250664,250664,1019254,SAMN02910329,FGSC 1749,Neurospora crassa strain:1749 Genome sequencing,SRR1797929,DOE Joint Genome Institute
-PRJNA249793,249793,1026534,SAMN02822195,FGSC 2462,Neurospora crassa strain:FGSC 2462 Genome sequencing,SRR1587861,DOE Joint Genome Institute
-PRJNA249970,249970,1033254,SAMN02822310,FGSC 3239,Neurospora crassa strain:FGSC 3239 Genome sequencing,SRR1800189,DOE Joint Genome Institute
-PRJNA249880,249880,1033227,SAMN02821741,FGSC 2579,Neurospora crassa strain:FGSC 2579 Genome sequencing,SRR1800176,DOE Joint Genome Institute
-PRJNA250651,250651,1019245,SAMN02910324,FGSC 1673,Neurospora crassa strain:1673 Genome sequencing,SRR1797927,DOE Joint Genome Institute
-PRJNA250714,250714,1019326,SAMN02910366,FGSC 3600,Neurospora crassa strain:3600 Genome sequencing,SRR1797992,DOE Joint Genome Institute
-PRJNA337125,337125,401759,SAMN05519209,FGSC 305,Neurospora crassa 305 genome sequencing,SRR4024766,DOE Joint Genome Institute
-PRJNA251072,251072,1020690,SAMN02821721,FGSC 49,Neurospora crassa strain:FGSC 49 Genome sequencing,SRR1798212,DOE Joint Genome Institute
-PRJNA251305,251305,1020933,SAMN02822389,FGSC 25008,Neurospora crassa strain:25008 Genome sequencing,SRR1798559,DOE Joint Genome Institute
-PRJNA249855,249855,1026582,SAMN02821450,FGSC 3424,Neurospora crassa strain:FGSC 3424 Genome sequencing,SRR1587944,DOE Joint Genome Institute
-PRJNA249972,249972,1033257,SAMN02821927,FGSC 3240,Neurospora crassa strain:FGSC 3240 Genome sequencing,SRR1800190,DOE Joint Genome Institute
-PRJNA250129,250129,1033371,SAMN02821970,FGSC 4598,Neurospora crassa strain:FGSC 4598 Genome sequencing,SRR1800262,DOE Joint Genome Institute
-PRJNA251073,251073,1020687,SAMN02822373,FGSC 14,Neurospora crassa strain:FGSC 14 Genome sequencing,SRR1798211,DOE Joint Genome Institute
-PRJNA265593,265593,1050848,SAMN03159430,FGSC 1659 mo(D306),Neurospora crassa 1659 mo(D306) Resequencing,SRR4151349,DOE Joint Genome Institute
-PRJNA250753,250753,1019362,SAMN02910258,FGSC 4647,Neurospora crassa strain:4647 Genome sequencing,SRR1798006,DOE Joint Genome Institute
-PRJNA250816,250816,1019404,SAMN02910388,FGSC 8969,Neurospora crassa strain:8969 Genome sequencing,SRR1798055,DOE Joint Genome Institute
-PRJNA250696,250696,1019272,SAMN02910362,FGSC 2329,Neurospora crassa strain:2329 Genome sequencing,SRR1797935,DOE Joint Genome Institute
-PRJNA249794,249794,1026540,SAMN02822165,FGSC 2689,Neurospora crassa strain:FGSC 2689 Genome sequencing,SRR1587863,DOE Joint Genome Institute
-PRJNA250842,250842,1024398,SAMN02821864,FGSC 2761,Neurospora crassa strain:FGSC 2761 Genome sequencing,SRR1799270,DOE Joint Genome Institute
-PRJNA250905,250905,1024251,SAMN02821395,FGSC 532,Neurospora crassa strain:FGSC 532 Genome sequencing,SRR1799226,DOE Joint Genome Institute
-PRJNA249790,249790,1026549,SAMN02821621,FGSC 2696,Neurospora crassa strain:FGSC 2696 Genome sequencing,SRR1587869,DOE Joint Genome Institute
-PRJNA249199,249199,1035612,SAMN02910372,FGSC 6659,Neurospora crassa strain:6659 Genome sequencing,SRR4069263,DOE Joint Genome Institute
-PRJNA250838,250838,1024368,SAMN02822057,FGSC 2174,Neurospora crassa strain:FGSC 2174 Genome sequencing,SRR1799263,DOE Joint Genome Institute
-PRJNA250053,250053,1033305,SAMN02821544,FGSC 3963,Neurospora crassa strain:FGSC 3963 Genome sequencing,SRR1800233,DOE Joint Genome Institute
-PRJNA251254,251254,1020894,SAMN02821523,FGSC 10985,Neurospora crassa strain:10985 Genome sequencing,SRR1798442,DOE Joint Genome Institute
-PRJNA250767,250767,1019368,SAMN02910285,FGSC 5138,Neurospora crassa strain:5138 Genome sequencing,SRR1798017,DOE Joint Genome Institute
-PRJNA250950,250950,1024497,SAMN02821437,FGSC T96,Neurospora crassa strain:FGSC T96 Genome sequencing,SRR3492085,DOE Joint Genome Institute
-PRJNA251199,251199,1020810,SAMN02821943,FGSC 3771,Neurospora crassa strain:FGSC 3771 Genome sequencing,SRR1798372,DOE Joint Genome Institute
-PRJNA250704,250704,1019302,SAMN02910364,FGSC 3289,Neurospora crassa strain:3289 Genome sequencing,SRR1797985,DOE Joint Genome Institute
-PRJNA250954,250954,1024263,SAMN02822294,FGSC 987,Neurospora crassa strain:FGSC 987 Genome sequencing,SRR1799233,DOE Joint Genome Institute
-PRJNA251251,251251,1020816,SAMN02821449,FGSC 3777,Neurospora crassa strain:FGSC 3777 Genome sequencing,SRR1798381,DOE Joint Genome Institute
-PRJNA250949,250949,1024260,SAMN02822279,FGSC 853,Neurospora crassa strain:FGSC 853 Genome sequencing,SRR1799232,DOE Joint Genome Institute
-PRJNA249732,249732,1026483,SAMN02822173,FGSC 1227,Neurospora crassa strain:FGSC 1227 Genome sequencing,SRR1587832,DOE Joint Genome Institute
-PRJNA250778,250778,1024281,SAMN02822246,FGSC 1237,Neurospora crassa strain:FGSC 1237 Genome sequencing,SRR1799239,DOE Joint Genome Institute
-PRJNA250652,250652,1019215,SAMN02910452,FGSC 1003,Neurospora crassa strain:1003 Genome sequencing,SRR1797916,DOE Joint Genome Institute
-PRJNA249953,249953,1026456,SAMN02822185,FGSC 633,Neurospora crassa strain:FGSC 633 Genome sequencing,SRR1587815,DOE Joint Genome Institute
-PRJNA250144,250144,1033389,SAMN02822045,FGSC 5167,Neurospora crassa strain:FGSC 5167 Genome sequencing,SRR1800270,DOE Joint Genome Institute
-PRJNA265518,265518,1050818,SAMN03159333,FGSC 1639 mo(NM216s),Neurospora crassa 1639 mo(NM216s) Resequencing,SRR4142837,DOE Joint Genome Institute
-PRJNA249876,249876,1033206,SAMN02821625,FGSC 1667,Neurospora crassa strain:FGSC 1667 Genome sequencing,SRR1800166,DOE Joint Genome Institute
-PRJNA265608,265608,1050869,SAMN03159369,FGSC 1672 mo(NM226),Neurospora crassa 1672 mo(NM226) Resequencing,SRR4142851,DOE Joint Genome Institute
-PRJNA251137,251137,1020741,SAMN02821608,FGSC 793,Neurospora crassa strain:FGSC 793 Genome sequencing,SRR1798237,DOE Joint Genome Institute
-PRJNA337453,337453,401798,SAMN05519214,FGSC 1211,Neurospora crassa 1211 genome sequencing,SRR4025956;SRR4025957;SRR4025958,DOE Joint Genome Institute
-PRJNA249737,249737,1026486,SAMN02821875,FGSC 1528,Neurospora crassa strain:FGSC 1528 Genome sequencing,SRR1587833,DOE Joint Genome Institute
-PRJNA249741,249741,1026492,SAMN02821816,FGSC 1531,Neurospora crassa strain:FGSC 1531 Genome sequencing,SRR1587836,DOE Joint Genome Institute
-PRJNA249116,249116,1035558,SAMN02910412,FGSC 6436,Neurospora crassa strain:6436 Genome sequencing,SRR4069234,DOE Joint Genome Institute
-PRJNA249101,249101,1035534,SAMN02910438,FGSC 4272,Neurospora crassa strain:4272 Genome sequencing,SRR4064271,DOE Joint Genome Institute
-PRJNA251125,251125,1020729,SAMN02822328,FGSC 506,Neurospora crassa strain:FGSC 506 Genome sequencing,SRR1798233,DOE Joint Genome Institute
-PRJNA265504,265504,1050938,SAMN03159317,FGSC 10326 N. crassa,Neurospora crassa 10326 N. crassa Resequencing,SRR4143336,DOE Joint Genome Institute
-PRJNA250335,250335,1035594,SAMN02910405,FGSC 2530,Neurospora crassa strain:2530 Genome sequencing,SRR4069225,DOE Joint Genome Institute
-PRJNA249846,249846,1026591,SAMN02821945,FGSC 3456,Neurospora crassa strain:FGSC 3456 Genome sequencing,SRR1587948,DOE Joint Genome Institute
-PRJNA249731,249731,1026507,SAMN02822175,FGSC 1780,Neurospora crassa strain:FGSC 1780 Genome sequencing,SRR1587847,DOE Joint Genome Institute
-PRJNA250061,250061,1033317,SAMN02821542,FGSC 4183,Neurospora crassa strain:FGSC 4183 Genome sequencing,SRR1800238,DOE Joint Genome Institute
-PRJNA249962,249962,1026654,SAMN02821922,FGSC 7512,Neurospora crassa strain:FGSC 7512 Genome sequencing,SRR1587462,DOE Joint Genome Institute
-PRJNA337123,337123,401814,SAMN05518734,FGSC 1363,Neurospora crassa 1363 genome sequencing,SRR4025952,DOE Joint Genome Institute
-PRJNA249885,249885,1033221,SAMN02822184,FGSC 2474,Neurospora crassa strain:FGSC 2474 Genome sequencing,SRR1800172,DOE Joint Genome Institute
-PRJNA249854,249854,1026579,SAMN02822048,FGSC 3367,Neurospora crassa strain:FGSC 3367 Genome sequencing,SRR1587943,DOE Joint Genome Institute
-PRJNA250654,250654,1019263,SAMN02910259,FGSC 2175,Neurospora crassa strain:2175 Genome sequencing,SRR1797932,DOE Joint Genome Institute
-PRJNA265591,265591,1050854,SAMN03159314,FGSC 1661 mo(NM359),Neurospora crassa 1661 mo(NM359) Resequencing,SRR4142842,DOE Joint Genome Institute
-PRJNA249965,249965,1026669,SAMN02821996,FGSC 7518,Neurospora crassa strain:FGSC 7518 Genome sequencing,SRR1587466,DOE Joint Genome Institute
-PRJNA250330,250330,1035516,SAMN02910454,FGSC 2218,Neurospora crassa strain:2218 Genome sequencing,SRR4063855,DOE Joint Genome Institute
-PRJNA251143,251143,1020747,SAMN02821391,FGSC 981,Neurospora crassa strain:FGSC 981 Genome sequencing,SRR1798238,DOE Joint Genome Institute
-PRJNA249955,249955,1026687,SAMN02822228,FGSC 7524,Neurospora crassa strain:FGSC 7524 Genome sequencing,SRR1587473,DOE Joint Genome Institute
-PRJNA249122,249122,1035564,SAMN02910440,FGSC 6442,Neurospora crassa strain:6442 Genome sequencing,SRR4069237,DOE Joint Genome Institute
-PRJNA251312,251312,1020948,SAMN02821661,FGSC 25013,Neurospora crassa strain:25013 Genome sequencing,SRR1798583,DOE Joint Genome Institute
-PRJNA265622,265622,1050914,SAMN03159435,FGSC 7529 pen(JL261),Neurospora crassa 7529 pen(JL261) Resequencing,SRR4143343,DOE Joint Genome Institute
-PRJNA256747,256747,1024407,SAMN02946458,FGSC 3304,Neurospora crassa strain:FGSC 3304 Genome sequencing,SRR1799272,DOE Joint Genome Institute
-PRJNA250840,250840,1024233,SAMN02822330,FGSC 262,Neurospora crassa strain:FGSC 262 Genome sequencing,SRR1799220,DOE Joint Genome Institute
-PRJNA249890,249890,1033248,SAMN02822054,FGSC 3235,Neurospora crassa strain:FGSC 3235 Genome sequencing,SRR1800187,DOE Joint Genome Institute
+PRJNA265493,265493,1050944,SAMN03159361,FGSC_10328_trk-1_(not_NCU06449),Neurospora crassa 10328 trk-1 (not NCU06449) Resequencing,SRR4143349,DOE Joint Genome Institute
+PRJNA251315,251315,1020954,SAMN02821949,FGSC_25015,Neurospora crassa strain:25015 Genome sequencing,SRR1798586,DOE Joint Genome Institute
+PRJNA251202,251202,1020825,SAMN02821620,FGSC_3780,Neurospora crassa strain:FGSC 3780 Genome sequencing,SRR1798392,DOE Joint Genome Institute
+PRJNA251130,251130,1020723,SAMN02821390,FGSC_492,Neurospora crassa strain:FGSC 492 Genome sequencing,SRR1798231,DOE Joint Genome Institute
+PRJNA265514,265514,1050830,SAMN03159433,FGSC_1645_mo(NM218),Neurospora crassa 1645 mo(NM218) Resequencing,SRR4151293,DOE Joint Genome Institute
+PRJNA249100,249100,1035603,SAMN02910348,FGSC_3740,Neurospora crassa strain:3740 Genome sequencing,SRR4069264,DOE Joint Genome Institute
+PRJNA265590,265590,1050857,SAMN03159455,FGSC_1662_mo(P1898),Neurospora crassa 1662 mo(P1898) Resequencing,SRR4142850,DOE Joint Genome Institute
+PRJNA251138,251138,1020771,SAMN02821648,FGSC_1373,Neurospora crassa strain:FGSC 1373 Genome sequencing,SRR1798278,DOE Joint Genome Institute
+PRJNA249954,249954,1026663,SAMN02822050,FGSC_7515,Neurospora crassa strain:FGSC 7515 Genome sequencing,SRR4125628,DOE Joint Genome Institute
+PRJNA251255,251255,1020900,SAMN02822081,FGSC_10987,Neurospora crassa strain:10987 Genome sequencing,SRR1798443,DOE Joint Genome Institute
+PRJNA249971,249971,1033278,SAMN02821667,FGSC_3644,Neurospora crassa strain:FGSC 3644 Genome sequencing,SRR1800219,DOE Joint Genome Institute
+PRJNA250213,250213,1033407,SAMN02822342,FGSC_11999,Neurospora crassa strain:FGSC 11999 Genome sequencing,SRR1800275,DOE Joint Genome Institute
+PRJNA256792,256792,1035552,SAMN02946272,FGSC_6401,Neurospora crassa strain:6401 Genome sequencing,SRR4069230,DOE Joint Genome Institute
+PRJNA250131,250131,1033368,SAMN02821968,FGSC_4597,Neurospora crassa strain:FGSC 4597 Genome sequencing,SRR1800261,DOE Joint Genome Institute
+PRJNA249967,249967,1026468,SAMN02822186,FGSC_690,Neurospora crassa strain:FGSC 690 Genome sequencing,SRR1587821,DOE Joint Genome Institute
+PRJNA249730,249730,1026504,SAMN02821580,FGSC_1666,Neurospora crassa strain:FGSC 1666 Genome sequencing,SRR1587846,DOE Joint Genome Institute
+PRJNA250207,250207,1033410,SAMN02822239,FGSC_13495,Neurospora crassa strain:FGSC 13495 Genome sequencing,SRR1800276,DOE Joint Genome Institute
+PRJNA250699,250699,1019269,SAMN02910332,FGSC_2239,Neurospora crassa strain:2239 Genome sequencing,SRR1797934,DOE Joint Genome Institute
+PRJNA249933,249933,1026627,SAMN02822183,FGSC_4218,Neurospora crassa strain:FGSC 4218 Genome sequencing,SRR1587452,DOE Joint Genome Institute
+PRJNA249806,249806,1033167,SAMN02822018,FGSC_215,Neurospora crassa strain:FGSC 215 Genome sequencing,SRR1800151,DOE Joint Genome Institute
+PRJNA251127,251127,1020735,SAMN02822372,FGSC_575,Neurospora crassa strain:FGSC 575 Genome sequencing,SRR1798235,DOE Joint Genome Institute
+PRJNA265574,265574,1050836,SAMN03159503,FGSC_1647_mo(D309),Neurospora crassa 1647 mo(D309) Resequencing,SRR4142836,DOE Joint Genome Institute
+PRJNA250222,250222,1033419,SAMN02821477,FGSC_14201,Neurospora crassa strain:FGSC 14201 Genome sequencing,SRR1800279,DOE Joint Genome Institute
+PRJNA249803,249803,1026555,SAMN02822039,FGSC_2737,Neurospora crassa strain:FGSC 2737 Genome sequencing,SRR1587871,DOE Joint Genome Institute
+PRJNA249969,249969,1033281,SAMN02821675,FGSC_3645,Neurospora crassa strain:FGSC 3645 Genome sequencing,SRR1800222,DOE Joint Genome Institute
+PRJNA250324,250324,1035525,SAMN02910316,FGSC_2270,Neurospora crassa strain:2270 Genome sequencing,SRR4063862,DOE Joint Genome Institute
+PRJNA249869,249869,1033209,SAMN02822212,FGSC_1884,Neurospora crassa strain:FGSC 1884 Genome sequencing,SRR1800168,DOE Joint Genome Institute
+PRJNA249950,249950,1026666,SAMN02821665,FGSC_7516,Neurospora crassa strain:FGSC 7516 Genome sequencing,SRR1587465,DOE Joint Genome Institute
+PRJNA249825,249825,1033185,SAMN02821740,FGSC_1377,Neurospora crassa strain:FGSC 1377 Genome sequencing,SRR1800157,DOE Joint Genome Institute
+PRJNA250716,250716,1019311,SAMN02910393,FGSC_3469,Neurospora crassa strain:3469 Genome sequencing,SRR1797987,DOE Joint Genome Institute
+PRJNA250945,250945,1024434,SAMN02822361,FGSC_8201,Neurospora crassa strain:FGSC 8201 Genome sequencing,SRR3490983,DOE Joint Genome Institute
+PRJNA250745,250745,1024278,SAMN02821525,FGSC_1236,Neurospora crassa strain:FGSC 1236 Genome sequencing,SRR1799238,DOE Joint Genome Institute
+PRJNA250637,250637,1019227,SAMN02910326,FGSC_1021,Neurospora crassa strain:1021 Genome sequencing,SRR1798022,DOE Joint Genome Institute
+PRJNA249893,249893,1033239,SAMN02821739,FGSC_2962,Neurospora crassa strain:FGSC 2962 Genome sequencing,SRR1800184,DOE Joint Genome Institute
+PRJNA249098,249098,1035531,SAMN02910277,FGSC_2737,Neurospora crassa strain:2737 Genome sequencing,SRR4064253,DOE Joint Genome Institute
+PRJNA250750,250750,1019338,SAMN02910395,FGSC_3923,Neurospora crassa strain:3923 Genome sequencing,SRR1587659,DOE Joint Genome Institute
+PRJNA250818,250818,1019398,SAMN02910306,FGSC_8287,Neurospora crassa strain:8287 Genome sequencing,SRR1798053,DOE Joint Genome Institute
+PRJNA249946,249946,1026660,SAMN02821999,FGSC_7514,Neurospora crassa strain:FGSC 7514 Genome sequencing,SRR1587464,DOE Joint Genome Institute
+PRJNA250902,250902,1024416,SAMN02822360,FGSC_4484,Neurospora crassa strain:FGSC 4484 Genome sequencing,SRR3490961,DOE Joint Genome Institute
+PRJNA250228,250228,1033431,SAMN02821786,FGSC_18900,Neurospora crassa strain:FGSC 18900 Genome sequencing,SRR1800283,DOE Joint Genome Institute
+PRJNA250709,250709,1019305,SAMN02910260,FGSC_3307,Neurospora crassa strain:3307 Genome sequencing,SRR1797984,DOE Joint Genome Institute
+PRJNA250034,250034,1026471,SAMN02822210,FGSC_939,Neurospora crassa strain:FGSC 939 Genome sequencing,SRR1587824,DOE Joint Genome Institute
+PRJNA251257,251257,1020897,SAMN02821473,FGSC_10986,Neurospora crassa strain:10986 Genome sequencing,SRR4061910,DOE Joint Genome Institute
+PRJNA250811,250811,1019392,SAMN02910387,FGSC_7766,Neurospora crassa strain:7766 Genome sequencing,SRR1798052,DOE Joint Genome Institute
+PRJNA265606,265606,1050875,SAMN03159412,FGSC_1676_mo(NM201f),Neurospora crassa 1676 mo(NM201f) Resequencing,SRR4142855,DOE Joint Genome Institute
+PRJNA251067,251067,1020699,SAMN02821515,FGSC_101,Neurospora crassa strain:FGSC 101 Genome sequencing,SRR1798224,DOE Joint Genome Institute
+PRJNA251201,251201,1020780,SAMN02821439,FGSC_1378,Neurospora crassa strain:FGSC 1378 Genome sequencing,SRR1798280,DOE Joint Genome Institute
+PRJNA250782,250782,1024317,SAMN02822278,FGSC_1586,Neurospora crassa strain:FGSC 1586 Genome sequencing,SRR1799248,DOE Joint Genome Institute
+PRJNA250139,250139,1033377,SAMN02821432,FGSC_4600,Neurospora crassa strain:FGSC 4600 Genome sequencing,SRR1800266,DOE Joint Genome Institute
+PRJNA250793,250793,1024338,SAMN02821635,FGSC_1595,Neurospora crassa strain:FGSC 1595 Genome sequencing,SRR1799255,DOE Joint Genome Institute
+PRJNA265573,265573,1050839,SAMN03159305,FGSC_1650_mo(NM211),Neurospora crassa 1650 mo(NM211) Resequencing,SRR4142848,DOE Joint Genome Institute
+PRJNA249807,249807,1026561,SAMN02821914,FGSC_2763,Neurospora crassa strain:FGSC 2763 Genome sequencing,SRR1587934,DOE Joint Genome Institute
+PRJNA249808,249808,1026564,SAMN02821736,FGSC_3182,Neurospora crassa strain:FGSC 3182 Genome sequencing,SRR1587935,DOE Joint Genome Institute
+PRJNA250747,250747,1024266,SAMN02821834,FGSC_1228,Neurospora crassa strain:FGSC 1228 Genome sequencing,SRR1799234,DOE Joint Genome Institute
+PRJNA251288,251288,1020918,SAMN02821547,FGSC_25003,Neurospora crassa strain:25003 Genome sequencing,SRR1798520,DOE Joint Genome Institute
+PRJNA251289,251289,1020915,SAMN02822115,FGSC_25002,Neurospora crassa strain:25002 Genome sequencing,SRR1798523,DOE Joint Genome Institute
+PRJNA251253,251253,1020879,SAMN02821647,FGSC_4316,Neurospora crassa strain:FGSC 4316 Genome sequencing,SRR1798438,DOE Joint Genome Institute
+PRJNA250137,250137,1033374,SAMN02822333,FGSC_4599,Neurospora crassa strain:FGSC 4599 Genome sequencing,SRR1800263,DOE Joint Genome Institute
+PRJNA249818,249818,1033176,SAMN02821447,FGSC_422,Neurospora crassa strain:FGSC 422 Genome sequencing,SRR1800154,DOE Joint Genome Institute
+PRJNA249974,249974,1033260,SAMN02821991,FGSC_3241,Neurospora crassa strain:FGSC 3241 Genome sequencing,SRR1800191,DOE Joint Genome Institute
+PRJNA265497,265497,1050926,SAMN03159375,FGSC_10322_grape_(4-9)t,Neurospora crassa 10322 grape (4-9)t Resequencing,SRR4143350,DOE Joint Genome Institute
+PRJNA250841,250841,1024374,SAMN02822277,FGSC_2270,Neurospora crassa strain:FGSC 2270 Genome sequencing,SRR1799418,DOE Joint Genome Institute
+PRJNA249812,249812,1033173,SAMN02822197,FGSC_420,Neurospora crassa strain:FGSC 420 Genome sequencing,SRR1800150,DOE Joint Genome Institute
+PRJNA256750,256750,1026465,SAMN02946527,FGSC_689,Neurospora crassa strain:FGSC 689 Genome sequencing,SRR1587820,DOE Joint Genome Institute
+PRJNA337452,337452,401801,SAMN05518729,FGSC_7022,Neurospora crassa 7022 genome sequencing,SRR4025939;SRR4025940,DOE Joint Genome Institute
+PRJNA249097,249097,1035588,SAMN02910410,FGSC_290,Neurospora crassa strain:290 Genome sequencing,SRR4069222,DOE Joint Genome Institute
+PRJNA250774,250774,1024308,SAMN02822265,FGSC_1582,Neurospora crassa strain:FGSC 1582 Genome sequencing,SRR1799246,DOE Joint Genome Institute
+PRJNA249742,249742,1026498,SAMN02821732,FGSC_1664,Neurospora crassa strain:FGSC 1664 Genome sequencing,SRR1587841,DOE Joint Genome Institute
+PRJNA250786,250786,1024332,SAMN02821465,FGSC_1592,Neurospora crassa strain:FGSC 1592 Genome sequencing,SRR1799254,DOE Joint Genome Institute
+PRJNA251144,251144,1020774,SAMN02821902,FGSC_1374,Neurospora crassa strain:FGSC 1374 Genome sequencing,SRR1798277,DOE Joint Genome Institute
+PRJNA250795,250795,1024305,SAMN02822016,FGSC_1581,Neurospora crassa strain:FGSC 1581 Genome sequencing,SRR1799245,DOE Joint Genome Institute
+PRJNA251306,251306,1020942,SAMN02821663,FGSC_25011,Neurospora crassa strain:25011 Genome sequencing,SRR1798573,DOE Joint Genome Institute
+PRJNA265490,265490,1050920,SAMN03159419,FGSC_10320_grape_(10-15),Neurospora crassa 10320 grape (10-15) Resequencing,SRR4143346,DOE Joint Genome Institute
+PRJNA250697,250697,1019296,SAMN02910336,FGSC_2989,Neurospora crassa strain:2989 Genome sequencing,SRR1797983,DOE Joint Genome Institute
+PRJNA251250,251250,1020708,SAMN02821791,FGSC_239,Neurospora crassa strain:FGSC 239 Genome sequencing,SRR1798227,DOE Joint Genome Institute
+PRJNA250148,250148,1033401,SAMN02822222,FGSC_10756,Neurospora crassa strain:FGSC 10756 Genome sequencing,SRR1800273,DOE Joint Genome Institute
+PRJNA251299,251299,1020930,SAMN02821793,FGSC_25007,Neurospora crassa strain:25007 Genome sequencing,SRR1798558,DOE Joint Genome Institute
+PRJNA250888,250888,1024236,SAMN02821568,FGSC_351,Neurospora crassa strain:FGSC 351 Genome sequencing,SRR1799221,DOE Joint Genome Institute
+PRJNA337457,337457,401812,SAMN05519136,FGSC_49,Neurospora crassa 49 genome sequencing,SRR4025959;SRR4025960,DOE Joint Genome Institute
+PRJNA250951,250951,1024464,SAMN02821517,FGSC_9427,Neurospora crassa strain:FGSC 9427 Genome sequencing,SRR3491015,DOE Joint Genome Institute
+PRJNA249800,249800,1026537,SAMN02821582,FGSC_2688,Neurospora crassa strain:FGSC 2688 Genome sequencing,SRR1587862,DOE Joint Genome Institute
+PRJNA251147,251147,1020777,SAMN02822399,FGSC_1376,Neurospora crassa strain:FGSC 1376 Genome sequencing,SRR1798279,DOE Joint Genome Institute
+PRJNA251241,251241,1020855,SAMN02822079,FGSC_4308,Neurospora crassa strain:FGSC 4308 Genome sequencing,SRR1798419,DOE Joint Genome Institute
+PRJNA250644,250644,1019239,SAMN02946560,FGSC_1524,Neurospora crassa strain:1524 Genome sequencing,SRR1797924,DOE Joint Genome Institute
+PRJNA249189,249189,1035615,SAMN02910346,FGSC_8252,Neurospora crassa strain:8252 Genome sequencing,SRR4069219,DOE Joint Genome Institute
+PRJNA250027,250027,1026693,SAMN02822238,FGSC_7527,Neurospora crassa strain:FGSC 7527 Genome sequencing,SRR1587477,DOE Joint Genome Institute
+PRJNA249734,249734,1026510,SAMN02821579,FGSC_1781,Neurospora crassa strain:FGSC 1781 Genome sequencing,SRR1587848,DOE Joint Genome Institute
+PRJNA249860,249860,1026453,SAMN02821576,FGSC_392,Neurospora crassa strain:FGSC 392 Genome sequencing,SRR1587813,DOE Joint Genome Institute
+PRJNA265624,265624,1050905,SAMN03159372,FGSC_4440_ufa(P73B118),Neurospora crassa 4440 ufa(P73B118) Resequencing,SRR4143347,DOE Joint Genome Institute
+PRJNA250646,250646,1019212,SAMN02910391,FGSC_1002,Neurospora crassa strain:1002 Genome sequencing,SRR1797917,DOE Joint Genome Institute
+PRJNA250847,250847,1024386,SAMN02821655,FGSC_2342,Neurospora crassa strain:FGSC 2342 Genome sequencing,SRR1799267,DOE Joint Genome Institute
+PRJNA265604,265604,1050881,SAMN03159360,FGSC_4326_dgr(BE52),Neurospora crassa 4326 dgr(BE52) Resequencing,SRR4143334,DOE Joint Genome Institute
+PRJNA250663,250663,1019251,SAMN02910309,FGSC_1748,Neurospora crassa strain:1748 Genome sequencing,SRR1587657,DOE Joint Genome Institute
+PRJNA250717,250717,1019323,SAMN02910283,FGSC_3538,Neurospora crassa strain:3538 Genome sequencing,SRR1797991,DOE Joint Genome Institute
+PRJNA249892,249892,1033236,SAMN02821623,FGSC_6016,Neurospora crassa strain:FGSC 6016 Genome sequencing,SRR1800183,DOE Joint Genome Institute
+PRJNA251206,251206,1020834,SAMN02822087,FGSC_3785,Neurospora crassa strain:FGSC 3785 Genome sequencing,SRR1798396,DOE Joint Genome Institute
+PRJNA249975,249975,1033263,SAMN02821989,FGSC_3243,Neurospora crassa strain:FGSC 3243 Genome sequencing,SRR1800210,DOE Joint Genome Institute
+PRJNA250766,250766,1019344,SAMN02910313,FGSC_3926,Neurospora crassa strain:3926 Genome sequencing,SRR1797997,DOE Joint Genome Institute
+PRJNA249802,249802,1026516,SAMN02822010,FGSC_2296,Neurospora crassa strain:FGSC 2296 Genome sequencing,SRR1587853,DOE Joint Genome Institute
+PRJNA250769,250769,1019377,SAMN02910288,FGSC_5859,Neurospora crassa strain:5859 Genome sequencing,SRR1798019,DOE Joint Genome Institute
+PRJNA250664,250664,1019254,SAMN02910329,FGSC_1749,Neurospora crassa strain:1749 Genome sequencing,SRR1797929,DOE Joint Genome Institute
+PRJNA249793,249793,1026534,SAMN02822195,FGSC_2462,Neurospora crassa strain:FGSC 2462 Genome sequencing,SRR1587861,DOE Joint Genome Institute
+PRJNA249970,249970,1033254,SAMN02822310,FGSC_3239,Neurospora crassa strain:FGSC 3239 Genome sequencing,SRR1800189,DOE Joint Genome Institute
+PRJNA249880,249880,1033227,SAMN02821741,FGSC_2579,Neurospora crassa strain:FGSC 2579 Genome sequencing,SRR1800176,DOE Joint Genome Institute
+PRJNA250651,250651,1019245,SAMN02910324,FGSC_1673,Neurospora crassa strain:1673 Genome sequencing,SRR1797927,DOE Joint Genome Institute
+PRJNA250714,250714,1019326,SAMN02910366,FGSC_3600,Neurospora crassa strain:3600 Genome sequencing,SRR1797992,DOE Joint Genome Institute
+PRJNA337125,337125,401759,SAMN05519209,FGSC_305,Neurospora crassa 305 genome sequencing,SRR4024766,DOE Joint Genome Institute
+PRJNA251072,251072,1020690,SAMN02821721,FGSC_49,Neurospora crassa strain:FGSC 49 Genome sequencing,SRR1798212,DOE Joint Genome Institute
+PRJNA251305,251305,1020933,SAMN02822389,FGSC_25008,Neurospora crassa strain:25008 Genome sequencing,SRR1798559,DOE Joint Genome Institute
+PRJNA249855,249855,1026582,SAMN02821450,FGSC_3424,Neurospora crassa strain:FGSC 3424 Genome sequencing,SRR1587944,DOE Joint Genome Institute
+PRJNA249972,249972,1033257,SAMN02821927,FGSC_3240,Neurospora crassa strain:FGSC 3240 Genome sequencing,SRR1800190,DOE Joint Genome Institute
+PRJNA250129,250129,1033371,SAMN02821970,FGSC_4598,Neurospora crassa strain:FGSC 4598 Genome sequencing,SRR1800262,DOE Joint Genome Institute
+PRJNA251073,251073,1020687,SAMN02822373,FGSC_14,Neurospora crassa strain:FGSC 14 Genome sequencing,SRR1798211,DOE Joint Genome Institute
+PRJNA265593,265593,1050848,SAMN03159430,FGSC_1659_mo(D306),Neurospora crassa 1659 mo(D306) Resequencing,SRR4151349,DOE Joint Genome Institute
+PRJNA250753,250753,1019362,SAMN02910258,FGSC_4647,Neurospora crassa strain:4647 Genome sequencing,SRR1798006,DOE Joint Genome Institute
+PRJNA250816,250816,1019404,SAMN02910388,FGSC_8969,Neurospora crassa strain:8969 Genome sequencing,SRR1798055,DOE Joint Genome Institute
+PRJNA250696,250696,1019272,SAMN02910362,FGSC_2329,Neurospora crassa strain:2329 Genome sequencing,SRR1797935,DOE Joint Genome Institute
+PRJNA249794,249794,1026540,SAMN02822165,FGSC_2689,Neurospora crassa strain:FGSC 2689 Genome sequencing,SRR1587863,DOE Joint Genome Institute
+PRJNA250842,250842,1024398,SAMN02821864,FGSC_2761,Neurospora crassa strain:FGSC 2761 Genome sequencing,SRR1799270,DOE Joint Genome Institute
+PRJNA250905,250905,1024251,SAMN02821395,FGSC_532,Neurospora crassa strain:FGSC 532 Genome sequencing,SRR1799226,DOE Joint Genome Institute
+PRJNA249790,249790,1026549,SAMN02821621,FGSC_2696,Neurospora crassa strain:FGSC 2696 Genome sequencing,SRR1587869,DOE Joint Genome Institute
+PRJNA249199,249199,1035612,SAMN02910372,FGSC_6659,Neurospora crassa strain:6659 Genome sequencing,SRR4069263,DOE Joint Genome Institute
+PRJNA250838,250838,1024368,SAMN02822057,FGSC_2174,Neurospora crassa strain:FGSC 2174 Genome sequencing,SRR1799263,DOE Joint Genome Institute
+PRJNA250053,250053,1033305,SAMN02821544,FGSC_3963,Neurospora crassa strain:FGSC 3963 Genome sequencing,SRR1800233,DOE Joint Genome Institute
+PRJNA251254,251254,1020894,SAMN02821523,FGSC_10985,Neurospora crassa strain:10985 Genome sequencing,SRR1798442,DOE Joint Genome Institute
+PRJNA250767,250767,1019368,SAMN02910285,FGSC_5138,Neurospora crassa strain:5138 Genome sequencing,SRR1798017,DOE Joint Genome Institute
+PRJNA250950,250950,1024497,SAMN02821437,FGSC_T96,Neurospora crassa strain:FGSC T96 Genome sequencing,SRR3492085,DOE Joint Genome Institute
+PRJNA251199,251199,1020810,SAMN02821943,FGSC_3771,Neurospora crassa strain:FGSC 3771 Genome sequencing,SRR1798372,DOE Joint Genome Institute
+PRJNA250704,250704,1019302,SAMN02910364,FGSC_3289,Neurospora crassa strain:3289 Genome sequencing,SRR1797985,DOE Joint Genome Institute
+PRJNA250954,250954,1024263,SAMN02822294,FGSC_987,Neurospora crassa strain:FGSC 987 Genome sequencing,SRR1799233,DOE Joint Genome Institute
+PRJNA251251,251251,1020816,SAMN02821449,FGSC_3777,Neurospora crassa strain:FGSC 3777 Genome sequencing,SRR1798381,DOE Joint Genome Institute
+PRJNA250949,250949,1024260,SAMN02822279,FGSC_853,Neurospora crassa strain:FGSC 853 Genome sequencing,SRR1799232,DOE Joint Genome Institute
+PRJNA249732,249732,1026483,SAMN02822173,FGSC_1227,Neurospora crassa strain:FGSC 1227 Genome sequencing,SRR1587832,DOE Joint Genome Institute
+PRJNA250778,250778,1024281,SAMN02822246,FGSC_1237,Neurospora crassa strain:FGSC 1237 Genome sequencing,SRR1799239,DOE Joint Genome Institute
+PRJNA250652,250652,1019215,SAMN02910452,FGSC_1003,Neurospora crassa strain:1003 Genome sequencing,SRR1797916,DOE Joint Genome Institute
+PRJNA249953,249953,1026456,SAMN02822185,FGSC_633,Neurospora crassa strain:FGSC 633 Genome sequencing,SRR1587815,DOE Joint Genome Institute
+PRJNA250144,250144,1033389,SAMN02822045,FGSC_5167,Neurospora crassa strain:FGSC 5167 Genome sequencing,SRR1800270,DOE Joint Genome Institute
+PRJNA265518,265518,1050818,SAMN03159333,FGSC_1639_mo(NM216s),Neurospora crassa 1639 mo(NM216s) Resequencing,SRR4142837,DOE Joint Genome Institute
+PRJNA249876,249876,1033206,SAMN02821625,FGSC_1667,Neurospora crassa strain:FGSC 1667 Genome sequencing,SRR1800166,DOE Joint Genome Institute
+PRJNA265608,265608,1050869,SAMN03159369,FGSC_1672_mo(NM226),Neurospora crassa 1672 mo(NM226) Resequencing,SRR4142851,DOE Joint Genome Institute
+PRJNA251137,251137,1020741,SAMN02821608,FGSC_793,Neurospora crassa strain:FGSC 793 Genome sequencing,SRR1798237,DOE Joint Genome Institute
+PRJNA337453,337453,401798,SAMN05519214,FGSC_1211,Neurospora crassa 1211 genome sequencing,SRR4025956;SRR4025957;SRR4025958,DOE Joint Genome Institute
+PRJNA249737,249737,1026486,SAMN02821875,FGSC_1528,Neurospora crassa strain:FGSC 1528 Genome sequencing,SRR1587833,DOE Joint Genome Institute
+PRJNA249741,249741,1026492,SAMN02821816,FGSC_1531,Neurospora crassa strain:FGSC 1531 Genome sequencing,SRR1587836,DOE Joint Genome Institute
+PRJNA249116,249116,1035558,SAMN02910412,FGSC_6436,Neurospora crassa strain:6436 Genome sequencing,SRR4069234,DOE Joint Genome Institute
+PRJNA249101,249101,1035534,SAMN02910438,FGSC_4272,Neurospora crassa strain:4272 Genome sequencing,SRR4064271,DOE Joint Genome Institute
+PRJNA251125,251125,1020729,SAMN02822328,FGSC_506,Neurospora crassa strain:FGSC 506 Genome sequencing,SRR1798233,DOE Joint Genome Institute
+PRJNA265504,265504,1050938,SAMN03159317,FGSC_10326_N._crassa,Neurospora crassa 10326 N. crassa Resequencing,SRR4143336,DOE Joint Genome Institute
+PRJNA250335,250335,1035594,SAMN02910405,FGSC_2530,Neurospora crassa strain:2530 Genome sequencing,SRR4069225,DOE Joint Genome Institute
+PRJNA249846,249846,1026591,SAMN02821945,FGSC_3456,Neurospora crassa strain:FGSC 3456 Genome sequencing,SRR1587948,DOE Joint Genome Institute
+PRJNA249731,249731,1026507,SAMN02822175,FGSC_1780,Neurospora crassa strain:FGSC 1780 Genome sequencing,SRR1587847,DOE Joint Genome Institute
+PRJNA250061,250061,1033317,SAMN02821542,FGSC_4183,Neurospora crassa strain:FGSC 4183 Genome sequencing,SRR1800238,DOE Joint Genome Institute
+PRJNA249962,249962,1026654,SAMN02821922,FGSC_7512,Neurospora crassa strain:FGSC 7512 Genome sequencing,SRR1587462,DOE Joint Genome Institute
+PRJNA337123,337123,401814,SAMN05518734,FGSC_1363,Neurospora crassa 1363 genome sequencing,SRR4025952,DOE Joint Genome Institute
+PRJNA249885,249885,1033221,SAMN02822184,FGSC_2474,Neurospora crassa strain:FGSC 2474 Genome sequencing,SRR1800172,DOE Joint Genome Institute
+PRJNA249854,249854,1026579,SAMN02822048,FGSC_3367,Neurospora crassa strain:FGSC 3367 Genome sequencing,SRR1587943,DOE Joint Genome Institute
+PRJNA250654,250654,1019263,SAMN02910259,FGSC_2175,Neurospora crassa strain:2175 Genome sequencing,SRR1797932,DOE Joint Genome Institute
+PRJNA265591,265591,1050854,SAMN03159314,FGSC_1661_mo(NM359),Neurospora crassa 1661 mo(NM359) Resequencing,SRR4142842,DOE Joint Genome Institute
+PRJNA249965,249965,1026669,SAMN02821996,FGSC_7518,Neurospora crassa strain:FGSC 7518 Genome sequencing,SRR1587466,DOE Joint Genome Institute
+PRJNA250330,250330,1035516,SAMN02910454,FGSC_2218,Neurospora crassa strain:2218 Genome sequencing,SRR4063855,DOE Joint Genome Institute
+PRJNA251143,251143,1020747,SAMN02821391,FGSC_981,Neurospora crassa strain:FGSC 981 Genome sequencing,SRR1798238,DOE Joint Genome Institute
+PRJNA249955,249955,1026687,SAMN02822228,FGSC_7524,Neurospora crassa strain:FGSC 7524 Genome sequencing,SRR1587473,DOE Joint Genome Institute
+PRJNA249122,249122,1035564,SAMN02910440,FGSC_6442,Neurospora crassa strain:6442 Genome sequencing,SRR4069237,DOE Joint Genome Institute
+PRJNA251312,251312,1020948,SAMN02821661,FGSC_25013,Neurospora crassa strain:25013 Genome sequencing,SRR1798583,DOE Joint Genome Institute
+PRJNA265622,265622,1050914,SAMN03159435,FGSC_7529_pen(JL261),Neurospora crassa 7529 pen(JL261) Resequencing,SRR4143343,DOE Joint Genome Institute
+PRJNA256747,256747,1024407,SAMN02946458,FGSC_3304,Neurospora crassa strain:FGSC 3304 Genome sequencing,SRR1799272,DOE Joint Genome Institute
+PRJNA250840,250840,1024233,SAMN02822330,FGSC_262,Neurospora crassa strain:FGSC 262 Genome sequencing,SRR1799220,DOE Joint Genome Institute
+PRJNA249890,249890,1033248,SAMN02822054,FGSC_3235,Neurospora crassa strain:FGSC 3235 Genome sequencing,SRR1800187,DOE Joint Genome Institute
 PRJNA335153,335153,1106674,SAMN05444122,BB.bump,Neurospora crassa BB.bump Resequencing genome sequencing,SRR5829695,DOE Joint Genome Institute
-PRJNA251313,251313,1020945,SAMN02822017,FGSC 25012,Neurospora crassa strain:25012 Genome sequencing,SRR1798574,DOE Joint Genome Institute
-PRJNA265571,265571,1050845,SAMN03159413,FGSC 1658 mo(NM213t),Neurospora crassa 1658 mo(NM213t) Resequencing,SRR4142846,DOE Joint Genome Institute
-PRJNA249868,249868,1026597,SAMN02821856,FGSC 3648,Neurospora crassa strain:FGSC 3648 Genome sequencing,SRR1587951,DOE Joint Genome Institute
-PRJNA249111,249111,1035513,SAMN02910375,FGSC 626,Neurospora crassa strain:626 Genome sequencing,SRR4063853,DOE Joint Genome Institute
-PRJNA250792,250792,1024341,SAMN02821854,FGSC 1596,Neurospora crassa strain:FGSC 1596 Genome sequencing,SRR1799256,DOE Joint Genome Institute
-PRJNA250732,250732,1024491,SAMN02821421,FGSC 10773,Neurospora crassa strain:FGSC 10773 Genome sequencing,SRR3492084,DOE Joint Genome Institute
-PRJNA256716,256716,1020768,SAMN02946270,FGSC 1372,Neurospora crassa strain:FGSC 1372 Genome sequencing,SRR1798253,DOE Joint Genome Institute
-PRJNA250153,250153,1033395,SAMN02821433,FGSC 5076,Neurospora crassa strain:FGSC 5076 Genome sequencing,SRR1800272,DOE Joint Genome Institute
-PRJNA249815,249815,1026567,SAMN02821533,FGSC 3237,Neurospora crassa strain:FGSC 3237 Genome sequencing,SRR1587937,DOE Joint Genome Institute
-PRJNA249875,249875,1033200,SAMN02822182,FGSC 1372,Neurospora crassa strain:FGSC 1372 Genome sequencing,SRR1800164,DOE Joint Genome Institute
-PRJNA249847,249847,1026588,SAMN02821617,FGSC 3445,Neurospora crassa strain:FGSC 3445 Genome sequencing,SRR1587947,DOE Joint Genome Institute
-PRJNA251242,251242,1020891,SAMN02821826,FGSC 10984 Mauriceville,Neurospora crassa strain:10984 Mauriceville Genome sequencing,SRR4061905,DOE Joint Genome Institute
-PRJNA250834,250834,1024392,SAMN02821865,FGSC 2472,Neurospora crassa strain:FGSC 2472 Genome sequencing,SRR1799269,DOE Joint Genome Institute
-PRJNA337493,337493,401806,SAMN05519139,FGSC 3562,Neurospora crassa 3562 genome sequencing,SRR4025954;SRR4025955,DOE Joint Genome Institute
-PRJNA251287,251287,1020912,SAMN02821784,FGSC 25001,Neurospora crassa strain:25001 Genome sequencing,SRR1798518,DOE Joint Genome Institute
-PRJNA250046,250046,1033293,SAMN02822202,FGSC 3737,Neurospora crassa strain:FGSC 3737 Genome sequencing,SRR1800227,DOE Joint Genome Institute
-PRJNA265621,265621,1050917,SAMN03159409,FGSC 8281 tns,Neurospora crassa 8281 tns Resequencing,SRR4143340,DOE Joint Genome Institute
-PRJNA265598,265598,1050884,SAMN03159484,FGSC 4327 dgr(L1),Neurospora crassa 4327 dgr(L1) Resequencing,SRR4143345,DOE Joint Genome Institute
-PRJNA249952,249952,1026459,SAMN02821499,FGSC 632,Neurospora crassa strain:FGSC 632 Genome sequencing,SRR1587816,DOE Joint Genome Institute
-PRJNA249193,249193,1035621,SAMN02910266,FGSC 8930,Neurospora crassa strain:8930 Genome sequencing,SRR4069240,DOE Joint Genome Institute
-PRJNA250159,250159,1033398,SAMN02822204,FGSC 9718,Neurospora crassa strain:FGSC 9718 Genome sequencing,SRR1800271,DOE Joint Genome Institute
-PRJNA249814,249814,1033170,SAMN02822036,FGSC 323,Neurospora crassa strain:FGSC 323 Genome sequencing,SRR1800148,DOE Joint Genome Institute
-PRJNA251300,251300,1020924,SAMN02822348,FGSC 25005,Neurospora crassa strain:25005 Genome sequencing,SRR1798549,DOE Joint Genome Institute
-PRJNA249109,249109,1035549,SAMN02910439,FGSC 5831,Neurospora crassa strain:5831 Genome sequencing,SRR4069220,DOE Joint Genome Institute
-PRJNA250853,250853,1024389,SAMN02821642,FGSC 2435,Neurospora crassa strain:FGSC 2435 Genome sequencing,SRR1799268,DOE Joint Genome Institute
-PRJNA249947,249947,1026639,SAMN02821889,FGSC 4335,Neurospora crassa strain:FGSC 4335 Genome sequencing,SRR1587457,DOE Joint Genome Institute
-PRJNA249940,249940,1026636,SAMN02822219,FGSC 4230,Neurospora crassa strain:FGSC 4230 Genome sequencing,SRR1587456,DOE Joint Genome Institute
-PRJNA249196,249196,1035618,SAMN02910380,FGSC 8344,Neurospora crassa strain:8344 Genome sequencing,SRR4069262,DOE Joint Genome Institute
-PRJNA250848,250848,1024401,SAMN02822060,FGSC 3007,Neurospora crassa strain:FGSC 3007 Genome sequencing,SRR1799271,DOE Joint Genome Institute
-PRJNA250936,250936,1024461,SAMN02821862,FGSC 9414,Neurospora crassa strain:FGSC 9414 Genome sequencing,SRR3491008,DOE Joint Genome Institute
-PRJNA251189,251189,1020795,SAMN02822325,FGSC 1401,Neurospora crassa strain:FGSC 1401 Genome sequencing,SRR1798309,DOE Joint Genome Institute
-PRJNA250955,250955,1024467,SAMN02822067,FGSC 9433,Neurospora crassa strain:FGSC 9433 Genome sequencing,SRR3491017,DOE Joint Genome Institute
-PRJNA250898,250898,1024425,SAMN02821672,FGSC 6017,Neurospora crassa strain:FGSC 6017 Genome sequencing,SRR3490962,DOE Joint Genome Institute
-PRJNA249813,249813,1033164,SAMN02821735,FGSC 57,Neurospora crassa strain:FGSC 57 Genome sequencing,SRR1800152,DOE Joint Genome Institute
-PRJNA250779,250779,1019389,SAMN02910442,FGSC 7330,Neurospora crassa strain:7330 Genome sequencing,SRR1798026,DOE Joint Genome Institute
-PRJNA265610,265610,1050902,SAMN03159462,FGSC 4333 dgr(BEX6),Neurospora crassa 4333 dgr(BEX6) Resequencing,SRR4143348,DOE Joint Genome Institute
-PRJNA250780,250780,1024296,SAMN02821852,FGSC 1516,Neurospora crassa strain:FGSC 1516 Genome sequencing,SRR1799242,DOE Joint Genome Institute
-PRJNA256714,256714,1020693,SAMN02946561,FGSC 57,Neurospora crassa strain:FGSC 57 Genome sequencing,SRR1798214,DOE Joint Genome Institute
-PRJNA265501,265501,1050950,SAMN03159287,FGSC 10770 os-1 nic-1,Neurospora crassa 10770 os-1 nic-1 Resequencing,SRR4143352,DOE Joint Genome Institute
-PRJNA249956,249956,1026657,SAMN02821920,FGSC 7513,Neurospora crassa strain:FGSC 7513 Genome sequencing,SRR1587463,DOE Joint Genome Institute
-PRJNA250048,250048,1033326,SAMN02821548,FGSC 4186,Neurospora crassa strain:FGSC 4186 Genome sequencing,SRR1800240,DOE Joint Genome Institute
-PRJNA251258,251258,1020819,SAMN02821651,FGSC 3778,Neurospora crassa strain:FGSC 3778 Genome sequencing,SRR1798385,DOE Joint Genome Institute
-PRJNA251245,251245,1020858,SAMN02822393,FGSC 4309,Neurospora crassa strain:FGSC 4309 Genome sequencing,SRR1798424,DOE Joint Genome Institute
-PRJNA251296,251296,1017687,SAMN02822386,FGSC #4908,Neurospora crassa strain:FGSC #4908 Genome sequencing,SRR1797591,DOE Joint Genome Institute
-PRJNA250322,250322,1035522,SAMN02910300,FGSC 2225,Neurospora crassa strain:2225 Genome sequencing,SRR4063861,DOE Joint Genome Institute
-PRJNA251248,251248,1020870,SAMN02821446,FGSC 4313,Neurospora crassa strain:FGSC 4313 Genome sequencing,SRR1798431,DOE Joint Genome Institute
-PRJNA250040,250040,1026711,SAMN02821709,FGSC 9444,Neurospora crassa strain:FGSC 9444 Genome sequencing,SRR1587487,DOE Joint Genome Institute
-PRJNA251307,251307,1020939,SAMN02822111,FGSC 25010,Neurospora crassa strain:25010 Genome sequencing,SRR1798560,DOE Joint Genome Institute
-PRJNA251196,251196,1020801,SAMN02821616,FGSC 1434,Neurospora crassa strain:FGSC 1434 Genome sequencing,SRR1798310,DOE Joint Genome Institute
-PRJNA251207,251207,1020840,SAMN02821790,FGSC 4295,Neurospora crassa strain:FGSC 4295 Genome sequencing,SRR1798405,DOE Joint Genome Institute
-PRJNA250896,250896,1024257,SAMN02821464,FGSC 670,Neurospora crassa strain:FGSC 670 Genome sequencing,SRR1799231,DOE Joint Genome Institute
-PRJNA337124,337124,401797,SAMN05518882,FGSC 2261,Neurospora crassa 2261 genome sequencing,SRR4025934,DOE Joint Genome Institute
-PRJNA250660,250660,1019257,SAMN02910254,FGSC 2069,Neurospora crassa strain:2069 Genome sequencing,SRR1797931,DOE Joint Genome Institute
-PRJNA249861,249861,1026576,SAMN02821950,FGSC 3304,Neurospora crassa strain:FGSC 3304 Genome sequencing,SRR1587941,DOE Joint Genome Institute
-PRJNA249867,249867,1026603,SAMN02821844,FGSC 3896,Neurospora crassa strain:FGSC 3896 Genome sequencing,SRR1587441,DOE Joint Genome Institute
-PRJNA250773,250773,1019353,SAMN02910378,FGSC 4063,Neurospora crassa strain:4063 Genome sequencing,SRR1798000,DOE Joint Genome Institute
-PRJNA250142,250142,1033392,SAMN02822329,FGSC 5785,Neurospora crassa strain:FGSC 5785 Genome sequencing,SRR1800268,DOE Joint Genome Institute
-PRJNA250326,250326,1035510,SAMN02910403,FGSC 252,Neurospora crassa strain:252 Genome sequencing,SRR4063838,DOE Joint Genome Institute
-PRJNA250790,250790,1024323,SAMN02821460,FGSC 1588,Neurospora crassa strain:FGSC 1588 Genome sequencing,SRR1799252,DOE Joint Genome Institute
-PRJNA249888,249888,1033215,SAMN02822218,FGSC 2256,Neurospora crassa strain:FGSC 2256 Genome sequencing,SRR1800170,DOE Joint Genome Institute
-PRJNA249845,249845,1026573,SAMN02822208,FGSC 3270,Neurospora crassa strain:FGSC 3270 Genome sequencing,SRR1587940,DOE Joint Genome Institute
-PRJNA250929,250929,1024446,SAMN02821512,FGSC 9375,Neurospora crassa strain:FGSC 9375 Genome sequencing,SRR3491012,DOE Joint Genome Institute
-PRJNA251082,251082,1020702,SAMN02821638,FGSC 104,Neurospora crassa strain:FGSC 104 Genome sequencing,SRR1798223,DOE Joint Genome Institute
-PRJNA337490,337490,401816,SAMN05518959,FGSC 3921,Neurospora crassa 3921 genome sequencing,SRR4025975;SRR4025976,DOE Joint Genome Institute
-PRJNA337122,337122,401796,SAMN05518881,FGSC 106,Neurospora crassa 106 genome sequencing,SRR4025937,DOE Joint Genome Institute
-PRJNA265513,265513,1050833,SAMN03159323,FGSC 1646 mo(NM220),Neurospora crassa 1646 mo(NM220) Resequencing,SRR4142838,DOE Joint Genome Institute
-PRJNA250063,250063,1033341,SAMN02822008,FGSC 4223,Neurospora crassa strain:FGSC 4223 Genome sequencing,SRR1800246,DOE Joint Genome Institute
-PRJNA249121,249121,1035570,SAMN02910279,FGSC 6448,Neurospora crassa strain:6448 Genome sequencing,SRR4069231,DOE Joint Genome Institute
-PRJNA251131,251131,1020720,SAMN02821727,FGSC 419,Neurospora crassa strain:FGSC 419 Genome sequencing,SRR1798230,DOE Joint Genome Institute
-PRJNA249112,249112,1035573,SAMN02910352,FGSC 6449,Neurospora crassa strain:6449 Genome sequencing,SRR4069261,DOE Joint Genome Institute
-PRJNA249826,249826,1033182,SAMN02822206,FGSC 2327,Neurospora crassa strain:FGSC 2327 Genome sequencing,SRR1800156,DOE Joint Genome Institute
-PRJNA250062,250062,1033338,SAMN02822233,FGSC 4200,Neurospora crassa strain:FGSC 4200 Genome sequencing,SRR1800245,DOE Joint Genome Institute
-PRJNA337126,337126,401815,SAMN05518921,FGSC 309,Neurospora crassa 309 genome sequencing,SRR4025953,DOE Joint Genome Institute
-PRJNA249982,249982,1033275,SAMN02821497,FGSC 3643,Neurospora crassa strain:FGSC 3643 Genome sequencing,SRR1800221,DOE Joint Genome Institute
-PRJNA251129,251129,1020753,SAMN02821906,FGSC 1056,Neurospora crassa strain:FGSC 1056 Genome sequencing,SRR1798240,DOE Joint Genome Institute
-PRJNA249740,249740,1026495,SAMN02821809,FGSC 1630,Neurospora crassa strain:FGSC 1630 Genome sequencing,SRR1587840,DOE Joint Genome Institute
-PRJNA250815,250815,1019416,SAMN02910253,FGSC 10607,Neurospora crassa strain:10607 Genome sequencing,SRR1798059,DOE Joint Genome Institute
-PRJNA251212,251212,1020846,SAMN02821653,FGSC 4304,Neurospora crassa strain:FGSC 4304 Genome sequencing,SRR1798416,DOE Joint Genome Institute
-PRJNA250321,250321,1035519,SAMN02910299,FGSC 2219,Neurospora crassa strain:2219 Genome sequencing,SRR4063854,DOE Joint Genome Institute
-PRJNA249791,249791,1026513,SAMN02822013,FGSC 2197,Neurospora crassa strain:FGSC 2197 Genome sequencing,SRR1587849,DOE Joint Genome Institute
-PRJNA265503,265503,1050941,SAMN03159394,FGSC 10327 N. crassa,Neurospora crassa 10327 N. crassa Resequencing,SRR4143342,DOE Joint Genome Institute
-PRJNA265609,265609,1050866,SAMN03159310,FGSC 1671 mo(36703-4-20),Neurospora crassa 1671 mo(36703-4-20) Resequencing,SRR4151237,DOE Joint Genome Institute
-PRJNA250700,250700,1019293,SAMN02910363,FGSC 2686,Neurospora crassa strain:2686 Genome sequencing,SRR1797942,DOE Joint Genome Institute
-PRJNA249941,249941,1026630,SAMN02822308,FGSC 4219,Neurospora crassa strain:FGSC 4219 Genome sequencing,SRR1587453,DOE Joint Genome Institute
-PRJNA251200,251200,1020822,SAMN02821440,FGSC 3779,Neurospora crassa strain:FGSC 3779 Genome sequencing,SRR1798394,DOE Joint Genome Institute
-PRJNA249106,249106,1035567,SAMN02910351,FGSC 6443,Neurospora crassa strain:6443 Genome sequencing,SRR4069224,DOE Joint Genome Institute
-PRJNA250752,250752,1019329,SAMN02910311,FGSC 3825,Neurospora crassa strain:3825 Genome sequencing,SRR1797993,DOE Joint Genome Institute
-PRJNA251141,251141,1020759,SAMN02822402,FGSC 1169,Neurospora crassa strain:FGSC 1169 Genome sequencing,SRR1798243,DOE Joint Genome Institute
-PRJNA249108,249108,1035537,SAMN02910321,FGSC 4294,Neurospora crassa strain:4294 Genome sequencing,SRR4064273,DOE Joint Genome Institute
-PRJNA249809,249809,1033161,SAMN02822193,FGSC 13,Neurospora crassa strain:FGSC 13 Genome sequencing,SRR1800144,DOE Joint Genome Institute
-PRJNA251259,251259,1020909,SAMN02822351,FGSC 20000,Neurospora crassa strain:20000 Genome sequencing,SRR1798516,DOE Joint Genome Institute
-PRJNA249200,249200,1035579,SAMN02910408,FGSC 6454,Neurospora crassa strain:6454 Genome sequencing,SRR4069232,DOE Joint Genome Institute
-PRJNA249958,249958,1026684,SAMN02822189,FGSC 7523,Neurospora crassa strain:FGSC 7523 Genome sequencing,SRR1587472,DOE Joint Genome Institute
-PRJNA249960,249960,1026672,SAMN02822215,FGSC 7519,Neurospora crassa strain:FGSC 7519 Genome sequencing,SRR1587468,DOE Joint Genome Institute
-PRJNA256718,256718,1020804,SAMN02946525,FGSC 1515,Neurospora crassa strain:FGSC 1515 Genome sequencing,SRR1798370,DOE Joint Genome Institute
-PRJNA249716,249716,1026438,SAMN02822170,FGSC 10,Neurospora crassa strain:FGSC 10 Genome sequencing,SRR1587791,DOE Joint Genome Institute
-PRJNA256713,256713,1020765,SAMN02946260,FGSC 1367,Neurospora crassa strain:FGSC 1367 Genome sequencing,SRR1798252,DOE Joint Genome Institute
-PRJNA337455,337455,401817,SAMN05519135,FGSC 821,Neurospora crassa 821 genome sequencing,SRR4025973;SRR4025974,DOE Joint Genome Institute
-PRJNA249961,249961,1026651,SAMN02821501,FGSC 7290,Neurospora crassa strain:FGSC 7290 Genome sequencing,SRR1587461,DOE Joint Genome Institute
-PRJNA250650,250650,1019218,SAMN02910392,FGSC 1004,Neurospora crassa strain:1004 Genome sequencing,SRR1797907,DOE Joint Genome Institute
-PRJNA250775,250775,1024284,SAMN02821455,FGSC 1329,Neurospora crassa strain:FGSC 1329 Genome sequencing,SRR1799240,DOE Joint Genome Institute
-PRJNA265623,265623,1050911,SAMN03159411,FGSC 7528 pen(JL261),Neurospora crassa 7528 pen(JL261) Resequencing,SRR4143351,DOE Joint Genome Institute
-PRJNA249939,249939,1026633,SAMN02821493,FGSC 4228,Neurospora crassa strain:FGSC 4228 Genome sequencing,SRR1587454,DOE Joint Genome Institute
-PRJNA250733,250733,1024269,SAMN02821722,FGSC 1233,Neurospora crassa strain:FGSC 1233 Genome sequencing,SRR1799235,DOE Joint Genome Institute
-PRJNA250653,250653,1019221,SAMN02910445,FGSC 1010,Neurospora crassa strain:1010 Genome sequencing,SRR1798020,DOE Joint Genome Institute
-PRJNA250789,250789,1024302,SAMN02822357,FGSC 1580,Neurospora crassa strain:FGSC 1580 Genome sequencing,SRR1799244,DOE Joint Genome Institute
-PRJNA250140,250140,1033347,SAMN02821717,FGSC 4296,Neurospora crassa strain:FGSC 4296 Genome sequencing,SRR1800250,DOE Joint Genome Institute
-PRJNA251190,251190,1020789,SAMN02821796,FGSC 1394,Neurospora crassa strain:FGSC 1394 Genome sequencing,SRR1798283,DOE Joint Genome Institute
-PRJNA249879,249879,1026612,SAMN02821850,FGSC 4102,Neurospora crassa strain:FGSC 4102 Genome sequencing,SRR1587445,DOE Joint Genome Institute
-PRJNA265611,265611,1050899,SAMN03159456,FGSC 4332 dgr(BEX5),Neurospora crassa 4332 dgr(BEX5) Resequencing,SRR4143335,DOE Joint Genome Institute
-PRJNA250703,250703,1019299,SAMN02910255,FGSC 3006,Neurospora crassa strain:3006 Genome sequencing,SRR1797943,DOE Joint Genome Institute
-PRJNA265494,265494,1050935,SAMN03159452,FGSC 10325 grape (26-11),Neurospora crassa 10325 grape (26-11) Resequencing,SRR4143332,DOE Joint Genome Institute
-PRJNA250895,250895,1024428,SAMN02821934,FGSC 7199,Neurospora crassa strain:FGSC 7199 Genome sequencing,SRR3490980,DOE Joint Genome Institute
-PRJNA251197,251197,1020783,SAMN02821935,FGSC 1382,Neurospora crassa strain:FGSC 1382 Genome sequencing,SRR1798281,DOE Joint Genome Institute
-PRJNA249194,249194,1035576,SAMN02910268,FGSC 6453,Neurospora crassa strain:6453 Genome sequencing,SRR4069255,DOE Joint Genome Institute
-PRJNA265495,265495,1050932,SAMN03159322,FGSC 10324 grape (10-17),Neurospora crassa 10324 grape (10-17) Resequencing,SRR4143331,DOE Joint Genome Institute
-PRJNA249798,249798,1026525,SAMN02821410,FGSC 2323,Neurospora crassa strain:FGSC 2323 Genome sequencing,SRR1587857,DOE Joint Genome Institute
-PRJNA249863,249863,1026594,SAMN02821857,FGSC 3559,Neurospora crassa strain:FGSC 3559 Genome sequencing,SRR1587950,DOE Joint Genome Institute
-PRJNA249824,249824,1033179,SAMN02822162,FGSC 3907,Neurospora crassa strain:FGSC 3907 Genome sequencing,SRR1800155,DOE Joint Genome Institute
-PRJNA250642,250642,1019230,SAMN02910282,FGSC 1034,Neurospora crassa strain:1034 Genome sequencing,SRR1798024,DOE Joint Genome Institute
-PRJNA251246,251246,1020813,SAMN02821803,FGSC 3775,Neurospora crassa strain:FGSC 3775 Genome sequencing,SRR1798375,DOE Joint Genome Institute
-PRJNA250835,250835,1024365,SAMN02822359,FGSC 1729,Neurospora crassa strain:FGSC 1729 Genome sequencing,SRR1799417,DOE Joint Genome Institute
-PRJNA250755,250755,1019365,SAMN02910381,FGSC 4761,Neurospora crassa strain:4761 Genome sequencing,SRR1798007,DOE Joint Genome Institute
-PRJNA250810,250810,1019395,SAMN02910420,FGSC 8285,Neurospora crassa strain:8285 Genome sequencing,SRR1798051,DOE Joint Genome Institute
-PRJNA265594,265594,1050896,SAMN03159378,FGSC 4331 dgr(BEX5),Neurospora crassa 4331 dgr(BEX5) Resequencing,SRR4143337,DOE Joint Genome Institute
-PRJNA250060,250060,1033344,SAMN02821430,FGSC 4279,Neurospora crassa strain:FGSC 4279 Genome sequencing,SRR1800248,DOE Joint Genome Institute
-PRJNA249899,249899,1033245,SAMN02821596,FGSC 3093,Neurospora crassa strain:FGSC 3093 Genome sequencing,SRR1800186,DOE Joint Genome Institute
-PRJNA250643,250643,1019233,SAMN02910307,FGSC 1036,Neurospora crassa strain:1036 Genome sequencing,SRR1797922,DOE Joint Genome Institute
-PRJNA256759,256759,1033266,SAMN02946261,FGSC 3639,Neurospora crassa strain:FGSC 3639 Genome sequencing,SRR1800216,DOE Joint Genome Institute
-PRJNA249948,249948,1026624,SAMN02822181,FGSC 4217,Neurospora crassa strain:FGSC 4217 Genome sequencing,SRR1587451,DOE Joint Genome Institute
-PRJNA251261,251261,1020882,SAMN02821649,FGSC 6946,Neurospora crassa strain:FGSC 6946 Genome sequencing,SRR1798440,DOE Joint Genome Institute
-PRJNA251188,251188,1020798,SAMN02822323,FGSC 1432,Neurospora crassa strain:FGSC 1432 Genome sequencing,SRR1798368,DOE Joint Genome Institute
-PRJNA249966,249966,1026675,SAMN02822056,FGSC 7520,Neurospora crassa strain:FGSC 7520 Genome sequencing,SRR1587469,DOE Joint Genome Institute
-PRJNA249187,249187,1035582,SAMN02910345,FGSC 7299,Neurospora crassa strain:7299 Genome sequencing,SRR4069223,DOE Joint Genome Institute
-PRJNA250785,250785,1024311,SAMN02821457,FGSC 1583,Neurospora crassa strain:FGSC 1583 Genome sequencing,SRR1799247,DOE Joint Genome Institute
-PRJNA249886,249886,1033230,SAMN02821878,FGSC 2733,Neurospora crassa strain:FGSC 2733 Genome sequencing,SRR1800181,DOE Joint Genome Institute
-PRJNA250722,250722,1024473,SAMN02821634,FGSC 10602,Neurospora crassa strain:FGSC 10602 Genome sequencing,SRR3491983,DOE Joint Genome Institute
-PRJNA250059,250059,1033314,SAMN02821543,FGSC 4182,Neurospora crassa strain:FGSC 4182 Genome sequencing,SRR1800236,DOE Joint Genome Institute
-PRJNA249733,249733,1026501,SAMN02821853,FGSC 1665,Neurospora crassa strain:FGSC 1665 Genome sequencing,SRR1587844,DOE Joint Genome Institute
-PRJNA249799,249799,1026543,SAMN02821910,FGSC 2692,Neurospora crassa strain:FGSC 2692 Genome sequencing,SRR1587866,DOE Joint Genome Institute
-PRJNA250609,250609,1019191,SAMN02910281,FGSC 58,Neurospora crassa strain:58 Genome sequencing,SRR1797884,DOE Joint Genome Institute
-PRJNA265519,265519,1050815,SAMN03159292,FGSC 1635 mo(M193-1),Neurospora crassa 1635 mo(M193-1) Resequencing,SRR4142841,DOE Joint Genome Institute
-PRJNA250220,250220,1033413,SAMN02821776,FGSC 13496,Neurospora crassa strain:FGSC 13496 Genome sequencing,SRR1800277,DOE Joint Genome Institute
-PRJNA250050,250050,1033323,SAMN02821427,FGSC 4185,Neurospora crassa strain:FGSC 4185 Genome sequencing,SRR1800244,DOE Joint Genome Institute
-PRJNA249796,249796,1026546,SAMN02821444,FGSC 2693,Neurospora crassa strain:FGSC 2693 Genome sequencing,SRR1587867,DOE Joint Genome Institute
-PRJNA265589,265589,1050860,SAMN03159450,FGSC 1663 mo(B107),Neurospora crassa 1663 mo(B107) Resequencing,SRR4142852,DOE Joint Genome Institute
-PRJNA265572,265572,1050842,SAMN03159498,FGSC 1651 mo(NM219),Neurospora crassa 1651 mo(NM219) Resequencing,SRR4142849,DOE Joint Genome Institute
-PRJNA250123,250123,1033362,SAMN02822331,FGSC 4595,Neurospora crassa strain:FGSC 4595 Genome sequencing,SRR1800257,DOE Joint Genome Institute
-PRJNA249797,249797,1026528,SAMN02821821,FGSC 2384,Neurospora crassa strain:FGSC 2384 Genome sequencing,SRR1587859,DOE Joint Genome Institute
-PRJNA250221,250221,1033416,SAMN02821591,FGSC 13497,Neurospora crassa strain:FGSC 13497 Genome sequencing,SRR1800278,DOE Joint Genome Institute
-PRJNA249945,249945,1026642,SAMN02821895,FGSC 4336,Neurospora crassa strain:FGSC 4336 Genome sequencing,SRR1587458,DOE Joint Genome Institute
-PRJNA249848,249848,1026585,SAMN02821955,FGSC 3443,Neurospora crassa strain:FGSC 3443 Genome sequencing,SRR1587946,DOE Joint Genome Institute
-PRJNA250708,250708,1019284,SAMN02910425,FGSC 2376,Neurospora crassa strain:2376 Genome sequencing,SRR1797940,DOE Joint Genome Institute
-PRJNA250661,250661,1019260,SAMN02910444,FGSC 2173,Neurospora crassa strain:2173 Genome sequencing,SRR1797930,DOE Joint Genome Institute
-PRJNA250772,250772,1019383,SAMN02910252,FGSC 7328,Neurospora crassa strain:7328 Genome sequencing,SRR1798023,DOE Joint Genome Institute
-PRJNA250058,250058,1033311,SAMN02821929,FGSC 4181,Neurospora crassa strain:FGSC 4181 Genome sequencing,SRR1800258,DOE Joint Genome Institute
-PRJNA250136,250136,1033380,SAMN02821713,FGSC 4601,Neurospora crassa strain:FGSC 4601 Genome sequencing,SRR1800265,DOE Joint Genome Institute
-PRJNA250662,250662,1019248,SAMN02910308,FGSC 1735,Neurospora crassa strain:1735 Genome sequencing,SRR1797928,DOE Joint Genome Institute
-PRJNA249949,249949,1026690,SAMN02821962,FGSC 7526,Neurospora crassa strain:FGSC 7526 Genome sequencing,SRR1587474,DOE Joint Genome Institute
-PRJNA249981,249981,1033269,SAMN02821742,FGSC 3641,Neurospora crassa strain:FGSC 3641 Genome sequencing,SRR1800217,DOE Joint Genome Institute
-PRJNA249804,249804,1026570,SAMN02821839,FGSC 3238,Neurospora crassa strain:FGSC 3238 Genome sequencing,SRR1587938,DOE Joint Genome Institute
-PRJNA251133,251133,1020726,SAMN02821605,FGSC 502,Neurospora crassa strain:FGSC 502 Genome sequencing,SRR1798232,DOE Joint Genome Institute
-PRJNA250887,250887,1024239,SAMN02822358,FGSC 352,Neurospora crassa strain:FGSC 352 Genome sequencing,SRR1799222,DOE Joint Genome Institute
-PRJNA250748,250748,1024275,SAMN02821526,FGSC 1235,Neurospora crassa strain:FGSC 1235 Genome sequencing,SRR1799237,DOE Joint Genome Institute
-PRJNA249102,249102,1035606,SAMN02910319,FGSC 4069,Neurospora crassa strain:4069 Genome sequencing,SRR4069228,DOE Joint Genome Institute
-PRJNA250022,250022,1026699,SAMN02822211,FGSC 7782,Neurospora crassa strain:FGSC 7782 Genome sequencing,SRR1587479,DOE Joint Genome Institute
-PRJNA250064,250064,1033320,SAMN02822172,FGSC 4184,Neurospora crassa strain:FGSC 4184 Genome sequencing,SRR1800239,DOE Joint Genome Institute
-PRJNA265588,265588,1050863,SAMN03159301,FGSC 1668 mo(D318),Neurospora crassa 1668 mo(D318) Resequencing,SRR4142835,DOE Joint Genome Institute
-PRJNA249944,249944,1026645,SAMN02821891,FGSC 5181,Neurospora crassa strain:FGSC 5181 Genome sequencing,SRR1587459,DOE Joint Genome Institute
-PRJNA250649,250649,1019242,SAMN02910330,FGSC 1632,Neurospora crassa strain:1632 Genome sequencing,SRR1797925,DOE Joint Genome Institute
-PRJNA250147,250147,1033404,SAMN02821584,FGSC 11397,Neurospora crassa strain:FGSC 11397 Genome sequencing,SRR1800274,DOE Joint Genome Institute
-PRJNA265605,265605,1050878,SAMN03159482,FGSC 4325 dgr(BE52),Neurospora crassa 4325 dgr(BE52) Resequencing,SRR4143330,DOE Joint Genome Institute
-PRJNA250933,250933,1024440,SAMN02822276,FGSC 9367,Neurospora crassa strain:FGSC 9367 Genome sequencing,SRR3491011,DOE Joint Genome Institute
-PRJNA251303,251303,1020921,SAMN02821546,FGSC 25004,Neurospora crassa strain:25004 Genome sequencing,SRR4061909,DOE Joint Genome Institute
-PRJNA250893,250893,1024227,SAMN02821855,FGSC 45,Neurospora crassa strain:FGSC 45 Genome sequencing,SRR1799218,DOE Joint Genome Institute
-PRJNA250640,250640,1019224,SAMN02910361,FGSC 1017,Neurospora crassa strain:1017 Genome sequencing,SRR1798025,DOE Joint Genome Institute
-PRJNA250713,250713,1019314,SAMN02910335,FGSC 3474,Neurospora crassa strain:3474 Genome sequencing,SRR1797988,DOE Joint Genome Institute
-PRJNA250812,250812,1019413,SAMN02910422,FGSC 10606,Neurospora crassa strain:10606 Genome sequencing,SRR1798058,DOE Joint Genome Institute
-PRJNA250645,250645,1019236,SAMN02910513,FGSC 1328,Neurospora crassa strain:1328 Genome sequencing,SRR1797923,DOE Joint Genome Institute
-PRJNA250315,250315,1035507,SAMN02910273,FGSC 105,Neurospora crassa strain:105 Genome sequencing,SRR4063837,DOE Joint Genome Institute
-PRJNA251211,251211,1020849,SAMN02822401,FGSC 4305,Neurospora crassa strain:FGSC 4305 Genome sequencing,SRR1798417,DOE Joint Genome Institute
-PRJNA337491,337491,401799,SAMN05519028,FGSC 3831,Neurospora crassa 3831 genome sequencing,SRR4025949,DOE Joint Genome Institute
-PRJNA250791,250791,1024326,SAMN02822253,FGSC 1589,Neurospora crassa strain:FGSC 1589 Genome sequencing,SRR1799253,DOE Joint Genome Institute
-PRJNA250225,250225,1033422,SAMN02821589,FGSC 17921,Neurospora crassa strain:FGSC 17921 Genome sequencing,SRR1800280,DOE Joint Genome Institute
-PRJNA249980,249980,1033272,SAMN02821666,FGSC 3642,Neurospora crassa strain:FGSC 3642 Genome sequencing,SRR1800218,DOE Joint Genome Institute
-PRJNA249883,249883,1026615,SAMN02821411,FGSC 4211,Neurospora crassa strain:FGSC 4211 Genome sequencing,SRR1587447,DOE Joint Genome Institute
-PRJNA250794,250794,1024344,SAMN02822284,FGSC 1597,Neurospora crassa strain:FGSC 1597 Genome sequencing,SRR1799264,DOE Joint Genome Institute
-PRJNA250947,250947,1024452,SAMN02822298,FGSC 9382,Neurospora crassa strain:FGSC 9382 Genome sequencing,SRR3491009,DOE Joint Genome Institute
-PRJNA250829,250829,1024347,SAMN02822274,FGSC 1598,Neurospora crassa strain:FGSC 1598 Genome sequencing,SRR1799415,DOE Joint Genome Institute
-PRJNA265496,265496,1050929,SAMN03159486,FGSC 10323 grape (25-2),Neurospora crassa 10323 grape (25-2) Resequencing,SRR4143333,DOE Joint Genome Institute
-PRJNA250052,250052,1033308,SAMN02822001,FGSC 4180,Neurospora crassa strain:FGSC 4180 Genome sequencing,SRR1800235,DOE Joint Genome Institute
-PRJNA250648,250648,1019206,SAMN02910423,FGSC 861,Neurospora crassa strain:861 Genome sequencing,SRR1797905,DOE Joint Genome Institute
-PRJNA250141,250141,1033356,SAMN02821597,FGSC 4593,Neurospora crassa strain:FGSC 4593 Genome sequencing,SRR1800255,DOE Joint Genome Institute
-PRJNA249862,249862,1026606,SAMN02822209,FGSC 4041,Neurospora crassa strain:FGSC 4041 Genome sequencing,SRR1587442,DOE Joint Genome Institute
-PRJNA251140,251140,1020738,SAMN02821652,FGSC 746,Neurospora crassa strain:FGSC 746 Genome sequencing,SRR1798236,DOE Joint Genome Institute
-PRJNA250701,250701,1019266,SAMN02910424,FGSC 2177,Neurospora crassa strain:2177 Genome sequencing,SRR1797933,DOE Joint Genome Institute
-PRJNA250881,250881,1024410,SAMN02822285,FGSC 3320,Neurospora crassa strain:FGSC 3320 Genome sequencing,SRR3490933,DOE Joint Genome Institute
-PRJNA250145,250145,1033383,SAMN02821434,FGSC 4602,Neurospora crassa strain:FGSC 4602 Genome sequencing,SRR1800269,DOE Joint Genome Institute
-PRJNA249878,249878,1033203,SAMN02822049,FGSC 1515,Neurospora crassa strain:FGSC 1515 Genome sequencing,SRR1800165,DOE Joint Genome Institute
-PRJNA265596,265596,1050890,SAMN03159377,FGSC 4329 dgr(L5),Neurospora crassa 4329 dgr(L5) Resequencing,SRR4143344,DOE Joint Genome Institute
-PRJNA249898,249898,1033251,SAMN02821632,FGSC 3236,Neurospora crassa strain:FGSC 3236 Genome sequencing,SRR1800188,DOE Joint Genome Institute
-PRJNA265592,265592,1050851,SAMN03159432,FGSC 1660 mo(D314),Neurospora crassa 1660 mo(D314) Resequencing,SRR4142843,DOE Joint Genome Institute
-PRJNA256744,256744,1026531,SAMN02946459,FGSC 2389,Neurospora crassa strain:FGSC 2389 Genome sequencing,SRR1587860,DOE Joint Genome Institute
-PRJNA251252,251252,1020873,SAMN02821800,FGSC 4314,Neurospora crassa strain:FGSC 4314 Genome sequencing,SRR1798433,DOE Joint Genome Institute
-PRJNA251301,251301,1020927,SAMN02821553,FGSC 25006,Neurospora crassa strain:25006 Genome sequencing,SRR1798553,DOE Joint Genome Institute
-PRJNA251214,251214,1020843,SAMN02821442,FGSC 4297,Neurospora crassa strain:FGSC 4297 Genome sequencing,SRR1798409,DOE Joint Genome Institute
-PRJNA249736,249736,1026489,SAMN02821610,FGSC 1530,Neurospora crassa strain:FGSC 1530 Genome sequencing,SRR1587835,DOE Joint Genome Institute
-PRJNA249891,249891,1033242,SAMN02822216,FGSC 2999,Neurospora crassa strain:FGSC 2999 Genome sequencing,SRR1800185,DOE Joint Genome Institute
-PRJNA256715,256715,1020684,SAMN02946259,FGSC 13,Neurospora crassa strain:FGSC 13 Genome sequencing,SRR1798210,DOE Joint Genome Institute
-PRJNA250047,250047,1033296,SAMN02822320,FGSC 3904,Neurospora crassa strain:FGSC 3904 Genome sequencing,SRR1800230,DOE Joint Genome Institute
-PRJNA337448,337448,401804,SAMN05519213,FGSC 3246,Neurospora crassa 3246 genome sequencing,SRR4025944;SRR4025945,DOE Joint Genome Institute
-PRJNA250135,250135,1033353,SAMN02821965,FGSC 4592,Neurospora crassa strain:FGSC 4592 Genome sequencing,SRR1800254,DOE Joint Genome Institute
-PRJNA265515,265515,1050827,SAMN03159471,FGSC 1643 col(P2615),Neurospora crassa 1643 col(P2615) Resequencing,SRR4151075,DOE Joint Genome Institute
-PRJNA249103,249103,1035543,SAMN02910267,FGSC 4604,Neurospora crassa strain:4604 Genome sequencing,SRR4069226,DOE Joint Genome Institute
-PRJNA265502,265502,1050947,SAMN03159404,FGSC 10329 Potassium retention,Neurospora crassa 10329 Potassium retention Resequencing,SRR4143338,DOE Joint Genome Institute
-PRJNA251132,251132,1020750,SAMN02821896,FGSC 993,Neurospora crassa strain:FGSC 993 Genome sequencing,SRR1798242,DOE Joint Genome Institute
-PRJNA251183,251183,1020786,SAMN02822378,FGSC 1384,Neurospora crassa strain:FGSC 1384 Genome sequencing,SRR1798282,DOE Joint Genome Institute
-PRJNA251260,251260,1020906,SAMN02821640,FGSC 10989,Neurospora crassa strain:10989 Genome sequencing,SRR1798514,DOE Joint Genome Institute
-PRJNA250608,250608,1019197,SAMN02910428,FGSC 854,Neurospora crassa strain:854 Genome sequencing,SRR1797900,DOE Joint Genome Institute
-PRJNA249728,249728,1026480,SAMN02821808,FGSC 1224,Neurospora crassa strain:FGSC 1224 Genome sequencing,SRR1587830,DOE Joint Genome Institute
-PRJNA250837,250837,1024359,SAMN02822363,FGSC 1631,Neurospora crassa strain:FGSC 1631 Genome sequencing,SRR1799416,DOE Joint Genome Institute
-PRJNA250706,250706,1019278,SAMN02910331,FGSC 2344,Neurospora crassa strain:2344 Genome sequencing,SRR1797937,DOE Joint Genome Institute
-PRJNA249873,249873,1033194,SAMN02821881,FGSC 1163,Neurospora crassa strain:FGSC 1163 Genome sequencing,SRR1800161,DOE Joint Genome Institute
-PRJNA250226,250226,1033425,SAMN02821779,FGSC 17966,Neurospora crassa strain:FGSC 17966 Genome sequencing,SRR1800282,DOE Joint Genome Institute
-PRJNA250926,250926,1024431,SAMN02822300,FGSC 8199,Neurospora crassa strain:FGSC 8199 Genome sequencing,SRR3490982,DOE Joint Genome Institute
-PRJNA250055,250055,1033335,SAMN02821743,FGSC 4189,Neurospora crassa strain:FGSC 4189 Genome sequencing,SRR1800242,DOE Joint Genome Institute
-PRJNA249735,249735,1026444,SAMN02821847,FGSC 137,Neurospora crassa strain:FGSC 137 Genome sequencing,SRR1587795,DOE Joint Genome Institute
-PRJNA249957,249957,1026678,SAMN02822187,FGSC 7521,Neurospora crassa strain:FGSC 7521 Genome sequencing,SRR1587470,DOE Joint Genome Institute
-PRJNA250639,250639,1019203,SAMN02910270,FGSC 859,Neurospora crassa strain:859 Genome sequencing,SRR1797901,DOE Joint Genome Institute
-PRJNA249881,249881,1033224,SAMN02822174,FGSC 2542,Neurospora crassa strain:FGSC 2542 Genome sequencing,SRR1800175,DOE Joint Genome Institute
-PRJNA250817,250817,1019407,SAMN02910389,FGSC 8971,Neurospora crassa strain:8971 Genome sequencing,SRR1798057,DOE Joint Genome Institute
-PRJNA249877,249877,1026621,SAMN02821459,FGSC 4215,Neurospora crassa strain:FGSC 4215 Genome sequencing,SRR1587450,DOE Joint Genome Institute
-PRJNA250711,250711,1019317,SAMN02910365,FGSC 3509,Neurospora crassa strain:3509 Genome sequencing,SRR1797989,DOE Joint Genome Institute
-PRJNA250613,250613,1019200,SAMN02910396,FGSC 856,Neurospora crassa strain:856 Genome sequencing,SRR1797903,DOE Joint Genome Institute
-PRJNA250705,250705,1019275,SAMN02910310,FGSC 2341,Neurospora crassa strain:2341 Genome sequencing,SRR1797936,DOE Joint Genome Institute
-PRJNA249959,249959,1026681,SAMN02822314,FGSC 7522,Neurospora crassa strain:FGSC 7522 Genome sequencing,SRR1587471,DOE Joint Genome Institute
-PRJNA250035,250035,1026702,SAMN02821385,FGSC 7783,Neurospora crassa strain:FGSC 7783 Genome sequencing,SRR1587480,DOE Joint Genome Institute
-PRJNA346386,346386,1024314,SAMN05920773,FGSC 1585,Neurospora crassa FGSC 1585 genome sequencing,SRR4434478,DOE Joint Genome Institute
-PRJNA249871,249871,1026600,SAMN02822051,FGSC 3650,Neurospora crassa strain:FGSC 3650 Genome sequencing,SRR1587957,DOE Joint Genome Institute
-PRJNA250813,250813,1019401,SAMN02946341,FGSC 8372,Neurospora crassa strain:8372 Genome sequencing,SRR1798054,DOE Joint Genome Institute
-PRJNA249795,249795,1026522,SAMN02821913,FGSC 2320,Neurospora crassa strain:FGSC 2320 Genome sequencing,SRR1587856,DOE Joint Genome Institute
-PRJNA265607,265607,1050872,SAMN03159415,FGSC 1674 mo(P1718),Neurospora crassa 1674 mo(P1718) Resequencing,SRR4142854,DOE Joint Genome Institute
-PRJNA265516,265516,1050824,SAMN03159470,FGSC 1641 mo(P1417),Neurospora crassa 1641 mo(P1417) Resequencing,SRR4142845,DOE Joint Genome Institute
-PRJNA250715,250715,1019320,SAMN02910257,FGSC 3510,Neurospora crassa strain:3510 Genome sequencing,SRR1797990,DOE Joint Genome Institute
-PRJNA249107,249107,1035546,SAMN02910374,FGSC 4606,Neurospora crassa strain:4606 Genome sequencing,SRR4069227,DOE Joint Genome Institute
-PRJNA250850,250850,1024383,SAMN02822273,FGSC 2282,Neurospora crassa strain:FGSC 2282 Genome sequencing,SRR1799266,DOE Joint Genome Institute
-PRJNA259092,259092,1020861,SAMN03003355,FGSC 4310,Neurospora crassa strain:FGSC 4310 Genome sequencing,SRR1798421,DOE Joint Genome Institute
-PRJNA249801,249801,1026519,SAMN02821733,FGSC 2319,Neurospora crassa strain:FGSC 2319 Genome sequencing,SRR1587854,DOE Joint Genome Institute
-PRJNA249105,249105,1035600,SAMN02910373,FGSC 3122,Neurospora crassa strain:3122 Genome sequencing,SRR4069233,DOE Joint Genome Institute
-PRJNA250903,250903,1024242,SAMN02821466,FGSC 353,Neurospora crassa strain:FGSC 353 Genome sequencing,SRR1799223,DOE Joint Genome Institute
-PRJNA250897,250897,1024419,SAMN02822271,FGSC 4902,Neurospora crassa strain:FGSC 4902 Genome sequencing,SRR3490979,DOE Joint Genome Institute
-PRJNA337445,337445,401813,SAMN05517978,FGSC 3114,Neurospora crassa 3114 genome sequencing,SRR4025961;SRR4025962,DOE Joint Genome Institute
-PRJNA250029,250029,1026696,SAMN02821378,FGSC 7530,Neurospora crassa strain:FGSC 7530 Genome sequencing,SRR1587478,DOE Joint Genome Institute
-PRJNA337446,337446,401810,SAMN05519216,FGSC 7035,Neurospora crassa 7035 genome sequencing,SRR4025966;SRR4025967;SRR4025968;SRR4025969,DOE Joint Genome Institute
-PRJNA249789,249789,1026558,SAMN02821912,FGSC 2762,Neurospora crassa strain:FGSC 2762 Genome sequencing,SRR1587872,DOE Joint Genome Institute
-PRJNA249727,249727,1026474,SAMN02822168,FGSC 1113,Neurospora crassa strain:FGSC 1113 Genome sequencing,SRR1587828,DOE Joint Genome Institute
-PRJNA249788,249788,1026552,SAMN02822156,FGSC 2734,Neurospora crassa strain:FGSC 2734 Genome sequencing,SRR1587870,DOE Joint Genome Institute
-PRJNA250754,250754,1019335,SAMN02910312,FGSC 3877,Neurospora crassa strain:3877 Genome sequencing,SRR1797995,DOE Joint Genome Institute
-PRJNA249872,249872,1033197,SAMN02821886,FGSC 1367,Neurospora crassa strain:FGSC 1367 Genome sequencing,SRR1800162,DOE Joint Genome Institute
-PRJNA251203,251203,1020807,SAMN02821782,FGSC 3768,Neurospora crassa strain:FGSC 3768 Genome sequencing,SRR1798377,DOE Joint Genome Institute
-PRJNA250707,250707,1019308,SAMN02910379,FGSC 3425,Neurospora crassa strain:3425 Genome sequencing,SRR1797986,DOE Joint Genome Institute
-PRJNA250763,250763,1019371,SAMN02910286,FGSC 5785,Neurospora crassa strain:5785 Genome sequencing,SRR1798008,DOE Joint Genome Institute
-PRJNA251294,251294,1017690,SAMN02822106,FGSC #107,Neurospora crassa strain:FGSC #107 Genome sequencing,SRR1797596,DOE Joint Genome Institute
-PRJNA250710,250710,1019287,SAMN02910334,FGSC 2391,Neurospora crassa strain:2391 Genome sequencing,SRR1797941,DOE Joint Genome Institute
-PRJNA250138,250138,1033350,SAMN02821429,FGSC 4591,Neurospora crassa strain:FGSC 4591 Genome sequencing,SRR1800252,DOE Joint Genome Institute
-PRJNA250146,250146,1033386,SAMN02821454,FGSC 4924,Neurospora crassa strain:FGSC 4924 Genome sequencing,SRR1800267,DOE Joint Genome Institute
-PRJNA337454,337454,401800,SAMN05519289,FGSC 1303,Neurospora crassa 1303 genome sequencing,SRR4025947;SRR4025948,DOE Joint Genome Institute
-PRJNA251139,251139,1020744,SAMN02822332,FGSC 943,Neurospora crassa strain:FGSC 943 Genome sequencing,SRR1798239,DOE Joint Genome Institute
-PRJNA250325,250325,1035528,SAMN02910404,FGSC 2339,Neurospora crassa strain:2339 Genome sequencing,SRR4063863,DOE Joint Genome Institute
-PRJNA250771,250771,1019380,SAMN02910416,FGSC 6952,Neurospora crassa strain:6952 Genome sequencing,SRR1798021,DOE Joint Genome Institute
-PRJNA250908,250908,1024254,SAMN02822272,FGSC 541,Neurospora crassa strain:FGSC 541 Genome sequencing,SRR1799227,DOE Joint Genome Institute
-PRJNA250788,250788,1024299,SAMN02822024,FGSC 1579,Neurospora crassa strain:FGSC 1579 Genome sequencing,SRR1799243,DOE Joint Genome Institute
-PRJNA250049,250049,1033287,SAMN02822241,FGSC 3647,Neurospora crassa strain:FGSC 3647 Genome sequencing,SRR1800224,DOE Joint Genome Institute
-PRJNA251311,251311,1020951,SAMN02821942,FGSC 25014,Neurospora crassa strain:25014 Genome sequencing,SRR1798584,DOE Joint Genome Institute
-PRJNA256791,256791,1035561,SAMN02946345,FGSC 6440,Neurospora crassa strain:6440 Genome sequencing,SRR4069248,DOE Joint Genome Institute
-PRJNA251124,251124,1020732,SAMN02821650,FGSC 507,Neurospora crassa strain:FGSC 507 Genome sequencing,SRR1798234,DOE Joint Genome Institute
-PRJNA250130,250130,1033365,SAMN02821425,FGSC 4596,Neurospora crassa strain:FGSC 4596 Genome sequencing,SRR1800260,DOE Joint Genome Institute
-PRJNA337489,337489,401807,SAMN05519171,FGSC 3564,Neurospora crassa 3564 genome sequencing,SRR4025950;SRR4025951,DOE Joint Genome Institute
-PRJNA249201,249201,1035609,SAMN02910437,FGSC 6458,Neurospora crassa strain:6458 Genome sequencing,SRR4069259,DOE Joint Genome Institute
-PRJNA249870,249870,1026450,SAMN02822166,FGSC 380,Neurospora crassa strain:FGSC 380 Genome sequencing,SRR1587812,DOE Joint Genome Institute
-PRJNA249951,249951,1026462,SAMN02822047,FGSC 635,Neurospora crassa strain:FGSC 635 Genome sequencing,SRR1587819,DOE Joint Genome Institute
-PRJNA249104,249104,1035540,SAMN02910349,FGSC 4603,Neurospora crassa strain:4603 Genome sequencing,SRR4064433,DOE Joint Genome Institute
-PRJNA265517,265517,1050821,SAMN03159449,FGSC 1640 mo(D301),Neurospora crassa 1640 mo(D301) Resequencing,SRR4142847,DOE Joint Genome Institute
-PRJNA251068,251068,1020714,SAMN02821613,FGSC 317,Neurospora crassa strain:FGSC 317 Genome sequencing,SRR1798228,DOE Joint Genome Institute
-PRJNA250765,250765,1019350,SAMN02910367,FGSC 4038,Neurospora crassa strain:4038 Genome sequencing,SRR1797999,DOE Joint Genome Institute
-PRJNA250759,250759,1019332,SAMN02910296,FGSC 3859,Neurospora crassa strain:3859 Genome sequencing,SRR1797994,DOE Joint Genome Institute
-PRJNA249874,249874,1026618,SAMN02821627,FGSC 4213,Neurospora crassa strain:FGSC 4213 Genome sequencing,SRR1587448,DOE Joint Genome Institute
-PRJNA250038,250038,1026708,SAMN02821933,FGSC 7921,Neurospora crassa strain:FGSC 7921 Genome sequencing,SRR1587483,DOE Joint Genome Institute
-PRJNA251205,251205,1020837,SAMN02822382,FGSC 3954,Neurospora crassa strain:FGSC 3954 Genome sequencing,SRR1798400,DOE Joint Genome Institute
-PRJNA250054,250054,1033329,SAMN02822243,FGSC 4187,Neurospora crassa strain:FGSC 4187 Genome sequencing,SRR1800243,DOE Joint Genome Institute
-PRJNA251256,251256,1020876,SAMN02821438,FGSC 4315,Neurospora crassa strain:FGSC 4315 Genome sequencing,SRR1798436,DOE Joint Genome Institute
-PRJNA251191,251191,1020792,SAMN02821941,FGSC 1400,Neurospora crassa strain:FGSC 1400 Genome sequencing,SRR1798284,DOE Joint Genome Institute
-PRJNA250023,250023,1026705,SAMN02822000,FGSC 7784,Neurospora crassa strain:FGSC 7784 Genome sequencing,SRR1587482,DOE Joint Genome Institute
-PRJNA249856,249856,1026447,SAMN02821953,FGSC 340,Neurospora crassa strain:FGSC 340 Genome sequencing,SRR1587796,DOE Joint Genome Institute
-PRJNA250899,250899,1024248,SAMN02822377,FGSC 386,Neurospora crassa strain:FGSC 386 Genome sequencing,SRR1799225,DOE Joint Genome Institute
-PRJNA250762,250762,1019374,SAMN02910287,FGSC 5858,Neurospora crassa strain:5858 Genome sequencing,SRR1798018,DOE Joint Genome Institute
-PRJNA250946,250946,1024437,SAMN02822365,FGSC 8204,Neurospora crassa strain:FGSC 8204 Genome sequencing,SRR3491010,DOE Joint Genome Institute
-PRJNA251069,251069,1020696,SAMN02821890,FGSC 64,Neurospora crassa strain:FGSC 64 Genome sequencing,SRR1798213,DOE Joint Genome Institute
-PRJNA251075,251075,1020681,SAMN02822315,FGSC 12,Neurospora crassa strain:FGSC 12 Genome sequencing,SRR1798209,DOE Joint Genome Institute
-PRJNA265520,265520,1050812,SAMN03159399,FGSC 1633 col(D5),Neurospora crassa 1633 col(D5) Resequencing,SRR4142840,DOE Joint Genome Institute
-PRJNA251085,251085,1020711,SAMN02821622,FGSC 255,Neurospora crassa strain:FGSC 255 Genome sequencing,SRR1798226,DOE Joint Genome Institute
-PRJNA249099,249099,1035597,SAMN02910434,FGSC 2637,Neurospora crassa strain:2637 Genome sequencing,SRR4069229,DOE Joint Genome Institute
-PRJNA251074,251074,1020717,SAMN02821615,FGSC 336,Neurospora crassa strain:FGSC 336 Genome sequencing,SRR1798229,DOE Joint Genome Institute
-PRJNA249188,249188,1035585,SAMN02910407,FGSC 7304,Neurospora crassa strain:7304 Genome sequencing,SRR4069242,DOE Joint Genome Institute
-PRJNA250056,250056,1033332,SAMN02822003,FGSC 4188,Neurospora crassa strain:FGSC 4188 Genome sequencing,SRR1800241,DOE Joint Genome Institute
-PRJNA251262,251262,1020903,SAMN02821807,FGSC 10988,Neurospora crassa strain:10988 Genome sequencing,SRR1798512,DOE Joint Genome Institute
-PRJNA250051,250051,1033302,SAMN02821708,FGSC 3906,Neurospora crassa strain:FGSC 3906 Genome sequencing,SRR1800232,DOE Joint Genome Institute
-PRJNA249819,249819,1033188,SAMN02822160,FGSC 781,Neurospora crassa strain:FGSC 781 Genome sequencing,SRR1800158,DOE Joint Genome Institute
-PRJNA250909,250909,1024230,SAMN02822059,FGSC 50,Neurospora crassa strain:FGSC 50 Genome sequencing,SRR1799219,DOE Joint Genome Institute
-PRJNA249866,249866,1033212,SAMN02822217,FGSC 2137,Neurospora crassa strain:FGSC 2137 Genome sequencing,SRR1800169,DOE Joint Genome Institute
-PRJNA249820,249820,1033191,SAMN02821837,FGSC 1162,Neurospora crassa strain:FGSC 1162 Genome sequencing,SRR1800160,DOE Joint Genome Institute
-PRJNA249884,249884,1033218,SAMN02821458,FGSC 2328,Neurospora crassa strain:FGSC 2328 Genome sequencing,SRR1800174,DOE Joint Genome Institute
-PRJNA250770,250770,1019356,SAMN02910256,FGSC 4324,Neurospora crassa strain:4324 Genome sequencing,SRR1798001,DOE Joint Genome Institute
-PRJNA265498,265498,1050923,SAMN03159461,FGSC 10321 grape (29-40)t,Neurospora crassa 10321 grape (29-40)t Resequencing,SRR4143341,DOE Joint Genome Institute
-PRJNA251081,251081,1020705,SAMN02822301,FGSC 185,Neurospora crassa strain:FGSC 185 Genome sequencing,SRR1798225,DOE Joint Genome Institute
-PRJNA249882,249882,1026609,SAMN02821451,FGSC 4094,Neurospora crassa strain:FGSC 4094 Genome sequencing,SRR1587444,DOE Joint Genome Institute
-PRJNA250781,250781,1024320,SAMN02822381,FGSC 1587,Neurospora crassa strain:FGSC 1587 Genome sequencing,SRR1799262,DOE Joint Genome Institute
-PRJNA250702,250702,1019281,SAMN02821428,FGSC 2345 un-12,Neurospora crassa strain:2345 un-12 Genome sequencing,SRR1797938,DOE Joint Genome Institute
-PRJNA251302,251302,1020936,SAMN02821480,FGSC 25009,Neurospora crassa strain:25009 Genome sequencing,SRR1798571,DOE Joint Genome Institute
-PRJNA250807,250807,1019410,SAMN02910390,FGSC 9581,Neurospora crassa strain:9581 Genome sequencing,SRR1798056,DOE Joint Genome Institute
-PRJNA346387,346387,1024329,SAMN05920769,FGSC 1590,Neurospora crassa FGSC 1590 genome sequencing,SRR4434479,DOE Joint Genome Institute
-PRJNA250227,250227,1033428,SAMN02822339,FGSC 18899,Neurospora crassa strain:FGSC 18899 Genome sequencing,SRR1800281,DOE Joint Genome Institute
-PRJNA337492,337492,401818,SAMN05519175,FGSC 322,Neurospora crassa 322 genome sequencing,SRR4025970;SRR4025971;SRR4025972,DOE Joint Genome Institute
-PRJNA250041,250041,1033290,SAMN02821704,FGSC 3651,Neurospora crassa strain:FGSC 3651 Genome sequencing,SRR1800225,DOE Joint Genome Institute
-PRJNA250746,250746,1024272,SAMN02822244,FGSC 1234,Neurospora crassa strain:FGSC 1234 Genome sequencing,SRR1799236,DOE Joint Genome Institute
-PRJNA337494,337494,401808,SAMN05518902,FGSC 3566,Neurospora crassa 3566 genome sequencing,SRR4025964;SRR4025965,DOE Joint Genome Institute
-PRJNA250843,250843,1024377,SAMN02822058,FGSC 2271,Neurospora crassa strain:FGSC 2271 Genome sequencing,SRR1799265,DOE Joint Genome Institute
-PRJNA250712,250712,1019290,SAMN02910333,FGSC 2587,Neurospora crassa strain:2587 Genome sequencing,SRR1797939,DOE Joint Genome Institute
-PRJNA250851,250851,1024380,SAMN02821863,FGSC 2272,Neurospora crassa strain:FGSC 2272 Genome sequencing,SRR1799419,DOE Joint Genome Institute
+PRJNA251313,251313,1020945,SAMN02822017,FGSC_25012,Neurospora crassa strain:25012 Genome sequencing,SRR1798574,DOE Joint Genome Institute
+PRJNA265571,265571,1050845,SAMN03159413,FGSC_1658_mo(NM213t),Neurospora crassa 1658 mo(NM213t) Resequencing,SRR4142846,DOE Joint Genome Institute
+PRJNA249868,249868,1026597,SAMN02821856,FGSC_3648,Neurospora crassa strain:FGSC 3648 Genome sequencing,SRR1587951,DOE Joint Genome Institute
+PRJNA249111,249111,1035513,SAMN02910375,FGSC_626,Neurospora crassa strain:626 Genome sequencing,SRR4063853,DOE Joint Genome Institute
+PRJNA250792,250792,1024341,SAMN02821854,FGSC_1596,Neurospora crassa strain:FGSC 1596 Genome sequencing,SRR1799256,DOE Joint Genome Institute
+PRJNA250732,250732,1024491,SAMN02821421,FGSC_10773,Neurospora crassa strain:FGSC 10773 Genome sequencing,SRR3492084,DOE Joint Genome Institute
+PRJNA256716,256716,1020768,SAMN02946270,FGSC_1372,Neurospora crassa strain:FGSC 1372 Genome sequencing,SRR1798253,DOE Joint Genome Institute
+PRJNA250153,250153,1033395,SAMN02821433,FGSC_5076,Neurospora crassa strain:FGSC 5076 Genome sequencing,SRR1800272,DOE Joint Genome Institute
+PRJNA249815,249815,1026567,SAMN02821533,FGSC_3237,Neurospora crassa strain:FGSC 3237 Genome sequencing,SRR1587937,DOE Joint Genome Institute
+PRJNA249875,249875,1033200,SAMN02822182,FGSC_1372,Neurospora crassa strain:FGSC 1372 Genome sequencing,SRR1800164,DOE Joint Genome Institute
+PRJNA249847,249847,1026588,SAMN02821617,FGSC_3445,Neurospora crassa strain:FGSC 3445 Genome sequencing,SRR1587947,DOE Joint Genome Institute
+PRJNA251242,251242,1020891,SAMN02821826,FGSC_10984_Mauriceville,Neurospora crassa strain:10984 Mauriceville Genome sequencing,SRR4061905,DOE Joint Genome Institute
+PRJNA250834,250834,1024392,SAMN02821865,FGSC_2472,Neurospora crassa strain:FGSC 2472 Genome sequencing,SRR1799269,DOE Joint Genome Institute
+PRJNA337493,337493,401806,SAMN05519139,FGSC_3562,Neurospora crassa 3562 genome sequencing,SRR4025954;SRR4025955,DOE Joint Genome Institute
+PRJNA251287,251287,1020912,SAMN02821784,FGSC_25001,Neurospora crassa strain:25001 Genome sequencing,SRR1798518,DOE Joint Genome Institute
+PRJNA250046,250046,1033293,SAMN02822202,FGSC_3737,Neurospora crassa strain:FGSC 3737 Genome sequencing,SRR1800227,DOE Joint Genome Institute
+PRJNA265621,265621,1050917,SAMN03159409,FGSC_8281_tns,Neurospora crassa 8281 tns Resequencing,SRR4143340,DOE Joint Genome Institute
+PRJNA265598,265598,1050884,SAMN03159484,FGSC_4327_dgr(L1),Neurospora crassa 4327 dgr(L1) Resequencing,SRR4143345,DOE Joint Genome Institute
+PRJNA249952,249952,1026459,SAMN02821499,FGSC_632,Neurospora crassa strain:FGSC 632 Genome sequencing,SRR1587816,DOE Joint Genome Institute
+PRJNA249193,249193,1035621,SAMN02910266,FGSC_8930,Neurospora crassa strain:8930 Genome sequencing,SRR4069240,DOE Joint Genome Institute
+PRJNA250159,250159,1033398,SAMN02822204,FGSC_9718,Neurospora crassa strain:FGSC 9718 Genome sequencing,SRR1800271,DOE Joint Genome Institute
+PRJNA249814,249814,1033170,SAMN02822036,FGSC_323,Neurospora crassa strain:FGSC 323 Genome sequencing,SRR1800148,DOE Joint Genome Institute
+PRJNA251300,251300,1020924,SAMN02822348,FGSC_25005,Neurospora crassa strain:25005 Genome sequencing,SRR1798549,DOE Joint Genome Institute
+PRJNA249109,249109,1035549,SAMN02910439,FGSC_5831,Neurospora crassa strain:5831 Genome sequencing,SRR4069220,DOE Joint Genome Institute
+PRJNA250853,250853,1024389,SAMN02821642,FGSC_2435,Neurospora crassa strain:FGSC 2435 Genome sequencing,SRR1799268,DOE Joint Genome Institute
+PRJNA249947,249947,1026639,SAMN02821889,FGSC_4335,Neurospora crassa strain:FGSC 4335 Genome sequencing,SRR1587457,DOE Joint Genome Institute
+PRJNA249940,249940,1026636,SAMN02822219,FGSC_4230,Neurospora crassa strain:FGSC 4230 Genome sequencing,SRR1587456,DOE Joint Genome Institute
+PRJNA249196,249196,1035618,SAMN02910380,FGSC_8344,Neurospora crassa strain:8344 Genome sequencing,SRR4069262,DOE Joint Genome Institute
+PRJNA250848,250848,1024401,SAMN02822060,FGSC_3007,Neurospora crassa strain:FGSC 3007 Genome sequencing,SRR1799271,DOE Joint Genome Institute
+PRJNA250936,250936,1024461,SAMN02821862,FGSC_9414,Neurospora crassa strain:FGSC 9414 Genome sequencing,SRR3491008,DOE Joint Genome Institute
+PRJNA251189,251189,1020795,SAMN02822325,FGSC_1401,Neurospora crassa strain:FGSC 1401 Genome sequencing,SRR1798309,DOE Joint Genome Institute
+PRJNA250955,250955,1024467,SAMN02822067,FGSC_9433,Neurospora crassa strain:FGSC 9433 Genome sequencing,SRR3491017,DOE Joint Genome Institute
+PRJNA250898,250898,1024425,SAMN02821672,FGSC_6017,Neurospora crassa strain:FGSC 6017 Genome sequencing,SRR3490962,DOE Joint Genome Institute
+PRJNA249813,249813,1033164,SAMN02821735,FGSC_57,Neurospora crassa strain:FGSC 57 Genome sequencing,SRR1800152,DOE Joint Genome Institute
+PRJNA250779,250779,1019389,SAMN02910442,FGSC_7330,Neurospora crassa strain:7330 Genome sequencing,SRR1798026,DOE Joint Genome Institute
+PRJNA265610,265610,1050902,SAMN03159462,FGSC_4333_dgr(BEX6),Neurospora crassa 4333 dgr(BEX6) Resequencing,SRR4143348,DOE Joint Genome Institute
+PRJNA250780,250780,1024296,SAMN02821852,FGSC_1516,Neurospora crassa strain:FGSC 1516 Genome sequencing,SRR1799242,DOE Joint Genome Institute
+PRJNA256714,256714,1020693,SAMN02946561,FGSC_57,Neurospora crassa strain:FGSC 57 Genome sequencing,SRR1798214,DOE Joint Genome Institute
+PRJNA265501,265501,1050950,SAMN03159287,FGSC_10770_os-1_nic-1,Neurospora crassa 10770 os-1 nic-1 Resequencing,SRR4143352,DOE Joint Genome Institute
+PRJNA249956,249956,1026657,SAMN02821920,FGSC_7513,Neurospora crassa strain:FGSC 7513 Genome sequencing,SRR1587463,DOE Joint Genome Institute
+PRJNA250048,250048,1033326,SAMN02821548,FGSC_4186,Neurospora crassa strain:FGSC 4186 Genome sequencing,SRR1800240,DOE Joint Genome Institute
+PRJNA251258,251258,1020819,SAMN02821651,FGSC_3778,Neurospora crassa strain:FGSC 3778 Genome sequencing,SRR1798385,DOE Joint Genome Institute
+PRJNA251245,251245,1020858,SAMN02822393,FGSC_4309,Neurospora crassa strain:FGSC 4309 Genome sequencing,SRR1798424,DOE Joint Genome Institute
+PRJNA251296,251296,1017687,SAMN02822386,FGSC_#4908,Neurospora crassa strain:FGSC #4908 Genome sequencing,SRR1797591,DOE Joint Genome Institute
+PRJNA250322,250322,1035522,SAMN02910300,FGSC_2225,Neurospora crassa strain:2225 Genome sequencing,SRR4063861,DOE Joint Genome Institute
+PRJNA251248,251248,1020870,SAMN02821446,FGSC_4313,Neurospora crassa strain:FGSC 4313 Genome sequencing,SRR1798431,DOE Joint Genome Institute
+PRJNA250040,250040,1026711,SAMN02821709,FGSC_9444,Neurospora crassa strain:FGSC 9444 Genome sequencing,SRR1587487,DOE Joint Genome Institute
+PRJNA251307,251307,1020939,SAMN02822111,FGSC_25010,Neurospora crassa strain:25010 Genome sequencing,SRR1798560,DOE Joint Genome Institute
+PRJNA251196,251196,1020801,SAMN02821616,FGSC_1434,Neurospora crassa strain:FGSC 1434 Genome sequencing,SRR1798310,DOE Joint Genome Institute
+PRJNA251207,251207,1020840,SAMN02821790,FGSC_4295,Neurospora crassa strain:FGSC 4295 Genome sequencing,SRR1798405,DOE Joint Genome Institute
+PRJNA250896,250896,1024257,SAMN02821464,FGSC_670,Neurospora crassa strain:FGSC 670 Genome sequencing,SRR1799231,DOE Joint Genome Institute
+PRJNA337124,337124,401797,SAMN05518882,FGSC_2261,Neurospora crassa 2261 genome sequencing,SRR4025934,DOE Joint Genome Institute
+PRJNA250660,250660,1019257,SAMN02910254,FGSC_2069,Neurospora crassa strain:2069 Genome sequencing,SRR1797931,DOE Joint Genome Institute
+PRJNA249861,249861,1026576,SAMN02821950,FGSC_3304,Neurospora crassa strain:FGSC 3304 Genome sequencing,SRR1587941,DOE Joint Genome Institute
+PRJNA249867,249867,1026603,SAMN02821844,FGSC_3896,Neurospora crassa strain:FGSC 3896 Genome sequencing,SRR1587441,DOE Joint Genome Institute
+PRJNA250773,250773,1019353,SAMN02910378,FGSC_4063,Neurospora crassa strain:4063 Genome sequencing,SRR1798000,DOE Joint Genome Institute
+PRJNA250142,250142,1033392,SAMN02822329,FGSC_5785,Neurospora crassa strain:FGSC 5785 Genome sequencing,SRR1800268,DOE Joint Genome Institute
+PRJNA250326,250326,1035510,SAMN02910403,FGSC_252,Neurospora crassa strain:252 Genome sequencing,SRR4063838,DOE Joint Genome Institute
+PRJNA250790,250790,1024323,SAMN02821460,FGSC_1588,Neurospora crassa strain:FGSC 1588 Genome sequencing,SRR1799252,DOE Joint Genome Institute
+PRJNA249888,249888,1033215,SAMN02822218,FGSC_2256,Neurospora crassa strain:FGSC 2256 Genome sequencing,SRR1800170,DOE Joint Genome Institute
+PRJNA249845,249845,1026573,SAMN02822208,FGSC_3270,Neurospora crassa strain:FGSC 3270 Genome sequencing,SRR1587940,DOE Joint Genome Institute
+PRJNA250929,250929,1024446,SAMN02821512,FGSC_9375,Neurospora crassa strain:FGSC 9375 Genome sequencing,SRR3491012,DOE Joint Genome Institute
+PRJNA251082,251082,1020702,SAMN02821638,FGSC_104,Neurospora crassa strain:FGSC 104 Genome sequencing,SRR1798223,DOE Joint Genome Institute
+PRJNA337490,337490,401816,SAMN05518959,FGSC_3921,Neurospora crassa 3921 genome sequencing,SRR4025975;SRR4025976,DOE Joint Genome Institute
+PRJNA337122,337122,401796,SAMN05518881,FGSC_106,Neurospora crassa 106 genome sequencing,SRR4025937,DOE Joint Genome Institute
+PRJNA265513,265513,1050833,SAMN03159323,FGSC_1646_mo(NM220),Neurospora crassa 1646 mo(NM220) Resequencing,SRR4142838,DOE Joint Genome Institute
+PRJNA250063,250063,1033341,SAMN02822008,FGSC_4223,Neurospora crassa strain:FGSC 4223 Genome sequencing,SRR1800246,DOE Joint Genome Institute
+PRJNA249121,249121,1035570,SAMN02910279,FGSC_6448,Neurospora crassa strain:6448 Genome sequencing,SRR4069231,DOE Joint Genome Institute
+PRJNA251131,251131,1020720,SAMN02821727,FGSC_419,Neurospora crassa strain:FGSC 419 Genome sequencing,SRR1798230,DOE Joint Genome Institute
+PRJNA249112,249112,1035573,SAMN02910352,FGSC_6449,Neurospora crassa strain:6449 Genome sequencing,SRR4069261,DOE Joint Genome Institute
+PRJNA249826,249826,1033182,SAMN02822206,FGSC_2327,Neurospora crassa strain:FGSC 2327 Genome sequencing,SRR1800156,DOE Joint Genome Institute
+PRJNA250062,250062,1033338,SAMN02822233,FGSC_4200,Neurospora crassa strain:FGSC 4200 Genome sequencing,SRR1800245,DOE Joint Genome Institute
+PRJNA337126,337126,401815,SAMN05518921,FGSC_309,Neurospora crassa 309 genome sequencing,SRR4025953,DOE Joint Genome Institute
+PRJNA249982,249982,1033275,SAMN02821497,FGSC_3643,Neurospora crassa strain:FGSC 3643 Genome sequencing,SRR1800221,DOE Joint Genome Institute
+PRJNA251129,251129,1020753,SAMN02821906,FGSC_1056,Neurospora crassa strain:FGSC 1056 Genome sequencing,SRR1798240,DOE Joint Genome Institute
+PRJNA249740,249740,1026495,SAMN02821809,FGSC_1630,Neurospora crassa strain:FGSC 1630 Genome sequencing,SRR1587840,DOE Joint Genome Institute
+PRJNA250815,250815,1019416,SAMN02910253,FGSC_10607,Neurospora crassa strain:10607 Genome sequencing,SRR1798059,DOE Joint Genome Institute
+PRJNA251212,251212,1020846,SAMN02821653,FGSC_4304,Neurospora crassa strain:FGSC 4304 Genome sequencing,SRR1798416,DOE Joint Genome Institute
+PRJNA250321,250321,1035519,SAMN02910299,FGSC_2219,Neurospora crassa strain:2219 Genome sequencing,SRR4063854,DOE Joint Genome Institute
+PRJNA249791,249791,1026513,SAMN02822013,FGSC_2197,Neurospora crassa strain:FGSC 2197 Genome sequencing,SRR1587849,DOE Joint Genome Institute
+PRJNA265503,265503,1050941,SAMN03159394,FGSC_10327_N._crassa,Neurospora crassa 10327 N. crassa Resequencing,SRR4143342,DOE Joint Genome Institute
+PRJNA265609,265609,1050866,SAMN03159310,FGSC_1671_mo(36703-4-20),Neurospora crassa 1671 mo(36703-4-20) Resequencing,SRR4151237,DOE Joint Genome Institute
+PRJNA250700,250700,1019293,SAMN02910363,FGSC_2686,Neurospora crassa strain:2686 Genome sequencing,SRR1797942,DOE Joint Genome Institute
+PRJNA249941,249941,1026630,SAMN02822308,FGSC_4219,Neurospora crassa strain:FGSC 4219 Genome sequencing,SRR1587453,DOE Joint Genome Institute
+PRJNA251200,251200,1020822,SAMN02821440,FGSC_3779,Neurospora crassa strain:FGSC 3779 Genome sequencing,SRR1798394,DOE Joint Genome Institute
+PRJNA249106,249106,1035567,SAMN02910351,FGSC_6443,Neurospora crassa strain:6443 Genome sequencing,SRR4069224,DOE Joint Genome Institute
+PRJNA250752,250752,1019329,SAMN02910311,FGSC_3825,Neurospora crassa strain:3825 Genome sequencing,SRR1797993,DOE Joint Genome Institute
+PRJNA251141,251141,1020759,SAMN02822402,FGSC_1169,Neurospora crassa strain:FGSC 1169 Genome sequencing,SRR1798243,DOE Joint Genome Institute
+PRJNA249108,249108,1035537,SAMN02910321,FGSC_4294,Neurospora crassa strain:4294 Genome sequencing,SRR4064273,DOE Joint Genome Institute
+PRJNA249809,249809,1033161,SAMN02822193,FGSC_13,Neurospora crassa strain:FGSC 13 Genome sequencing,SRR1800144,DOE Joint Genome Institute
+PRJNA251259,251259,1020909,SAMN02822351,FGSC_20000,Neurospora crassa strain:20000 Genome sequencing,SRR1798516,DOE Joint Genome Institute
+PRJNA249200,249200,1035579,SAMN02910408,FGSC_6454,Neurospora crassa strain:6454 Genome sequencing,SRR4069232,DOE Joint Genome Institute
+PRJNA249958,249958,1026684,SAMN02822189,FGSC_7523,Neurospora crassa strain:FGSC 7523 Genome sequencing,SRR1587472,DOE Joint Genome Institute
+PRJNA249960,249960,1026672,SAMN02822215,FGSC_7519,Neurospora crassa strain:FGSC 7519 Genome sequencing,SRR1587468,DOE Joint Genome Institute
+PRJNA256718,256718,1020804,SAMN02946525,FGSC_1515,Neurospora crassa strain:FGSC 1515 Genome sequencing,SRR1798370,DOE Joint Genome Institute
+PRJNA249716,249716,1026438,SAMN02822170,FGSC_10,Neurospora crassa strain:FGSC 10 Genome sequencing,SRR1587791,DOE Joint Genome Institute
+PRJNA256713,256713,1020765,SAMN02946260,FGSC_1367,Neurospora crassa strain:FGSC 1367 Genome sequencing,SRR1798252,DOE Joint Genome Institute
+PRJNA337455,337455,401817,SAMN05519135,FGSC_821,Neurospora crassa 821 genome sequencing,SRR4025973;SRR4025974,DOE Joint Genome Institute
+PRJNA249961,249961,1026651,SAMN02821501,FGSC_7290,Neurospora crassa strain:FGSC 7290 Genome sequencing,SRR1587461,DOE Joint Genome Institute
+PRJNA250650,250650,1019218,SAMN02910392,FGSC_1004,Neurospora crassa strain:1004 Genome sequencing,SRR1797907,DOE Joint Genome Institute
+PRJNA250775,250775,1024284,SAMN02821455,FGSC_1329,Neurospora crassa strain:FGSC 1329 Genome sequencing,SRR1799240,DOE Joint Genome Institute
+PRJNA265623,265623,1050911,SAMN03159411,FGSC_7528_pen(JL261),Neurospora crassa 7528 pen(JL261) Resequencing,SRR4143351,DOE Joint Genome Institute
+PRJNA249939,249939,1026633,SAMN02821493,FGSC_4228,Neurospora crassa strain:FGSC 4228 Genome sequencing,SRR1587454,DOE Joint Genome Institute
+PRJNA250733,250733,1024269,SAMN02821722,FGSC_1233,Neurospora crassa strain:FGSC 1233 Genome sequencing,SRR1799235,DOE Joint Genome Institute
+PRJNA250653,250653,1019221,SAMN02910445,FGSC_1010,Neurospora crassa strain:1010 Genome sequencing,SRR1798020,DOE Joint Genome Institute
+PRJNA250789,250789,1024302,SAMN02822357,FGSC_1580,Neurospora crassa strain:FGSC 1580 Genome sequencing,SRR1799244,DOE Joint Genome Institute
+PRJNA250140,250140,1033347,SAMN02821717,FGSC_4296,Neurospora crassa strain:FGSC 4296 Genome sequencing,SRR1800250,DOE Joint Genome Institute
+PRJNA251190,251190,1020789,SAMN02821796,FGSC_1394,Neurospora crassa strain:FGSC 1394 Genome sequencing,SRR1798283,DOE Joint Genome Institute
+PRJNA249879,249879,1026612,SAMN02821850,FGSC_4102,Neurospora crassa strain:FGSC 4102 Genome sequencing,SRR1587445,DOE Joint Genome Institute
+PRJNA265611,265611,1050899,SAMN03159456,FGSC_4332_dgr(BEX5),Neurospora crassa 4332 dgr(BEX5) Resequencing,SRR4143335,DOE Joint Genome Institute
+PRJNA250703,250703,1019299,SAMN02910255,FGSC_3006,Neurospora crassa strain:3006 Genome sequencing,SRR1797943,DOE Joint Genome Institute
+PRJNA265494,265494,1050935,SAMN03159452,FGSC_10325_grape_(26-11),Neurospora crassa 10325 grape (26-11) Resequencing,SRR4143332,DOE Joint Genome Institute
+PRJNA250895,250895,1024428,SAMN02821934,FGSC_7199,Neurospora crassa strain:FGSC 7199 Genome sequencing,SRR3490980,DOE Joint Genome Institute
+PRJNA251197,251197,1020783,SAMN02821935,FGSC_1382,Neurospora crassa strain:FGSC 1382 Genome sequencing,SRR1798281,DOE Joint Genome Institute
+PRJNA249194,249194,1035576,SAMN02910268,FGSC_6453,Neurospora crassa strain:6453 Genome sequencing,SRR4069255,DOE Joint Genome Institute
+PRJNA265495,265495,1050932,SAMN03159322,FGSC_10324_grape_(10-17),Neurospora crassa 10324 grape (10-17) Resequencing,SRR4143331,DOE Joint Genome Institute
+PRJNA249798,249798,1026525,SAMN02821410,FGSC_2323,Neurospora crassa strain:FGSC 2323 Genome sequencing,SRR1587857,DOE Joint Genome Institute
+PRJNA249863,249863,1026594,SAMN02821857,FGSC_3559,Neurospora crassa strain:FGSC 3559 Genome sequencing,SRR1587950,DOE Joint Genome Institute
+PRJNA249824,249824,1033179,SAMN02822162,FGSC_3907,Neurospora crassa strain:FGSC 3907 Genome sequencing,SRR1800155,DOE Joint Genome Institute
+PRJNA250642,250642,1019230,SAMN02910282,FGSC_1034,Neurospora crassa strain:1034 Genome sequencing,SRR1798024,DOE Joint Genome Institute
+PRJNA251246,251246,1020813,SAMN02821803,FGSC_3775,Neurospora crassa strain:FGSC 3775 Genome sequencing,SRR1798375,DOE Joint Genome Institute
+PRJNA250835,250835,1024365,SAMN02822359,FGSC_1729,Neurospora crassa strain:FGSC 1729 Genome sequencing,SRR1799417,DOE Joint Genome Institute
+PRJNA250755,250755,1019365,SAMN02910381,FGSC_4761,Neurospora crassa strain:4761 Genome sequencing,SRR1798007,DOE Joint Genome Institute
+PRJNA250810,250810,1019395,SAMN02910420,FGSC_8285,Neurospora crassa strain:8285 Genome sequencing,SRR1798051,DOE Joint Genome Institute
+PRJNA265594,265594,1050896,SAMN03159378,FGSC_4331_dgr(BEX5),Neurospora crassa 4331 dgr(BEX5) Resequencing,SRR4143337,DOE Joint Genome Institute
+PRJNA250060,250060,1033344,SAMN02821430,FGSC_4279,Neurospora crassa strain:FGSC 4279 Genome sequencing,SRR1800248,DOE Joint Genome Institute
+PRJNA249899,249899,1033245,SAMN02821596,FGSC_3093,Neurospora crassa strain:FGSC 3093 Genome sequencing,SRR1800186,DOE Joint Genome Institute
+PRJNA250643,250643,1019233,SAMN02910307,FGSC_1036,Neurospora crassa strain:1036 Genome sequencing,SRR1797922,DOE Joint Genome Institute
+PRJNA256759,256759,1033266,SAMN02946261,FGSC_3639,Neurospora crassa strain:FGSC 3639 Genome sequencing,SRR1800216,DOE Joint Genome Institute
+PRJNA249948,249948,1026624,SAMN02822181,FGSC_4217,Neurospora crassa strain:FGSC 4217 Genome sequencing,SRR1587451,DOE Joint Genome Institute
+PRJNA251261,251261,1020882,SAMN02821649,FGSC_6946,Neurospora crassa strain:FGSC 6946 Genome sequencing,SRR1798440,DOE Joint Genome Institute
+PRJNA251188,251188,1020798,SAMN02822323,FGSC_1432,Neurospora crassa strain:FGSC 1432 Genome sequencing,SRR1798368,DOE Joint Genome Institute
+PRJNA249966,249966,1026675,SAMN02822056,FGSC_7520,Neurospora crassa strain:FGSC 7520 Genome sequencing,SRR1587469,DOE Joint Genome Institute
+PRJNA249187,249187,1035582,SAMN02910345,FGSC_7299,Neurospora crassa strain:7299 Genome sequencing,SRR4069223,DOE Joint Genome Institute
+PRJNA250785,250785,1024311,SAMN02821457,FGSC_1583,Neurospora crassa strain:FGSC 1583 Genome sequencing,SRR1799247,DOE Joint Genome Institute
+PRJNA249886,249886,1033230,SAMN02821878,FGSC_2733,Neurospora crassa strain:FGSC 2733 Genome sequencing,SRR1800181,DOE Joint Genome Institute
+PRJNA250722,250722,1024473,SAMN02821634,FGSC_10602,Neurospora crassa strain:FGSC 10602 Genome sequencing,SRR3491983,DOE Joint Genome Institute
+PRJNA250059,250059,1033314,SAMN02821543,FGSC_4182,Neurospora crassa strain:FGSC 4182 Genome sequencing,SRR1800236,DOE Joint Genome Institute
+PRJNA249733,249733,1026501,SAMN02821853,FGSC_1665,Neurospora crassa strain:FGSC 1665 Genome sequencing,SRR1587844,DOE Joint Genome Institute
+PRJNA249799,249799,1026543,SAMN02821910,FGSC_2692,Neurospora crassa strain:FGSC 2692 Genome sequencing,SRR1587866,DOE Joint Genome Institute
+PRJNA250609,250609,1019191,SAMN02910281,FGSC_58,Neurospora crassa strain:58 Genome sequencing,SRR1797884,DOE Joint Genome Institute
+PRJNA265519,265519,1050815,SAMN03159292,FGSC_1635_mo(M193-1),Neurospora crassa 1635 mo(M193-1) Resequencing,SRR4142841,DOE Joint Genome Institute
+PRJNA250220,250220,1033413,SAMN02821776,FGSC_13496,Neurospora crassa strain:FGSC 13496 Genome sequencing,SRR1800277,DOE Joint Genome Institute
+PRJNA250050,250050,1033323,SAMN02821427,FGSC_4185,Neurospora crassa strain:FGSC 4185 Genome sequencing,SRR1800244,DOE Joint Genome Institute
+PRJNA249796,249796,1026546,SAMN02821444,FGSC_2693,Neurospora crassa strain:FGSC 2693 Genome sequencing,SRR1587867,DOE Joint Genome Institute
+PRJNA265589,265589,1050860,SAMN03159450,FGSC_1663_mo(B107),Neurospora crassa 1663 mo(B107) Resequencing,SRR4142852,DOE Joint Genome Institute
+PRJNA265572,265572,1050842,SAMN03159498,FGSC_1651_mo(NM219),Neurospora crassa 1651 mo(NM219) Resequencing,SRR4142849,DOE Joint Genome Institute
+PRJNA250123,250123,1033362,SAMN02822331,FGSC_4595,Neurospora crassa strain:FGSC 4595 Genome sequencing,SRR1800257,DOE Joint Genome Institute
+PRJNA249797,249797,1026528,SAMN02821821,FGSC_2384,Neurospora crassa strain:FGSC 2384 Genome sequencing,SRR1587859,DOE Joint Genome Institute
+PRJNA250221,250221,1033416,SAMN02821591,FGSC_13497,Neurospora crassa strain:FGSC 13497 Genome sequencing,SRR1800278,DOE Joint Genome Institute
+PRJNA249945,249945,1026642,SAMN02821895,FGSC_4336,Neurospora crassa strain:FGSC 4336 Genome sequencing,SRR1587458,DOE Joint Genome Institute
+PRJNA249848,249848,1026585,SAMN02821955,FGSC_3443,Neurospora crassa strain:FGSC 3443 Genome sequencing,SRR1587946,DOE Joint Genome Institute
+PRJNA250708,250708,1019284,SAMN02910425,FGSC_2376,Neurospora crassa strain:2376 Genome sequencing,SRR1797940,DOE Joint Genome Institute
+PRJNA250661,250661,1019260,SAMN02910444,FGSC_2173,Neurospora crassa strain:2173 Genome sequencing,SRR1797930,DOE Joint Genome Institute
+PRJNA250772,250772,1019383,SAMN02910252,FGSC_7328,Neurospora crassa strain:7328 Genome sequencing,SRR1798023,DOE Joint Genome Institute
+PRJNA250058,250058,1033311,SAMN02821929,FGSC_4181,Neurospora crassa strain:FGSC 4181 Genome sequencing,SRR1800258,DOE Joint Genome Institute
+PRJNA250136,250136,1033380,SAMN02821713,FGSC_4601,Neurospora crassa strain:FGSC 4601 Genome sequencing,SRR1800265,DOE Joint Genome Institute
+PRJNA250662,250662,1019248,SAMN02910308,FGSC_1735,Neurospora crassa strain:1735 Genome sequencing,SRR1797928,DOE Joint Genome Institute
+PRJNA249949,249949,1026690,SAMN02821962,FGSC_7526,Neurospora crassa strain:FGSC 7526 Genome sequencing,SRR1587474,DOE Joint Genome Institute
+PRJNA249981,249981,1033269,SAMN02821742,FGSC_3641,Neurospora crassa strain:FGSC 3641 Genome sequencing,SRR1800217,DOE Joint Genome Institute
+PRJNA249804,249804,1026570,SAMN02821839,FGSC_3238,Neurospora crassa strain:FGSC 3238 Genome sequencing,SRR1587938,DOE Joint Genome Institute
+PRJNA251133,251133,1020726,SAMN02821605,FGSC_502,Neurospora crassa strain:FGSC 502 Genome sequencing,SRR1798232,DOE Joint Genome Institute
+PRJNA250887,250887,1024239,SAMN02822358,FGSC_352,Neurospora crassa strain:FGSC 352 Genome sequencing,SRR1799222,DOE Joint Genome Institute
+PRJNA250748,250748,1024275,SAMN02821526,FGSC_1235,Neurospora crassa strain:FGSC 1235 Genome sequencing,SRR1799237,DOE Joint Genome Institute
+PRJNA249102,249102,1035606,SAMN02910319,FGSC_4069,Neurospora crassa strain:4069 Genome sequencing,SRR4069228,DOE Joint Genome Institute
+PRJNA250022,250022,1026699,SAMN02822211,FGSC_7782,Neurospora crassa strain:FGSC 7782 Genome sequencing,SRR1587479,DOE Joint Genome Institute
+PRJNA250064,250064,1033320,SAMN02822172,FGSC_4184,Neurospora crassa strain:FGSC 4184 Genome sequencing,SRR1800239,DOE Joint Genome Institute
+PRJNA265588,265588,1050863,SAMN03159301,FGSC_1668_mo(D318),Neurospora crassa 1668 mo(D318) Resequencing,SRR4142835,DOE Joint Genome Institute
+PRJNA249944,249944,1026645,SAMN02821891,FGSC_5181,Neurospora crassa strain:FGSC 5181 Genome sequencing,SRR1587459,DOE Joint Genome Institute
+PRJNA250649,250649,1019242,SAMN02910330,FGSC_1632,Neurospora crassa strain:1632 Genome sequencing,SRR1797925,DOE Joint Genome Institute
+PRJNA250147,250147,1033404,SAMN02821584,FGSC_11397,Neurospora crassa strain:FGSC 11397 Genome sequencing,SRR1800274,DOE Joint Genome Institute
+PRJNA265605,265605,1050878,SAMN03159482,FGSC_4325_dgr(BE52),Neurospora crassa 4325 dgr(BE52) Resequencing,SRR4143330,DOE Joint Genome Institute
+PRJNA250933,250933,1024440,SAMN02822276,FGSC_9367,Neurospora crassa strain:FGSC 9367 Genome sequencing,SRR3491011,DOE Joint Genome Institute
+PRJNA251303,251303,1020921,SAMN02821546,FGSC_25004,Neurospora crassa strain:25004 Genome sequencing,SRR4061909,DOE Joint Genome Institute
+PRJNA250893,250893,1024227,SAMN02821855,FGSC_45,Neurospora crassa strain:FGSC 45 Genome sequencing,SRR1799218,DOE Joint Genome Institute
+PRJNA250640,250640,1019224,SAMN02910361,FGSC_1017,Neurospora crassa strain:1017 Genome sequencing,SRR1798025,DOE Joint Genome Institute
+PRJNA250713,250713,1019314,SAMN02910335,FGSC_3474,Neurospora crassa strain:3474 Genome sequencing,SRR1797988,DOE Joint Genome Institute
+PRJNA250812,250812,1019413,SAMN02910422,FGSC_10606,Neurospora crassa strain:10606 Genome sequencing,SRR1798058,DOE Joint Genome Institute
+PRJNA250645,250645,1019236,SAMN02910513,FGSC_1328,Neurospora crassa strain:1328 Genome sequencing,SRR1797923,DOE Joint Genome Institute
+PRJNA250315,250315,1035507,SAMN02910273,FGSC_105,Neurospora crassa strain:105 Genome sequencing,SRR4063837,DOE Joint Genome Institute
+PRJNA251211,251211,1020849,SAMN02822401,FGSC_4305,Neurospora crassa strain:FGSC 4305 Genome sequencing,SRR1798417,DOE Joint Genome Institute
+PRJNA337491,337491,401799,SAMN05519028,FGSC_3831,Neurospora crassa 3831 genome sequencing,SRR4025949,DOE Joint Genome Institute
+PRJNA250791,250791,1024326,SAMN02822253,FGSC_1589,Neurospora crassa strain:FGSC 1589 Genome sequencing,SRR1799253,DOE Joint Genome Institute
+PRJNA250225,250225,1033422,SAMN02821589,FGSC_17921,Neurospora crassa strain:FGSC 17921 Genome sequencing,SRR1800280,DOE Joint Genome Institute
+PRJNA249980,249980,1033272,SAMN02821666,FGSC_3642,Neurospora crassa strain:FGSC 3642 Genome sequencing,SRR1800218,DOE Joint Genome Institute
+PRJNA249883,249883,1026615,SAMN02821411,FGSC_4211,Neurospora crassa strain:FGSC 4211 Genome sequencing,SRR1587447,DOE Joint Genome Institute
+PRJNA250794,250794,1024344,SAMN02822284,FGSC_1597,Neurospora crassa strain:FGSC 1597 Genome sequencing,SRR1799264,DOE Joint Genome Institute
+PRJNA250947,250947,1024452,SAMN02822298,FGSC_9382,Neurospora crassa strain:FGSC 9382 Genome sequencing,SRR3491009,DOE Joint Genome Institute
+PRJNA250829,250829,1024347,SAMN02822274,FGSC_1598,Neurospora crassa strain:FGSC 1598 Genome sequencing,SRR1799415,DOE Joint Genome Institute
+PRJNA265496,265496,1050929,SAMN03159486,FGSC_10323_grape_(25-2),Neurospora crassa 10323 grape (25-2) Resequencing,SRR4143333,DOE Joint Genome Institute
+PRJNA250052,250052,1033308,SAMN02822001,FGSC_4180,Neurospora crassa strain:FGSC 4180 Genome sequencing,SRR1800235,DOE Joint Genome Institute
+PRJNA250648,250648,1019206,SAMN02910423,FGSC_861,Neurospora crassa strain:861 Genome sequencing,SRR1797905,DOE Joint Genome Institute
+PRJNA250141,250141,1033356,SAMN02821597,FGSC_4593,Neurospora crassa strain:FGSC 4593 Genome sequencing,SRR1800255,DOE Joint Genome Institute
+PRJNA249862,249862,1026606,SAMN02822209,FGSC_4041,Neurospora crassa strain:FGSC 4041 Genome sequencing,SRR1587442,DOE Joint Genome Institute
+PRJNA251140,251140,1020738,SAMN02821652,FGSC_746,Neurospora crassa strain:FGSC 746 Genome sequencing,SRR1798236,DOE Joint Genome Institute
+PRJNA250701,250701,1019266,SAMN02910424,FGSC_2177,Neurospora crassa strain:2177 Genome sequencing,SRR1797933,DOE Joint Genome Institute
+PRJNA250881,250881,1024410,SAMN02822285,FGSC_3320,Neurospora crassa strain:FGSC 3320 Genome sequencing,SRR3490933,DOE Joint Genome Institute
+PRJNA250145,250145,1033383,SAMN02821434,FGSC_4602,Neurospora crassa strain:FGSC 4602 Genome sequencing,SRR1800269,DOE Joint Genome Institute
+PRJNA249878,249878,1033203,SAMN02822049,FGSC_1515,Neurospora crassa strain:FGSC 1515 Genome sequencing,SRR1800165,DOE Joint Genome Institute
+PRJNA265596,265596,1050890,SAMN03159377,FGSC_4329_dgr(L5),Neurospora crassa 4329 dgr(L5) Resequencing,SRR4143344,DOE Joint Genome Institute
+PRJNA249898,249898,1033251,SAMN02821632,FGSC_3236,Neurospora crassa strain:FGSC 3236 Genome sequencing,SRR1800188,DOE Joint Genome Institute
+PRJNA265592,265592,1050851,SAMN03159432,FGSC_1660_mo(D314),Neurospora crassa 1660 mo(D314) Resequencing,SRR4142843,DOE Joint Genome Institute
+PRJNA256744,256744,1026531,SAMN02946459,FGSC_2389,Neurospora crassa strain:FGSC 2389 Genome sequencing,SRR1587860,DOE Joint Genome Institute
+PRJNA251252,251252,1020873,SAMN02821800,FGSC_4314,Neurospora crassa strain:FGSC 4314 Genome sequencing,SRR1798433,DOE Joint Genome Institute
+PRJNA251301,251301,1020927,SAMN02821553,FGSC_25006,Neurospora crassa strain:25006 Genome sequencing,SRR1798553,DOE Joint Genome Institute
+PRJNA251214,251214,1020843,SAMN02821442,FGSC_4297,Neurospora crassa strain:FGSC 4297 Genome sequencing,SRR1798409,DOE Joint Genome Institute
+PRJNA249736,249736,1026489,SAMN02821610,FGSC_1530,Neurospora crassa strain:FGSC 1530 Genome sequencing,SRR1587835,DOE Joint Genome Institute
+PRJNA249891,249891,1033242,SAMN02822216,FGSC_2999,Neurospora crassa strain:FGSC 2999 Genome sequencing,SRR1800185,DOE Joint Genome Institute
+PRJNA256715,256715,1020684,SAMN02946259,FGSC_13,Neurospora crassa strain:FGSC 13 Genome sequencing,SRR1798210,DOE Joint Genome Institute
+PRJNA250047,250047,1033296,SAMN02822320,FGSC_3904,Neurospora crassa strain:FGSC 3904 Genome sequencing,SRR1800230,DOE Joint Genome Institute
+PRJNA337448,337448,401804,SAMN05519213,FGSC_3246,Neurospora crassa 3246 genome sequencing,SRR4025944;SRR4025945,DOE Joint Genome Institute
+PRJNA250135,250135,1033353,SAMN02821965,FGSC_4592,Neurospora crassa strain:FGSC 4592 Genome sequencing,SRR1800254,DOE Joint Genome Institute
+PRJNA265515,265515,1050827,SAMN03159471,FGSC_1643_col(P2615),Neurospora crassa 1643 col(P2615) Resequencing,SRR4151075,DOE Joint Genome Institute
+PRJNA249103,249103,1035543,SAMN02910267,FGSC_4604,Neurospora crassa strain:4604 Genome sequencing,SRR4069226,DOE Joint Genome Institute
+PRJNA265502,265502,1050947,SAMN03159404,FGSC_10329_Potassium_retention,Neurospora crassa 10329 Potassium retention Resequencing,SRR4143338,DOE Joint Genome Institute
+PRJNA251132,251132,1020750,SAMN02821896,FGSC_993,Neurospora crassa strain:FGSC 993 Genome sequencing,SRR1798242,DOE Joint Genome Institute
+PRJNA251183,251183,1020786,SAMN02822378,FGSC_1384,Neurospora crassa strain:FGSC 1384 Genome sequencing,SRR1798282,DOE Joint Genome Institute
+PRJNA251260,251260,1020906,SAMN02821640,FGSC_10989,Neurospora crassa strain:10989 Genome sequencing,SRR1798514,DOE Joint Genome Institute
+PRJNA250608,250608,1019197,SAMN02910428,FGSC_854,Neurospora crassa strain:854 Genome sequencing,SRR1797900,DOE Joint Genome Institute
+PRJNA249728,249728,1026480,SAMN02821808,FGSC_1224,Neurospora crassa strain:FGSC 1224 Genome sequencing,SRR1587830,DOE Joint Genome Institute
+PRJNA250837,250837,1024359,SAMN02822363,FGSC_1631,Neurospora crassa strain:FGSC 1631 Genome sequencing,SRR1799416,DOE Joint Genome Institute
+PRJNA250706,250706,1019278,SAMN02910331,FGSC_2344,Neurospora crassa strain:2344 Genome sequencing,SRR1797937,DOE Joint Genome Institute
+PRJNA249873,249873,1033194,SAMN02821881,FGSC_1163,Neurospora crassa strain:FGSC 1163 Genome sequencing,SRR1800161,DOE Joint Genome Institute
+PRJNA250226,250226,1033425,SAMN02821779,FGSC_17966,Neurospora crassa strain:FGSC 17966 Genome sequencing,SRR1800282,DOE Joint Genome Institute
+PRJNA250926,250926,1024431,SAMN02822300,FGSC_8199,Neurospora crassa strain:FGSC 8199 Genome sequencing,SRR3490982,DOE Joint Genome Institute
+PRJNA250055,250055,1033335,SAMN02821743,FGSC_4189,Neurospora crassa strain:FGSC 4189 Genome sequencing,SRR1800242,DOE Joint Genome Institute
+PRJNA249735,249735,1026444,SAMN02821847,FGSC_137,Neurospora crassa strain:FGSC 137 Genome sequencing,SRR1587795,DOE Joint Genome Institute
+PRJNA249957,249957,1026678,SAMN02822187,FGSC_7521,Neurospora crassa strain:FGSC 7521 Genome sequencing,SRR1587470,DOE Joint Genome Institute
+PRJNA250639,250639,1019203,SAMN02910270,FGSC_859,Neurospora crassa strain:859 Genome sequencing,SRR1797901,DOE Joint Genome Institute
+PRJNA249881,249881,1033224,SAMN02822174,FGSC_2542,Neurospora crassa strain:FGSC 2542 Genome sequencing,SRR1800175,DOE Joint Genome Institute
+PRJNA250817,250817,1019407,SAMN02910389,FGSC_8971,Neurospora crassa strain:8971 Genome sequencing,SRR1798057,DOE Joint Genome Institute
+PRJNA249877,249877,1026621,SAMN02821459,FGSC_4215,Neurospora crassa strain:FGSC 4215 Genome sequencing,SRR1587450,DOE Joint Genome Institute
+PRJNA250711,250711,1019317,SAMN02910365,FGSC_3509,Neurospora crassa strain:3509 Genome sequencing,SRR1797989,DOE Joint Genome Institute
+PRJNA250613,250613,1019200,SAMN02910396,FGSC_856,Neurospora crassa strain:856 Genome sequencing,SRR1797903,DOE Joint Genome Institute
+PRJNA250705,250705,1019275,SAMN02910310,FGSC_2341,Neurospora crassa strain:2341 Genome sequencing,SRR1797936,DOE Joint Genome Institute
+PRJNA249959,249959,1026681,SAMN02822314,FGSC_7522,Neurospora crassa strain:FGSC 7522 Genome sequencing,SRR1587471,DOE Joint Genome Institute
+PRJNA250035,250035,1026702,SAMN02821385,FGSC_7783,Neurospora crassa strain:FGSC 7783 Genome sequencing,SRR1587480,DOE Joint Genome Institute
+PRJNA346386,346386,1024314,SAMN05920773,FGSC_1585,Neurospora crassa FGSC 1585 genome sequencing,SRR4434478,DOE Joint Genome Institute
+PRJNA249871,249871,1026600,SAMN02822051,FGSC_3650,Neurospora crassa strain:FGSC 3650 Genome sequencing,SRR1587957,DOE Joint Genome Institute
+PRJNA250813,250813,1019401,SAMN02946341,FGSC_8372,Neurospora crassa strain:8372 Genome sequencing,SRR1798054,DOE Joint Genome Institute
+PRJNA249795,249795,1026522,SAMN02821913,FGSC_2320,Neurospora crassa strain:FGSC 2320 Genome sequencing,SRR1587856,DOE Joint Genome Institute
+PRJNA265607,265607,1050872,SAMN03159415,FGSC_1674_mo(P1718),Neurospora crassa 1674 mo(P1718) Resequencing,SRR4142854,DOE Joint Genome Institute
+PRJNA265516,265516,1050824,SAMN03159470,FGSC_1641_mo(P1417),Neurospora crassa 1641 mo(P1417) Resequencing,SRR4142845,DOE Joint Genome Institute
+PRJNA250715,250715,1019320,SAMN02910257,FGSC_3510,Neurospora crassa strain:3510 Genome sequencing,SRR1797990,DOE Joint Genome Institute
+PRJNA249107,249107,1035546,SAMN02910374,FGSC_4606,Neurospora crassa strain:4606 Genome sequencing,SRR4069227,DOE Joint Genome Institute
+PRJNA250850,250850,1024383,SAMN02822273,FGSC_2282,Neurospora crassa strain:FGSC 2282 Genome sequencing,SRR1799266,DOE Joint Genome Institute
+PRJNA259092,259092,1020861,SAMN03003355,FGSC_4310,Neurospora crassa strain:FGSC 4310 Genome sequencing,SRR1798421,DOE Joint Genome Institute
+PRJNA249801,249801,1026519,SAMN02821733,FGSC_2319,Neurospora crassa strain:FGSC 2319 Genome sequencing,SRR1587854,DOE Joint Genome Institute
+PRJNA249105,249105,1035600,SAMN02910373,FGSC_3122,Neurospora crassa strain:3122 Genome sequencing,SRR4069233,DOE Joint Genome Institute
+PRJNA250903,250903,1024242,SAMN02821466,FGSC_353,Neurospora crassa strain:FGSC 353 Genome sequencing,SRR1799223,DOE Joint Genome Institute
+PRJNA250897,250897,1024419,SAMN02822271,FGSC_4902,Neurospora crassa strain:FGSC 4902 Genome sequencing,SRR3490979,DOE Joint Genome Institute
+PRJNA337445,337445,401813,SAMN05517978,FGSC_3114,Neurospora crassa 3114 genome sequencing,SRR4025961;SRR4025962,DOE Joint Genome Institute
+PRJNA250029,250029,1026696,SAMN02821378,FGSC_7530,Neurospora crassa strain:FGSC 7530 Genome sequencing,SRR1587478,DOE Joint Genome Institute
+PRJNA337446,337446,401810,SAMN05519216,FGSC_7035,Neurospora crassa 7035 genome sequencing,SRR4025966;SRR4025967;SRR4025968;SRR4025969,DOE Joint Genome Institute
+PRJNA249789,249789,1026558,SAMN02821912,FGSC_2762,Neurospora crassa strain:FGSC 2762 Genome sequencing,SRR1587872,DOE Joint Genome Institute
+PRJNA249727,249727,1026474,SAMN02822168,FGSC_1113,Neurospora crassa strain:FGSC 1113 Genome sequencing,SRR1587828,DOE Joint Genome Institute
+PRJNA249788,249788,1026552,SAMN02822156,FGSC_2734,Neurospora crassa strain:FGSC 2734 Genome sequencing,SRR1587870,DOE Joint Genome Institute
+PRJNA250754,250754,1019335,SAMN02910312,FGSC_3877,Neurospora crassa strain:3877 Genome sequencing,SRR1797995,DOE Joint Genome Institute
+PRJNA249872,249872,1033197,SAMN02821886,FGSC_1367,Neurospora crassa strain:FGSC 1367 Genome sequencing,SRR1800162,DOE Joint Genome Institute
+PRJNA251203,251203,1020807,SAMN02821782,FGSC_3768,Neurospora crassa strain:FGSC 3768 Genome sequencing,SRR1798377,DOE Joint Genome Institute
+PRJNA250707,250707,1019308,SAMN02910379,FGSC_3425,Neurospora crassa strain:3425 Genome sequencing,SRR1797986,DOE Joint Genome Institute
+PRJNA250763,250763,1019371,SAMN02910286,FGSC_5785,Neurospora crassa strain:5785 Genome sequencing,SRR1798008,DOE Joint Genome Institute
+PRJNA251294,251294,1017690,SAMN02822106,FGSC_#107,Neurospora crassa strain:FGSC #107 Genome sequencing,SRR1797596,DOE Joint Genome Institute
+PRJNA250710,250710,1019287,SAMN02910334,FGSC_2391,Neurospora crassa strain:2391 Genome sequencing,SRR1797941,DOE Joint Genome Institute
+PRJNA250138,250138,1033350,SAMN02821429,FGSC_4591,Neurospora crassa strain:FGSC 4591 Genome sequencing,SRR1800252,DOE Joint Genome Institute
+PRJNA250146,250146,1033386,SAMN02821454,FGSC_4924,Neurospora crassa strain:FGSC 4924 Genome sequencing,SRR1800267,DOE Joint Genome Institute
+PRJNA337454,337454,401800,SAMN05519289,FGSC_1303,Neurospora crassa 1303 genome sequencing,SRR4025947;SRR4025948,DOE Joint Genome Institute
+PRJNA251139,251139,1020744,SAMN02822332,FGSC_943,Neurospora crassa strain:FGSC 943 Genome sequencing,SRR1798239,DOE Joint Genome Institute
+PRJNA250325,250325,1035528,SAMN02910404,FGSC_2339,Neurospora crassa strain:2339 Genome sequencing,SRR4063863,DOE Joint Genome Institute
+PRJNA250771,250771,1019380,SAMN02910416,FGSC_6952,Neurospora crassa strain:6952 Genome sequencing,SRR1798021,DOE Joint Genome Institute
+PRJNA250908,250908,1024254,SAMN02822272,FGSC_541,Neurospora crassa strain:FGSC 541 Genome sequencing,SRR1799227,DOE Joint Genome Institute
+PRJNA250788,250788,1024299,SAMN02822024,FGSC_1579,Neurospora crassa strain:FGSC 1579 Genome sequencing,SRR1799243,DOE Joint Genome Institute
+PRJNA250049,250049,1033287,SAMN02822241,FGSC_3647,Neurospora crassa strain:FGSC 3647 Genome sequencing,SRR1800224,DOE Joint Genome Institute
+PRJNA251311,251311,1020951,SAMN02821942,FGSC_25014,Neurospora crassa strain:25014 Genome sequencing,SRR1798584,DOE Joint Genome Institute
+PRJNA256791,256791,1035561,SAMN02946345,FGSC_6440,Neurospora crassa strain:6440 Genome sequencing,SRR4069248,DOE Joint Genome Institute
+PRJNA251124,251124,1020732,SAMN02821650,FGSC_507,Neurospora crassa strain:FGSC 507 Genome sequencing,SRR1798234,DOE Joint Genome Institute
+PRJNA250130,250130,1033365,SAMN02821425,FGSC_4596,Neurospora crassa strain:FGSC 4596 Genome sequencing,SRR1800260,DOE Joint Genome Institute
+PRJNA337489,337489,401807,SAMN05519171,FGSC_3564,Neurospora crassa 3564 genome sequencing,SRR4025950;SRR4025951,DOE Joint Genome Institute
+PRJNA249201,249201,1035609,SAMN02910437,FGSC_6458,Neurospora crassa strain:6458 Genome sequencing,SRR4069259,DOE Joint Genome Institute
+PRJNA249870,249870,1026450,SAMN02822166,FGSC_380,Neurospora crassa strain:FGSC 380 Genome sequencing,SRR1587812,DOE Joint Genome Institute
+PRJNA249951,249951,1026462,SAMN02822047,FGSC_635,Neurospora crassa strain:FGSC 635 Genome sequencing,SRR1587819,DOE Joint Genome Institute
+PRJNA249104,249104,1035540,SAMN02910349,FGSC_4603,Neurospora crassa strain:4603 Genome sequencing,SRR4064433,DOE Joint Genome Institute
+PRJNA265517,265517,1050821,SAMN03159449,FGSC_1640_mo(D301),Neurospora crassa 1640 mo(D301) Resequencing,SRR4142847,DOE Joint Genome Institute
+PRJNA251068,251068,1020714,SAMN02821613,FGSC_317,Neurospora crassa strain:FGSC 317 Genome sequencing,SRR1798228,DOE Joint Genome Institute
+PRJNA250765,250765,1019350,SAMN02910367,FGSC_4038,Neurospora crassa strain:4038 Genome sequencing,SRR1797999,DOE Joint Genome Institute
+PRJNA250759,250759,1019332,SAMN02910296,FGSC_3859,Neurospora crassa strain:3859 Genome sequencing,SRR1797994,DOE Joint Genome Institute
+PRJNA249874,249874,1026618,SAMN02821627,FGSC_4213,Neurospora crassa strain:FGSC 4213 Genome sequencing,SRR1587448,DOE Joint Genome Institute
+PRJNA250038,250038,1026708,SAMN02821933,FGSC_7921,Neurospora crassa strain:FGSC 7921 Genome sequencing,SRR1587483,DOE Joint Genome Institute
+PRJNA251205,251205,1020837,SAMN02822382,FGSC_3954,Neurospora crassa strain:FGSC 3954 Genome sequencing,SRR1798400,DOE Joint Genome Institute
+PRJNA250054,250054,1033329,SAMN02822243,FGSC_4187,Neurospora crassa strain:FGSC 4187 Genome sequencing,SRR1800243,DOE Joint Genome Institute
+PRJNA251256,251256,1020876,SAMN02821438,FGSC_4315,Neurospora crassa strain:FGSC 4315 Genome sequencing,SRR1798436,DOE Joint Genome Institute
+PRJNA251191,251191,1020792,SAMN02821941,FGSC_1400,Neurospora crassa strain:FGSC 1400 Genome sequencing,SRR1798284,DOE Joint Genome Institute
+PRJNA250023,250023,1026705,SAMN02822000,FGSC_7784,Neurospora crassa strain:FGSC 7784 Genome sequencing,SRR1587482,DOE Joint Genome Institute
+PRJNA249856,249856,1026447,SAMN02821953,FGSC_340,Neurospora crassa strain:FGSC 340 Genome sequencing,SRR1587796,DOE Joint Genome Institute
+PRJNA250899,250899,1024248,SAMN02822377,FGSC_386,Neurospora crassa strain:FGSC 386 Genome sequencing,SRR1799225,DOE Joint Genome Institute
+PRJNA250762,250762,1019374,SAMN02910287,FGSC_5858,Neurospora crassa strain:5858 Genome sequencing,SRR1798018,DOE Joint Genome Institute
+PRJNA250946,250946,1024437,SAMN02822365,FGSC_8204,Neurospora crassa strain:FGSC 8204 Genome sequencing,SRR3491010,DOE Joint Genome Institute
+PRJNA251069,251069,1020696,SAMN02821890,FGSC_64,Neurospora crassa strain:FGSC 64 Genome sequencing,SRR1798213,DOE Joint Genome Institute
+PRJNA251075,251075,1020681,SAMN02822315,FGSC_12,Neurospora crassa strain:FGSC 12 Genome sequencing,SRR1798209,DOE Joint Genome Institute
+PRJNA265520,265520,1050812,SAMN03159399,FGSC_1633_col(D5),Neurospora crassa 1633 col(D5) Resequencing,SRR4142840,DOE Joint Genome Institute
+PRJNA251085,251085,1020711,SAMN02821622,FGSC_255,Neurospora crassa strain:FGSC 255 Genome sequencing,SRR1798226,DOE Joint Genome Institute
+PRJNA249099,249099,1035597,SAMN02910434,FGSC_2637,Neurospora crassa strain:2637 Genome sequencing,SRR4069229,DOE Joint Genome Institute
+PRJNA251074,251074,1020717,SAMN02821615,FGSC_336,Neurospora crassa strain:FGSC 336 Genome sequencing,SRR1798229,DOE Joint Genome Institute
+PRJNA249188,249188,1035585,SAMN02910407,FGSC_7304,Neurospora crassa strain:7304 Genome sequencing,SRR4069242,DOE Joint Genome Institute
+PRJNA250056,250056,1033332,SAMN02822003,FGSC_4188,Neurospora crassa strain:FGSC 4188 Genome sequencing,SRR1800241,DOE Joint Genome Institute
+PRJNA251262,251262,1020903,SAMN02821807,FGSC_10988,Neurospora crassa strain:10988 Genome sequencing,SRR1798512,DOE Joint Genome Institute
+PRJNA250051,250051,1033302,SAMN02821708,FGSC_3906,Neurospora crassa strain:FGSC 3906 Genome sequencing,SRR1800232,DOE Joint Genome Institute
+PRJNA249819,249819,1033188,SAMN02822160,FGSC_781,Neurospora crassa strain:FGSC 781 Genome sequencing,SRR1800158,DOE Joint Genome Institute
+PRJNA250909,250909,1024230,SAMN02822059,FGSC_50,Neurospora crassa strain:FGSC 50 Genome sequencing,SRR1799219,DOE Joint Genome Institute
+PRJNA249866,249866,1033212,SAMN02822217,FGSC_2137,Neurospora crassa strain:FGSC 2137 Genome sequencing,SRR1800169,DOE Joint Genome Institute
+PRJNA249820,249820,1033191,SAMN02821837,FGSC_1162,Neurospora crassa strain:FGSC 1162 Genome sequencing,SRR1800160,DOE Joint Genome Institute
+PRJNA249884,249884,1033218,SAMN02821458,FGSC_2328,Neurospora crassa strain:FGSC 2328 Genome sequencing,SRR1800174,DOE Joint Genome Institute
+PRJNA250770,250770,1019356,SAMN02910256,FGSC_4324,Neurospora crassa strain:4324 Genome sequencing,SRR1798001,DOE Joint Genome Institute
+PRJNA265498,265498,1050923,SAMN03159461,FGSC_10321_grape_(29-40)t,Neurospora crassa 10321 grape (29-40)t Resequencing,SRR4143341,DOE Joint Genome Institute
+PRJNA251081,251081,1020705,SAMN02822301,FGSC_185,Neurospora crassa strain:FGSC 185 Genome sequencing,SRR1798225,DOE Joint Genome Institute
+PRJNA249882,249882,1026609,SAMN02821451,FGSC_4094,Neurospora crassa strain:FGSC 4094 Genome sequencing,SRR1587444,DOE Joint Genome Institute
+PRJNA250781,250781,1024320,SAMN02822381,FGSC_1587,Neurospora crassa strain:FGSC 1587 Genome sequencing,SRR1799262,DOE Joint Genome Institute
+PRJNA250702,250702,1019281,SAMN02821428,FGSC_2345_un-12,Neurospora crassa strain:2345 un-12 Genome sequencing,SRR1797938,DOE Joint Genome Institute
+PRJNA251302,251302,1020936,SAMN02821480,FGSC_25009,Neurospora crassa strain:25009 Genome sequencing,SRR1798571,DOE Joint Genome Institute
+PRJNA250807,250807,1019410,SAMN02910390,FGSC_9581,Neurospora crassa strain:9581 Genome sequencing,SRR1798056,DOE Joint Genome Institute
+PRJNA346387,346387,1024329,SAMN05920769,FGSC_1590,Neurospora crassa FGSC 1590 genome sequencing,SRR4434479,DOE Joint Genome Institute
+PRJNA250227,250227,1033428,SAMN02822339,FGSC_18899,Neurospora crassa strain:FGSC 18899 Genome sequencing,SRR1800281,DOE Joint Genome Institute
+PRJNA337492,337492,401818,SAMN05519175,FGSC_322,Neurospora crassa 322 genome sequencing,SRR4025970;SRR4025971;SRR4025972,DOE Joint Genome Institute
+PRJNA250041,250041,1033290,SAMN02821704,FGSC_3651,Neurospora crassa strain:FGSC 3651 Genome sequencing,SRR1800225,DOE Joint Genome Institute
+PRJNA250746,250746,1024272,SAMN02822244,FGSC_1234,Neurospora crassa strain:FGSC 1234 Genome sequencing,SRR1799236,DOE Joint Genome Institute
+PRJNA337494,337494,401808,SAMN05518902,FGSC_3566,Neurospora crassa 3566 genome sequencing,SRR4025964;SRR4025965,DOE Joint Genome Institute
+PRJNA250843,250843,1024377,SAMN02822058,FGSC_2271,Neurospora crassa strain:FGSC 2271 Genome sequencing,SRR1799265,DOE Joint Genome Institute
+PRJNA250712,250712,1019290,SAMN02910333,FGSC_2587,Neurospora crassa strain:2587 Genome sequencing,SRR1797939,DOE Joint Genome Institute
+PRJNA250851,250851,1024380,SAMN02821863,FGSC_2272,Neurospora crassa strain:FGSC 2272 Genome sequencing,SRR1799419,DOE Joint Genome Institute

@@ -56,7 +56,8 @@ def parseXMLs(directory):
                     Strain = re.sub(pattern,'',Strain,flags=re.IGNORECASE)
                 if re.search(r'^\d+',Strain):
                     Strain = 'FGSC %s'%(Strain)
-                ids['Strain'] = Strain
+
+                ids['Strain'] = re.sub(r'\s+','_',Strain)
                 with open(os.path.join(directory,ids['BioProject']+".runinfo.csv"),"r") as sra:
                     parsecsv = csv.DictReader(sra,delimiter=",")
                     sra_runs = []
