@@ -13,7 +13,6 @@ bedwindows$CHR <- bedwindows$CHR - 2235
 
 chrlist = 1:7
 d=bedwindows[bedwindows$CHR %in% chrlist, ]
-print(d)
 d <- d[order(d$CHR, d$Start), ]
 d$index = rep.int(seq_along(unique(d$CHR)), times = tapply(d$Start,d$CHR,length)) 
 
