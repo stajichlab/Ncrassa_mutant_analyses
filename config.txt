@@ -2,6 +2,7 @@ GENOMEFOLDER=genome
 GENOMEFASTA=Neurospora_crassa_OR74A.v39.fasta
 GENOMENAME=NcrassaOR74A
 SAMPLESINFO=samples.csv
+METADATA=metadata/bioprojects.csv
 FASTQFOLDER=fastq
 ALNFOLDER=aln
 ALNTOOL=bwa
