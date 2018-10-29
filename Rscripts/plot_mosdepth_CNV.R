@@ -7,7 +7,7 @@ bedwindows = read.table("coverage/mosdepth.10000bp.gg.tab.gz",header=F)
 colnames(bedwindows) = c("Chr","Start","End","Depth","Group","Strain")
 #bedwindows = subset(bedwindows,bedwindows$Chr != "MT_CBS_6936") # drop MT for this
 
-
+samples <- read.csv("samples.csv",header=T)
 bedwindows$CHR <- strtoi(sub("CM00([0-9]+)","\\1",bedwindows$Chr,perl=TRUE))
 bedwindows$CHR <- bedwindows$CHR - 2235
 
@@ -66,9 +66,10 @@ p <- ggplot(d,
 p
 
 
-for (strain in unique(d$Strain) ) {
- l = subset(d,d$Strain == strain)
- Title=sprintf("Chr coverage plot for %s",strain)
+for (Acc in unique(d$Strain) ) {
+  strainname = samples[which(samples$SRA_Run == Acc), ]$Strain
+ l = subset(d,d$Strain == Acc)
+ Title=sprintf("Chr coverage plot for %s.%s",strainname,Acc)
  p <- ggplot(l,
             aes(x=pos,y=Depth,color=factor(CHR)))  +
     scale_colour_brewer(palette = "Set2") +
@@ -80,7 +81,7 @@ for (strain in unique(d$Strain) ) {
     scale_y_continuous(name="Normalized Read Depth", expand = c(0, 0),
                        limits = c(0,3)) + theme_classic() +
     guides(fill = guide_legend(keywidth = 3, keyheight = 1))
- ggsave(sprintf("plots/StrainPlot_10kb.%s.pdf",strain),p,width=7,height=2.5)
+ ggsave(sprintf("plots/StrainPlot_10kb.%s_%s.pdf",strainname,Acc),p,width=7,height=2.5)
 }
 
 for (n in chrlist ) {
