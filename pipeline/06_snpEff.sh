@@ -5,7 +5,6 @@ module load snpEff
 SNPEFFOUT=snpEff
 SNPEFFGENOME=Ncrassa_FungiDB_39
 snpEffConfig=snpEff.config
-GBKGENOME=GCA_000182925.2_NC12_genomic.gbff
 GFFGENOME=FungiDB-39_NcrassaOR74A.gff
 MEM=16g
 
@@ -13,7 +12,6 @@ MEM=16g
 if [ -f config.txt ]; then
 	source config.txt
 fi
-GBKGENOMEFILE=$GENOMEFOLDER/$GBKGENOME
 GFFGENOMEFILE=$GENOMEFOLDER/$GFFGENOME
 FASTAGENOMEFILE=$GENOMEFOLDER/$GENOMEFASTA
 if [ -z $SNPEFFJAR ]; then
@@ -36,7 +34,6 @@ if [ ! -e $SNPEFFOUT/$snpEffConfig ]; then
 	rsync -a $SNPEFFDIR/snpEff.config $SNPEFFOUT/$snpEffConfig
 	echo "# ncrassa.fungidb " >> $SNPEFFOUT/$snpEffConfig
   	echo "$SNPEFFGENOME.genome : Neurospora crassa FungiDB" >> $SNPEFFOUT/$snpEffConfig
-	#chroms=$(grep LOCUS $GBKGENOMEFILE | awk '{print $2}' | perl -p -e 's/\n/, /' | perl -p -e 's/,\s+$/\n/')
 	chroms=$(grep '##sequence-region' $GFFGENOMEFILE | awk '{print $2}' | perl -p -e 's/\n/, /' | perl -p -e 's/,\s+$/\n/')
 	echo -e "\t$SNPEFFGENOME.chromosomes: $chroms" >> $SNPEFFOUT/$snpEffConfig
 	echo -e "\t$SNPEFFGENOME.KC683708.codonTable : Mold_Mitochondrial" >> $SNPEFFOUT/$snpEffConfig
@@ -44,7 +41,6 @@ if [ ! -e $SNPEFFOUT/$snpEffConfig ]; then
 	gzip -c $GFFGENOMEFILE > $SNPEFFOUT/data/$SNPEFFGENOME/genes.gff.gz
 	rsync -a $FASTAGENOMEFILE $SNPEFFOUT/data/$SNPEFFGENOME/sequences.fa
 
-#	java -Xmx$MEM -jar $SNPEFFJAR build -datadir `pwd`/$SNPEFFOUT/data -c $SNPEFFOUT/$snpEffConfig -genbank -v $SNPEFFGENOME 
 	java -Xmx$MEM -jar $SNPEFFJAR build -datadir `pwd`/$SNPEFFOUT/data -c $SNPEFFOUT/$snpEffConfig -gff3 -v $SNPEFFGENOME
 fi
 pushd $SNPEFFOUT
