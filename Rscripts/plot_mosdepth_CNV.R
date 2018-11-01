@@ -51,19 +51,18 @@ Title="Depth of sequence coverage"
 #What about the color scheme I have for Ul/LL/Sp in Fig 1 which is Upper=bright blue, lower=red, sputum=black/dark gray
 
 
-p <- ggplot(d,
-            aes(x=pos,y=Depth,color=Strain)) +
-	        geom_vline(mapping=NULL, xintercept=minorB,alpha=0.5,size=0.1,colour='grey15')	+
-    geom_point(alpha=0.8,size=0.4,shape=16) +
-    scale_color_brewer(palette="RdYlBu",type="seq") +
-    labs(title=Title,xlab="Position",y="Normalized Read Depth") +
-    scale_x_continuous(name="Chromosome", expand = c(0, 0),
-                       breaks = ticks,                      
-                       labels=(unique(d$CHR))) +
-    scale_y_continuous(name="Normalized Read Depth", expand = c(0, 0),
-                       limits = c(0,3)) + theme_classic() + 
-    guides(fill = guide_legend(keywidth = 3, keyheight = 1)) 
-p
+#p <- ggplot(d,
+#            aes(x=pos,y=Depth,color=Strain)) +
+#	        geom_vline(mapping=NULL, xintercept=minorB,alpha=0.5,size=0.1,colour='grey15')	+
+#    geom_point(alpha=0.8,size=0.4,shape=16) +
+#    labs(title=Title,xlab="Position",y="Normalized Read Depth") +
+#    scale_x_continuous(name="Chromosome", expand = c(0, 0),
+#                       breaks = ticks,                      
+#                       labels=(unique(d$CHR))) +
+#    scale_y_continuous(name="Normalized Read Depth", expand = c(0, 0),
+#                       limits = c(0,3)) + theme_classic() + 
+#    guides(fill = guide_legend(keywidth = 3, keyheight = 1)) 
+#p
 
 
 for (Acc in unique(d$Strain) ) {
@@ -84,20 +83,20 @@ for (Acc in unique(d$Strain) ) {
  ggsave(sprintf("plots/StrainPlot_10kb.%s_%s.pdf",strainname,Acc),p,width=7,height=2.5)
 }
 
-for (n in chrlist ) {
-    Title=sprintf("Chr%s depth of coverage",n)
- print(Title)
- l <- subset(d,d$CHR==n)
- l$bp <- l$Start
-p<-ggplot(l,
-           aes(x=bp,y=Depth,color=factor(Strain))) +
-        geom_point(alpha=0.7,size=0.75,shape=16) +
-    labs(title=Title,xlab="Position",y="Normalized Read Depth") +
-    scale_x_continuous(expand = c(0, 0), name="Position") +
-    scale_y_continuous(name="Normalized Read Depth", expand = c(0, 0),
-                       limits = c(0,3)) + theme_classic() +
-    guides(fill = guide_legend(keywidth = 3, keyheight = 1))
- ggsave(sprintf("plots/ChrPlot_10kb.Chr%s.pdf",n),p,width=7,height=2.5)
- p
-}
+#for (n in chrlist ) {
+#    Title=sprintf("Chr%s depth of coverage",n)
+# print(Title)
+# l <- subset(d,d$CHR==n)
+# l$bp <- l$Start
+#p<-ggplot(l,
+#           aes(x=bp,y=Depth,color=factor(Strain))) +
+#        geom_point(alpha=0.7,size=0.75,shape=16) +
+#    labs(title=Title,xlab="Position",y="Normalized Read Depth") +
+#    scale_x_continuous(expand = c(0, 0), name="Position") +
+#    scale_y_continuous(name="Normalized Read Depth", expand = c(0, 0),
+#                       limits = c(0,3)) + theme_classic() +
+#    guides(fill = guide_legend(keywidth = 3, keyheight = 1))
+# ggsave(sprintf("plots/ChrPlot_10kb.Chr%s.pdf",n),p,width=7,height=2.5)
+# p
+#}
 
