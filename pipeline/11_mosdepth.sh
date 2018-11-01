@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --nodes 1 --ntasks 32 --time 2:00:00 -p short --mem 64G --out mosdepth.parallel.log
+#SBATCH --nodes 1 --ntasks 32 --time 2:00:00 -p short --mem 64G --out logs/mosdepth.parallel.log
 #SBATCH -J modepth
 CPU=$SLURM_CPUS_ON_NODE
 if [ ! $CPU ]; then
