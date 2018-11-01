@@ -1,0 +1,6 @@
+library(pophelper)
+ffiles <- list.files(path=".",pattern="*.meanQ",full.names=T)
+flist <- readQ(files=ffiles)
+tr1 <- tabulateQ(qlist=flist)
+summariseQ(tr1, writetable=TRUE)
+plotQ(qlist=readQ(ffiles)[c(1,3)], imgoutput="join")
