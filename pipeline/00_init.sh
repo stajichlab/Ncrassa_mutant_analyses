@@ -26,5 +26,5 @@ fi
 
 
 if [ ! -e $GENOMEFOLDER/$GENOMENAME.dict ]; then
-    picard CreateSequenceDictionary R=$GENOMEFOLDER/$GENOMEFASTA O=$GENOMEFOLDER/$GENOMENAME.dict SPECIES=Candida_lusitaniae TRUNCATE_NAMES_AT_WHITESPACE=true
+    picard CreateSequenceDictionary R=$GENOMEFOLDER/$GENOMEFASTA O=$GENOMEFOLDER/$GENOMENAME.dict SPECIES=Neurospora_crassa TRUNCATE_NAMES_AT_WHITESPACE=true
 fi
