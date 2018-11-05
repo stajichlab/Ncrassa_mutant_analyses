@@ -1,5 +1,6 @@
 library(pophelper)
-
+library(grid)
+library(gridExtra)
 clist <- list(
 "shiny"=c("#1D72F5","#DF0101","#77CE61", "#FF9326","#A945FF","#0089B2","#FDF060","#FFA6B2","#BFF217","#60D5FD","#CC1577","#F2B950","#7FB21D","#EC496F","#326397","#B26314","#027368","#A4A4A4","#610B5E"),
 "strong"=c("#11A4C8","#63C2C5","#1D4F9F","#0C516D","#2A2771","#396D35","#80C342","#725DA8","#B62025","#ED2224","#ED1943","#ED3995","#7E277C","#F7EC16","#F8941E","#8C2A1C","#808080"),
@@ -19,24 +20,45 @@ clist <- list(
 
 
 inds <- read.table("NcrassaOR74A.Run1.popset",header=FALSE,stringsAsFactors=F)
-inds$V1
+#inds$V1
 ffiles <- list.files(path=".",pattern="*.meanQ",full.names=T)
 flist <- readQ(files=ffiles)
-rownames(flist[[1]]) <- inds$V1
-if(length(unique(sapply(flist,nrow)))==1) flist <- lapply(slist,"rownames<-",inds$V1)
+
+rownames(flist[[1]]) <- (inds$V1)
+if(length(unique(sapply(flist,nrow)))==1) flist <- lapply(flist,"rownames<-",inds$V1)
 # show row names of all runs and all samples
-lapply(flist, rownames)
+#lapply(flist, rownames)
 
 tr1 <- tabulateQ(qlist=flist)
 summariseQ(tr1, writetable=TRUE)
-plotQ(qlist=flist[1],clustercol=clist$shiny)
-plotQ(qlist=flist[2],clustercol=clist$shiny)
-plotQ(qlist=flist[3],clustercol=clist$shiny)
-plotQ(qlist=flist, imgoutput="join")
+#plotQ(qlist=flist[1],clustercol=clist$shiny)
+#plotQ(qlist=flist[2],clustercol=clist$shiny)
+#plotQ(qlist=flist[3],clustercol=clist$shiny)
+#plotQ(qlist=flist[4],clustercol=clist$shiny)
+#plotQ(qlist=flist[5],clustercol=clist$shiny)
+#plotQ(qlist=flist, imgoutput="join")
 
-
-
-p1 <- plotQ(flist,imgoutput="join",returnplot=T,exportplot=T,quiet=T,basesize=11,
-           clustercol=clist$wong,splab=paste0("K=",sapply(flist,ncol)),outputfilename="Ncrassa.joinedplot.pdf")
+p1 <- plotQ(flist,
+            imgoutput="join",returnplot=T,exportplot=T,linesize=0.8,pointsize=4,
+            quiet=T,basesize=8,showlegend=T,sortind="Cluster1",sharedindlab=F,
+            clustercol=clist$shiny,splab=paste0("K=",sapply(flist,ncol)),
+            outputfilename="Ncrassa.joinedplot.pdf",imgtype="pdf",
+            useindlab=T,showindlab=T,
+            width=100)
 
 #p1$plot[[1]]
+
+
+plotQMultiline(flist[1], returnplot=F,spl=100,useindlab=T,
+               imgtype="pdf",exportplot=T,sortind="Cluster1",showlegend=T,
+               outputfilename="Ncrassa.joined_multiline.K_2")
+
+p <- plotQMultiline(flist[2], returnplot=T,spl=100,useindlab=T,
+               imgtype="pdf",exportplot=T,sortind="Cluster1",showlegend=T,
+               outputfilename="Ncrassa.joined_multiline.K_3")
+#grid.arrange(p$plot[[1]][[1]])
+
+p <- plotQMultiline(flist[3], returnplot=T,spl=100,useindlab=T,showlegend=T,
+               imgtype="pdf",exportplot=T,sortind="Cluster1",
+               outputfilename="Ncrassa.joined_multiline.K_4")
+#grid.arrange(p$plot[[1]][[1]])
