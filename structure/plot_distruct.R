@@ -18,7 +18,9 @@ clist <- list(
 "wong"=c("#000000","#E69F00","#56B4E9","#009E73","#F0E442","#006699","#D55E00","#CC79A7"),
 "krzywinski"=c("#006E82","#8214A0","#005AC8","#00A0FA","#FA78FA","#14D2DC","#AA0A3C","#FA7850","#0AB45A","#F0F032","#A0FA82","#FAE6BE"))
 
-
+group <- read.csv("Ncrassa.popset_inferred.csv",header=T,stringsAsFactors = F)
+onelabsetrep <- group[,2,drop=FALSE]
+colnames(group) <- c("Strain","GroupAssign")
 inds <- read.table("NcrassaOR74A.Run1.popset",header=FALSE,stringsAsFactors=F)
 #inds$V1
 ffiles <- list.files(path=".",pattern="*.meanQ",full.names=T)
@@ -37,28 +39,50 @@ summariseQ(tr1, writetable=TRUE)
 #plotQ(qlist=flist[4],clustercol=clist$shiny)
 #plotQ(qlist=flist[5],clustercol=clist$shiny)
 #plotQ(qlist=flist, imgoutput="join")
-
-p1 <- plotQ(flist,
+plotQ(flist,
             imgoutput="join",returnplot=T,exportplot=T,linesize=0.8,pointsize=4,
             quiet=T,basesize=8,showlegend=T,sortind="Cluster1",sharedindlab=F,
             clustercol=clist$shiny,splab=paste0("K=",sapply(flist,ncol)),
-            outputfilename="Ncrassa.joinedplot.pdf",imgtype="pdf",
+            outputfilename="Ncrassa.joinedplot",imgtype="pdf",
             useindlab=T,showindlab=T,
             width=100)
 
-#p1$plot[[1]]
+
+plotQ(flist[c(5)],returnplot=T,exportplot=T,quiet=T,basesize=8,ordergrp=T,
+            grplab=onelabsetrep,grplabsize=4,linesize=0.8,pointsize=3,outputfilename="Ncrassa.combined.groupK5", imgtype="pdf",
+            sharedindlab=F,showindlab=F,width=100)
+
+plotQ(flist[c(3:8)],imgoutput="join",returnplot=T,exportplot=T,quiet=T,basesize=8,ordergrp=T,
+      grplab=onelabsetrep,grplabsize=3,linesize=0.8,pointsize=3,outputfilename="Ncrassa.combined.groups", imgtype="pdf",
+      sharedindlab=F,showindlab=F,width=100)
 
 
-plotQMultiline(flist[1], returnplot=F,spl=100,useindlab=T,
-               imgtype="pdf",exportplot=T,sortind="Cluster1",showlegend=T,
-               outputfilename="Ncrassa.joined_multiline.K_2")
+#plotQMultiline(flist[1], returnplot=F,spl=100,useindlab=T,
+#               imgtype="pdf",exportplot=T,sortind="Cluster1",showlegend=T,
+#               outputfilename="Ncrassa.joined_multiline.K_2")
 
-p <- plotQMultiline(flist[2], returnplot=T,spl=100,useindlab=T,
+p <- plotQMultiline(flist[2], returnplot=T,spl=100,useindlab=T,grplab=onelabsetrep,grplabsize=3,ordergrp=T,
                imgtype="pdf",exportplot=T,sortind="Cluster1",showlegend=T,
                outputfilename="Ncrassa.joined_multiline.K_3")
 #grid.arrange(p$plot[[1]][[1]])
 
 p <- plotQMultiline(flist[3], returnplot=T,spl=100,useindlab=T,showlegend=T,
-               imgtype="pdf",exportplot=T,sortind="Cluster1",
+               imgtype="pdf",exportplot=T,sortind="Cluster1",grplab=onelabsetrep,grplabsize=3,ordergrp=T,
                outputfilename="Ncrassa.joined_multiline.K_4")
+p <- plotQMultiline(flist[4], returnplot=T,spl=100,useindlab=T,showlegend=T,
+                    imgtype="pdf",exportplot=T,sortind="Cluster1",grplab=onelabsetrep,grplabsize=3,ordergrp=T,
+                    outputfilename="Ncrassa.joined_multiline.K_5")
+p <- plotQMultiline(flist[5], returnplot=T,spl=100,useindlab=T,showlegend=T,
+                    imgtype="pdf",exportplot=T,sortind="Cluster1",grplab=onelabsetrep,grplabsize=3,ordergrp=T,
+                    outputfilename="Ncrassa.joined_multiline.K_6")
+p <- plotQMultiline(flist[6], returnplot=T,spl=100,useindlab=T,showlegend=T,
+                    imgtype="pdf",exportplot=T,sortind="Cluster1",grplab=onelabsetrep,grplabsize=3,ordergrp=T,
+                    outputfilename="Ncrassa.joined_multiline.K_7")
+p <- plotQMultiline(flist[7], returnplot=T,spl=100,useindlab=T,showlegend=T,
+                    imgtype="pdf",exportplot=T,sortind="Cluster1",grplab=onelabsetrep,grplabsize=3,ordergrp=T,
+                    outputfilename="Ncrassa.joined_multiline.K_8")
+p <- plotQMultiline(flist[8], returnplot=T,spl=100,useindlab=T,showlegend=T,
+                    imgtype="pdf",exportplot=T,sortind="Cluster1",grplab=onelabsetrep,grplabsize=3,ordergrp=T,
+                    outputfilename="Ncrassa.joined_multiline.K_9")
+
 #grid.arrange(p$plot[[1]][[1]])
