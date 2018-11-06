@@ -44,24 +44,21 @@ minor
 xmax = ceiling(max(d$pos) * 1.03)
 xmin = floor(max(d$pos) * -0.03)
 
-pdffile="plots/Genomewide_cov_by_10kb_win_mosdepth.pdf"
-pdf(pdffile,width=7,height=2.5)
-Title="Depth of sequence coverage"
-
-#What about the color scheme I have for Ul/LL/Sp in Fig 1 which is Upper=bright blue, lower=red, sputum=black/dark gray
-
-
+#pdffile="plots/Genomewide_cov_by_10kb_win_mosdepth.pdf"
+#pdf(pngfile,width=30)
+#Title="Depth of sequence coverage - All Strains"
 #p <- ggplot(d,
-#            aes(x=pos,y=Depth,color=Strain)) +
-#	        geom_vline(mapping=NULL, xintercept=minorB,alpha=0.5,size=0.1,colour='grey15')	+
-#    geom_point(alpha=0.8,size=0.4,shape=16) +
-#    labs(title=Title,xlab="Position",y="Normalized Read Depth") +
-#    scale_x_continuous(name="Chromosome", expand = c(0, 0),
-#                       breaks = ticks,                      
+#            aes(x=pos,y=Depth,color=factor(CHR))) +
+#	          geom_vline(mapping=NULL, xintercept=minorB,alpha=0.5,size=0.1,colour='grey15')	+
+#            scale_colour_brewer(palette = "Set2") +
+#            geom_point(alpha=0.9,size=0.1,shape=16) +
+#            labs(title=Title,xlab="Position",y="Normalized Read Depth") +
+##            scale_x_continuous(name="Chromosome", expand = c(0, 0),
+##                       breaks = ticks,                      
 #                       labels=(unique(d$CHR))) +
-#    scale_y_continuous(name="Normalized Read Depth", expand = c(0, 0),
-#                       limits = c(0,3)) + theme_classic() + 
-#    guides(fill = guide_legend(keywidth = 3, keyheight = 1)) 
+#              scale_y_continuous(name="Normalized Read Depth", expand = c(0, 0),
+#                       limits = c(0,3)) + theme_classic()  
+#            + guides (fill=FALSE)
 #p
 
 
@@ -78,9 +75,8 @@ for (Acc in unique(d$Strain) ) {
                        breaks=ticks,
                        labels=(unique(d$CHR))) +
     scale_y_continuous(name="Normalized Read Depth", expand = c(0, 0),
-                       limits = c(0,3)) + theme_classic() +
-    guides(fill = guide_legend(keywidth = 3, keyheight = 1))
- ggsave(sprintf("plots/StrainPlot_10kb.%s_%s.pdf",strainname,Acc),p,width=7,height=2.5)
+                       limits = c(0,3)) + theme_classic() + guides(fill = FALSE)
+ ggsave(sprintf("plots/StrainPlot_10kb.%s_%s.pdf",strainname,Acc),p,width=6,height=2.5)
 }
 
 #for (n in chrlist ) {
@@ -99,4 +95,3 @@ for (Acc in unique(d$Strain) ) {
 # ggsave(sprintf("plots/ChrPlot_10kb.Chr%s.pdf",n),p,width=7,height=2.5)
 # p
 #}
-
