@@ -44,9 +44,9 @@ snpgdsDrawTree(rv, main="Ncrassa Mut Strains",
                edgePar=list(col=rgb(0.5,0.5,0.5, 0.75), t.col="black"))
 
 table(rv$samp.group)
-df <- data.frame(sample_id = pca$sample.id,
-           pop       = rv$samp.group)
-write.table(df,"Ncrassa.popset_inferred.tab")
+df = data.frame(group = rv$samp.group)
+rownames(df) = pca$sample.id
+write.csv(df,"Ncrassa.popset_inferred.csv")
 tab <- data.frame(sample.id = pca$sample.id,
                   pop = rv$samp.group,
                   EV1=pca$eigenvect[,1], # PCA vector 1
