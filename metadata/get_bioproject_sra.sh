@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 mkdir -p bioproj
-for prj in $(cat bioproject_result.long.txt);
+#for prj in $(cat bioproject_result.long.txt);
+for prj in $(cat ncrassa_bioprojects.txt)
 do
 if [ ! -f  bioproj/$prj.runinfo.csv ]; then
  curl -o bioproj/$prj.runinfo.csv "https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?save=efetch&rettype=runinfo&db=sra&term=$prj"
