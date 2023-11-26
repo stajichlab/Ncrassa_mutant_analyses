@@ -6,6 +6,6 @@ This is a repository to support data analysis for the 500+ morphlogical mutant s
 The files support data downloads and construction of metadata tables from the public NCBI SRA and BioProject records. 
 The work here can support data interrogation and loading of these genomes into http://fungidb.org or other resources.
 
-See the (bioprojects list)[metadata/bioprojects.csv]
+See the [bioprojects list](metadata/bioprojects.csv)
 
 Jason Stajich - jason.stajich[at]ucr.edu - http://lab.stajich.org
